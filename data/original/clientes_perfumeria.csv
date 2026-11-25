@@ -1,0 +1,1521 @@
+id_cliente,genero,edad,sucursal,canal_preferido,tarjeta_departamental,antiguedad_meses,compras_anuales,gasto_anual,ticket_promedio,dias_ultima_compra,pct_compras_descuento,familia_olfativa,concentracion_preferida,linea_preferida,satisfaccion
+CL00868,F,40.0,Poniente,Tienda física,Sí,67,19,34695.95,1826.1,18,30.7,Amaderada,Eau de Cologne,Nicho,5.0
+CL01113,M,25.0,Norte,Tienda física,No,20,1,1866.0,1866.0,91,49.7,Oriental,Eau de Parfum,Nicho,3.0
+CL00485,F,19.0,Centro,Tienda física,Sí,116,11,21488.5,1953.5,27,18.8,Amaderada,Eau de Parfum,Nicho,4.0
+CL00571,M,31.0,Norte,Tienda física,No,7,3,6954.32,2318.11,137,43.4,Oriental,Eau de Parfum,Diseñador,3.0
+CL00955,F,37.0,Poniente,Tienda física,Sí,29,7,3305.48,472.21,21,84.3,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL01250,F,41.0,Poniente,En línea,No,7,1,602.21,602.21,39,20.1,Amaderada,Eau de Toilette,Celebridad / masivo,4.0
+CL01019,F,38.0,Poniente,Tienda física,No,6,3,"$5,165.11",1721.7,121,20.7,Floral,Eau de Cologne,Diseñador,3.0
+CL00228,M,50.0,Centro,Tienda física,No,42,1,916.17,916.17,365,49.3,,Eau de Toilette,Nicho,2.0
+CL00925,M,38.0,Centro,Tienda física,No,14,1,1480.88,1480.88,54,20.3,Floral,Eau de Parfum,Diseñador,3.0
+CL01161,M,38.0,Sur,En línea,Sí,3,8,9303.0,1162.88,20,81.3,Floral,Eau de Parfum,Celebridad / masivo,4.0
+CL00850,F,45.0,Poniente,Tienda física,Sí,113,7,16272.87,2324.7,33,18.4,Floral,Eau de Parfum,Diseñador,3.0
+CL00345,M,53.0,Centro,Tienda física,Sí,50,6,12618.09,2103.02,200,34.1,Amaderada,Eau de Cologne,Diseñador,3.0
+CL01344,M,27.0,Norte,Tienda física,No,43,7,4767.19,681.03,17,63.8,Cítrica,Eau de Toilette,Diseñador,4.0
+CL00805,F,38.0,Centro,En línea,Sí,100,8,4539.73,567.47,22,58.9,Floral,Eau de Toilette,Diseñador,5.0
+CL00754,F,39.0,Norte,En línea,No,36,7,6366.96,909.57,31,79.0,Oriental,Parfum,Diseñador,4.0
+CL01365,F,46.0,Norte,Tienda física,No,33,2,2332.12,1166.06,97,60.7,Oriental,Eau de Toilette,Nicho,3.0
+CL00589,F,26.0,Poniente,En línea,No,72,7,7199.77,1028.54,69,53.1,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00026,F,29.0,Centro,En línea,Sí,97,6,3085.99,514.33,27,87.0,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00930,F,25.0,Norte,Tienda física,No,28,9,8921.31,991.26,25,79.4,Fresca,Eau de Toilette,Diseñador,4.0
+CL01395,M,62.0,Poniente,Tienda física,Sí,44,3,3663.96,1221.32,127,62.3,Fresca,Eau de Toilette,Diseñador,3.0
+CL00575, f ,38.0,Centro,En línea,Sí,16,8,11005.7,1375.71,38,68.5,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL00100,F,31.0,Poniente,En línea,No,16,3,"$5,637.00",1879.0,86,10.2,Floral,Eau de Toilette,Nicho,3.0
+CL01151,M,29.0,Centro,Tienda física,Sí,16,4,2772.75,693.19,27,65.8,Floral,Eau de Toilette,Celebridad / masivo,5.0
+CL01347,M,30.0,Sur,En línea,Sí,35,8,4818.03,602.25,47,92.3,Cítrica,Eau de Toilette,Celebridad / masivo,4.0
+CL00921,F,26.0,Sur,En línea,Sí,19,2,1829.92,914.96,20,60.5,Floral,Eau de Cologne,Celebridad / masivo,5.0
+CL01013,M,,Sur,Tienda física,Sí,35,8,11151.59,1393.95,26,92.4,Floral,Eau de Toilette,Diseñador,4.0
+CL00739,M,47.0,Sur,Tienda física,No,43,6,7503.67,1250.61,83,43.4,Amaderada,Eau de Cologne,Celebridad / masivo,3.0
+CL01246,F,46.0,Centro,En línea,No,18,2,3512.76,1756.38,293,37.6,Fresca,Parfum,Diseñador,3.0
+CL00002,M,47.0,Poniente,En línea,Sí,25,6,9387.7,1564.62,59,20.9,Floral,Eau de Toilette,Diseñador,3.0
+CL01295,F,39.0,Centro,Tienda física,No,29,4,"$5,870.48",1467.62,10,24.9,Oriental,Eau de Parfum,Diseñador,4.0
+CL00274,F,24.0,Sur,Tienda física,No,33,3,"$3,302.14",1100.71,87,15.7,Oriental,Eau de Parfum,Celebridad / masivo,3.0
+CL00572,F,66.0, Poniente ,Tienda física,No,53,1,583.69,583.69,237,23.3,Floral,Eau de Toilette,Diseñador,4.0
+CL00147,M,34.0,Centro,Tienda física,Sí,70,10,33705.53,3370.55,32,30.7,Amaderada,Eau de Parfum,Diseñador,5.0
+CL01245,Masculino,37.0,NORTE,Tienda física,No,38,1,882.5,882.5,84,24.1,Cítrica,Eau de Toilette,Diseñador,4.0
+CL00150,M,26.0,Norte,En línea,No,7,8,4751.91,593.99,47,56.5,Floral,Eau de Parfum,Celebridad / masivo,4.0
+CL00647,F,55.0,Sur,Tienda física,No,15,2,2521.42,1260.71,51,38.1,Cítrica,Eau de Parfum,Celebridad / masivo,4.0
+CL01464,F,32.0,Centro,En línea,No,26,7,5921.61,845.94,47,47.2,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL00172,M,38.0,Norte,En línea,No,65,7,9350.71,1335.82,56,47.3,Oriental,Eau de Parfum,Celebridad / masivo,4.0
+CL01239,M,33.0,Poniente,Tienda física,Sí,99,5,3867.5,773.5,14,92.0,Fresca,Eau de Cologne,Diseñador,5.0
+CL00353,F,44.0,Norte,Tienda física,Sí,54,7,17717.47,2531.07,22,18.4,Amaderada,Eau de Toilette,Nicho,4.0
+CL01277,M,34.0,Sur,En línea,Sí,29,6,5533.64,922.27,27,85.1,Fresca,Eau de Cologne,Celebridad / masivo,4.0
+CL00746,F,28.0,Norte,Tienda física,Sí,11,3,7417.11,2472.37,119,55.7,,Eau de Toilette,Diseñador,4.0
+CL00041,M,47.0,Centro,Tienda física,No,13,4,4307.42,1076.86,120,33.5,Oriental,Eau de Toilette,Diseñador,3.0
+CL00391,F,18.0,Poniente,En línea,No,20,1,2548.43,2548.43,49,15.9,Fresca,Eau de Toilette,Diseñador,3.0
+CL00468,M,53.0,Centro,En línea,No,9,3,5492.59,1830.86,136,30.8,Oriental,Eau de Cologne,Diseñador,4.0
+CL00349, m,45.0,Sur,Tienda física,Sí,55,8,16590.57,2073.82,25,14.5,Oriental,Parfum,Celebridad / masivo,5.0
+CL01372,F,37.0, Poniente ,Tienda física,No,27,4,4244.52,1061.13,66,30.7,Floral,Eau de Parfum,Celebridad / masivo,2.0
+CL00060,M,39.0,Centro,Tienda física,No,58,6,16109.19,2684.87,229,7.3,Cítrica,Eau de Cologne,Diseñador,4.0
+CL01456,M,41.0,Norte,Tienda física,No,28,1,1205.2,1205.2,277,32.8,Floral,Eau de Toilette,Celebridad / masivo,2.0
+CL00212,F,42.0,Centro,Tienda física,Sí,37,7,24075.82,3439.4,137,16.0,Oriental,Eau de Toilette,Celebridad / masivo,3.0
+CL00542,F,63.0,Sur,En línea,No,48,1,1439.58,1439.58,266,41.9,Floral,Eau de Parfum,Diseñador,3.0
+CL00478,F,47.0,Centro,Tienda física,Sí,10,3,2674.12,891.37,332,47.7,Amaderada,Parfum,Diseñador,2.0
+CL01374,F,47.0,Norte,Tienda física,Sí,36,3,"$4,048.59",1349.53,278,25.9,Fresca,Eau de Parfum,Diseñador,4.0
+CL01258,mujer,18.0,Poniente,En línea,No,9,8,10494.7,1311.84,25,44.8,Fresca,Eau de Parfum,Diseñador,3.0
+CL00146,F,39.0,Sur,Tienda física,No,40,5,5950.68,1190.14,18,62.2,Floral,Eau de Cologne,Diseñador,4.0
+CL01462,M,55.0,Centro,En línea,Sí,79,9,23655.25,2628.36,37,0.7,Floral,Eau de Parfum,Diseñador,4.0
+CL00620,M,49.0,Centro,Tienda física,Sí,35,10,23302.33,2330.23,21,12.8,Amaderada,Parfum,Nicho,4.0
+CL01480,F,45.0,Centro,Tienda física,Sí,37,11,35669.18,3242.65,23,14.3,Amaderada,Eau de Parfum,Diseñador,5.0
+CL00971,M,35.0,Norte,Tienda física,No,11,6,7398.54,1233.09,50,95.3,Cítrica,Eau de Toilette,Diseñador,3.0
+CL01387,F,24.0,Sur,Tienda física,Sí,10,10,"$9,067.46",906.75,31,80.0,Fresca,Eau de Toilette,Celebridad / masivo,5.0
+CL00793,M,37.0,Sur,Tienda física,No,4,3,5351.35,1783.78,145,30.9,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL00943,M,28.0,Poniente,En línea,No,21,3,4515.01,1505.0,68,14.1,Fresca,Eau de Parfum,Diseñador,5.0
+CL00089,M,28.0,Centro,Tienda física,No,8,4,5007.9,1251.97,178,45.7,Oriental,Eau de Parfum,Celebridad / masivo,4.0
+CL00294,F,28.0,Poniente,Tienda física,Sí,5,2,2131.53,1065.77,47,74.5,Floral,Eau de Toilette,Diseñador,4.0
+CL01484,F,,Norte,En línea,Sí,22,5,4091.8,818.36,65,85.8,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL01482,F,40.0,Poniente,En línea,Sí,41,13,21419.7,1647.67,31,2.7,Amaderada,Eau de Parfum,Celebridad / masivo,5.0
+CL00631,F,42.0,Norte,En línea,Sí,23,10,16932.67,1693.27,48,27.2,Floral,Eau de Parfum,Celebridad / masivo,4.0
+CL00027,F,31.0,Poniente,En línea,Sí,19,8,7504.24,938.03,38,78.1,Floral,Eau de Cologne,Diseñador,5.0
+CL01076,M,39.0,Norte,Tienda física,Sí,82,11,31019.36,2819.94,3,1.0,Amaderada,Parfum,Nicho,3.0
+CL01140,F,30.0,Norte,Tienda física,No,42,3,2949.37,983.12,48,59.2,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00237,F,24.0,Poniente,Tienda física,No,23,7,5612.03,801.72,8,66.4,Floral,Eau de Parfum,Diseñador,4.0
+CL01385,M,20.0,Norte,Tienda física,No,29,11,6077.7,552.52,23,53.4,Floral,Eau de Toilette,Diseñador,3.0
+CL01244, m,59.0,Sur,Tienda física,No,47,1,2008.42,2008.42,142,24.6,Floral,Parfum,Diseñador,5.0
+CL01235, f ,39.0,Sur,Tienda física,No,8,7,7210.91,1030.13,38,84.3,Fresca,Eau de Toilette,Diseñador,3.0
+CL00719,F,36.0,Norte,En línea,No,19,3,6005.71,2001.9,40,7.1,Amaderada,Eau de Cologne,Diseñador,3.0
+CL00269,F,68.0,Centro,Tienda física,Sí,96,1,1494.9,1494.9,248,54.2,Oriental,Eau de Cologne,Diseñador,3.0
+CL00151,F,36.0,Poniente,Tienda física,No,55,2,2350.93,1175.47,84,24.9,Floral,Eau de Toilette,Celebridad / masivo,2.0
+CL00812,F,28.0,Sur,Tienda física,No,69,2,3049.83,1524.92,284,64.0,Cítrica,Eau de Parfum,Celebridad / masivo,4.0
+CL01278,M,26.0,Centro,En línea,No,41,4,1903.4,475.85,36,71.7,Cítrica,Eau de Parfum,Celebridad / masivo,3.0
+CL01436,M,37.0,Poniente,En línea,Sí,143,11,32947.6,2995.24,14,24.2,Fresca,Eau de Parfum,Diseñador,5.0
+CL01487,F,40.0,Norte,En línea,No,31,19,58526.16,3080.32,18,10.0,Oriental,Eau de Parfum,Nicho,5.0
+CL00415,F,22.0,Centro,Tienda física,No,20,9,4180.97,464.55,33,72.4,Cítrica,Eau de Toilette,Nicho,4.0
+CL00873,F,22.0,Poniente,Tienda física,Sí,22,4,9811.88,2452.97,68,46.0,Cítrica,Parfum,Diseñador,3.0
+CL01488,Femenino,26.0,Norte,En línea,No,36,1,1129.28,1129.28,264,23.5,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00072,F,37.0,Norte,En línea,No,11,5,3417.65,683.53,21,69.6,Amaderada,Eau de Toilette,Celebridad / masivo,5.0
+CL01051,M,39.0,Centro,Tienda física,Sí,46,8,15439.42,1929.93,10,14.0,Floral,Eau de Toilette,Diseñador,4.0
+CL00579,M,58.0,Norte,Tienda física,Sí,42,7,21016.52,3002.36,35,24.8,Floral,Eau de Parfum,Nicho,4.0
+CL00747,M,23.0,Centro,En línea,No,25,1,1418.3,1418.3,225,43.2,Amaderada,Eau de Cologne,Diseñador,2.0
+CL00380,F,45.0,Centro,Tienda física,No,4,1,1517.5,1517.5,140,13.0,Fresca,Eau de Parfum,Diseñador,3.0
+CL00282,MASCULINO,47.0,Sur,En línea,No,31,8,10553.27,1319.16,44,59.5,Floral,Eau de Toilette,Diseñador,
+CL01483,M,23.0,Centro,En línea,No,29,1,1231.34,1231.34,157,37.0,Floral,Eau de Parfum,Celebridad / masivo,3.0
+CL00303,M,55.0,Norte,Tienda física,Sí,30,8,34099.31,4262.41,16,2.2,Amaderada,Parfum,Diseñador,4.0
+CL00742,M,36.0,Centro,Tienda física,Sí,25,14,9309.11,664.94,58,62.7,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL00605,M,51.0,Norte,Tienda física,Sí,31,1,1551.6,1551.6,365,12.0,Floral,Eau de Parfum,Celebridad / masivo,4.0
+CL00947,F,43.0,Sur,En línea,Sí,27,13,16477.75,1267.52,4,57.1,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00503,F,42.0,Poniente,Tienda física,No,9,2,3091.49,1545.74,191,31.3,Fresca,Eau de Parfum,Diseñador,3.0
+CL01327,F,28.0,centro,Tienda física,Sí,79,11,35173.55,3197.6,13,6.5,Oriental,Eau de Parfum,Diseñador,5.0
+CL00136,F,30.0,PONIENTE,En línea,No,17,5,10952.88,2190.58,27,28.2,Oriental,Eau de Toilette,Celebridad / masivo,5.0
+CL00655,M,36.0,Centro,En línea,No,93,1,1082.87,1082.87,229,26.9,Floral,Eau de Toilette,Diseñador,3.0
+CL00034,M,34.0,Sur,Tienda física,Sí,56,2,3457.39,1728.7,62,17.0,Amaderada,Eau de Toilette,Diseñador,4.0
+CL00593,M,33.0,Sur,En línea,No,68,1,1212.74,1212.74,270,48.5,Oriental,Eau de Parfum,Diseñador,2.0
+CL01251,M,45.0,Poniente,Tienda física,No,11,1,2227.34,2227.34,102,31.8,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00737,F,41.0,Centro,En línea,Sí,41,7,5336.46,762.35,38,64.5,Fresca,Eau de Toilette,Diseñador,3.0
+CL01045,M,38.0,Sur,En línea,No,59,1,1152.32,1152.32,285,43.1,Fresca,Parfum,Celebridad / masivo,4.0
+CL00834,F,34.0,Sur,En línea,No,2,8,6269.45,783.68,13,60.7,Floral,Eau de Parfum,Diseñador,2.0
+CL00093,F,38.0,Centro,Tienda física,No,80,1,897.98,897.98,45,22.9,Oriental,Eau de Parfum,Celebridad / masivo,2.0
+CL00954,F,37.0,Centro,Tienda física,No,36,1,2712.95,2712.95,126,17.4,Cítrica,Parfum,Diseñador,4.0
+CL01493,F,41.0,Centro,En línea,No,17,1,769.31,769.31,243,27.7,Cítrica,Eau de Toilette,Diseñador,3.0
+CL00342,M,51.0,Sur,Tienda física,Sí,60,1,339.55,339.55,116,43.1,Amaderada,Eau de Toilette,Diseñador,4.0
+CL01260,F,18.0,Sur,Tienda física,No,2,1,1745.44,1745.44,-90,39.0,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00935,M,29.0,Poniente,Tienda física,No,23,5,4732.2,946.44,51,61.5,Oriental,Eau de Toilette,Diseñador,5.0
+CL00462,M,57.0,Centro,Tienda física,No,29,5,5742.15,1148.43,129,35.1,Floral,Eau de Parfum,Diseñador,4.0
+CL00714,M,57.0,Sur,Tienda física,No,162,2,3626.9,1813.45,149,70.2,Floral,Eau de Parfum,Diseñador,3.0
+CL00367,M,46.0,Sur,En línea,No,39,4,6389.62,1597.41,229,29.4,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00040, f ,19.0,Centro,En línea,Sí,12,7,10423.47,1489.07,49,86.6,Floral,Parfum,Diseñador,
+CL00397,F,28.0,Sur,Tienda física,Sí,5,10,13477.32,1347.73,38,46.7,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00933,F,18.0,Centro,Tienda física,Sí,10,4,2450.14,612.53,30,85.2,Oriental,Eau de Toilette,Celebridad / masivo,5.0
+CL00599,F,42.0,Poniente,Tienda física,Sí,62,2,2941.16,1470.58,262,34.3,Floral,Parfum,Diseñador,4.0
+CL00487,F,49.0,Sur,Tienda física,Sí,94,12,31719.27,2643.27,34,8.3,Floral,Parfum,Nicho,3.0
+CL01492,F,42.0,Sur,Tienda física,Sí,6,1,2407.3,2407.3,158,19.1,Amaderada,Eau de Parfum,Diseñador,3.0
+CL00770,M,58.0,Sur,En línea,No,34,2,3900.01,1950.0,195,15.4,Amaderada,Eau de Parfum,Diseñador,5.0
+CL00308,F,31.0,Centro,Tienda física,Sí,31,10,5895.52,589.55,36,41.4,Fresca,Eau de Parfum,Diseñador,5.0
+CL01049,Masculino,49.0,Norte,En línea,No,32,1,1143.26,1143.26,204,41.4,Cítrica,Eau de Toilette,Nicho,3.0
+CL00527, m,51.0,Centro,Tienda física,No,32,1,1234.88,1234.88,156,61.7,Fresca,Eau de Parfum,Diseñador,4.0
+CL00103,M,40.0,Norte,En línea,No,7,3,7123.96,2374.65,100,21.9,Floral,Eau de Parfum,Diseñador,4.0
+CL01405,M,22.0,Sur,Tienda física,No,60,4,10107.87,2526.97,46,53.0,Floral,Parfum,Diseñador,3.0
+CL00759,M,55.0,Centro,En línea,No,32,4,7381.12,1845.28,200,81.7,Amaderada,Eau de Parfum,Diseñador,3.0
+CL00634,M,18.0,Sur,En línea,No,14,3,4125.78,1375.26,52,10.0,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00010,M,40.0,Centro,Tienda física,No,25,5,5066.62,1013.32,57,62.3,Cítrica,Eau de Parfum,Diseñador,5.0
+CL00063,F,43.0,Poniente,Tienda física,No,19,3,5860.23,1953.41,65,13.9,Floral,Eau de Parfum,Diseñador,5.0
+CL00296,M,45.0,Centro,Tienda física,No,28,2,1888.74,944.37,58,61.3,Fresca,Eau de Toilette,Diseñador,4.0
+CL00314,F,43.0,Centro,En línea,No,28,2,1975.48,987.74,206,42.7,Amaderada,Eau de Toilette,Celebridad / masivo,3.0
+CL00820,F,41.0,Sur,Tienda física,Sí,38,1,1318.58,1318.58,227,53.8,Floral,Eau de Parfum,Diseñador,3.0
+CL00405,M,43.0,Centro,Tienda física,Sí,86,18,30224.1,1679.12,17,4.6,Amaderada,Eau de Parfum,Nicho,4.0
+CL00650,M,41.0,Norte,En línea,No,98,10,16229.27,1622.93,27,9.2,Oriental,Parfum,Diseñador,5.0
+CL00574,F,22.0,Sur,Tienda física,No,10,4,11453.43,2863.36,86,14.0,Amaderada,Eau de Parfum,Diseñador,3.0
+CL00170,F,18.0,Sur,En línea,No,43,3,2709.97,903.32,20,85.6,Oriental,Eau de Toilette,Celebridad / masivo,5.0
+CL00337,M,31.0,Centro,Tienda física,Sí,60,1,1231.77,1231.77,116,61.2,Oriental,Eau de Parfum,Diseñador,3.0
+CL00251,M,18.0,Poniente,En línea,No,13,1,1377.66,1377.66,224,54.1,Floral,Eau de Toilette,Diseñador,4.0
+CL00529,F,32.0, Centro ,Tienda física,No,21,8,7851.38,981.42,22,84.0,Fresca,Eau de Parfum,Celebridad / masivo,3.0
+CL00749,F,37.0,Sur,Tienda física,No,22,1,"$1,754.67",1754.67,148,44.1,Amaderada,Eau de Toilette,Diseñador,3.0
+CL01306,F,53.0,Sur,Tienda física,No,24,1,554.23,554.23,269,35.7,Floral,Eau de Parfum,Diseñador,3.0
+CL01409,F,19.0,Norte,En línea,No,13,12,11492.07,957.67,26,88.6,Floral,Parfum,Celebridad / masivo,5.0
+CL00020,F,33.0,Poniente,En línea,Sí,74,6,6754.4,1125.73,41,77.2,Fresca,Parfum,Diseñador,3.0
+CL00287,FEMENINO,49.0,Norte,Tienda física,No,10,8,13809.76,1726.22,34,50.6,Oriental,Parfum,Diseñador,4.0
+CL01307,F,31.0,Poniente,En línea,Sí,41,6,5599.57,933.26,12,46.3,Fresca,Eau de Toilette,Diseñador,4.0
+CL00304,M,45.0,Sur,En línea,No,47,3,5049.57,1683.19,117,21.8,Fresca,Eau de Toilette,Diseñador,3.0
+CL00701,M,52.0,Sur,En línea,Sí,82,7,6959.62,994.23,62,51.4,Oriental,Eau de Parfum,Celebridad / masivo,3.0
+CL01412,F,52.0,Poniente,En línea,Sí,16,1,1604.69,1604.69,95,41.6,Floral,Eau de Parfum,Diseñador,4.0
+CL00557,F,29.0,Norte,Tienda física,No,28,2,4694.05,2347.03,135,22.0,Floral,Eau de Parfum,Celebridad / masivo,3.0
+CL01115,F,31.0,Poniente,En línea,No,22,5,13271.74,2654.35,80,25.9,Floral,Eau de Parfum,Diseñador,2.0
+CL01357,F,36.0,Poniente,En línea,Sí,14,9,9054.87,1006.1,18,65.7,Oriental,Eau de Toilette,Diseñador,5.0
+CL00102,F,39.0,Centro,Tienda física,No,93,11,21719.06,1974.46,10,13.2,Oriental,Eau de Parfum,Nicho,5.0
+CL00639,mujer,46.0,Centro,En línea,No,19,5,5660.92,1132.18,33,81.3,Oriental,Eau de Toilette,Celebridad / masivo,3.0
+CL01166,M,56.0,Centro,Tienda física,No,11,1,1442.16,1442.16,315,34.2,Amaderada,Eau de Parfum,Celebridad / masivo,3.0
+CL01036,F,63.0,Sur,Tienda física,No,12,1,1456.87,1456.87,94,63.6,Cítrica,Eau de Toilette,Diseñador,2.0
+CL01435,Femenino,18.0,Norte,Tienda física,Sí,28,7,16660.1,2380.01,17,6.8,Amaderada,Parfum,Diseñador,4.0
+CL01033,F,40.0,Sur,En línea,No,10,8,11248.35,1406.04,25,13.6,Floral,Parfum,Nicho,4.0
+CL01199,M,43.0,Sur,Tienda física,No,82,9,25288.04,2809.78,23,7.0,Amaderada,Eau de Parfum,Nicho,4.0
+CL00059,F,43.0,Poniente,Tienda física,Sí,13,9,14964.98,1662.78,29,9.6,Floral,Eau de Parfum,Nicho,5.0
+CL00847,F,37.0,Sur,Tienda física,No,34,6,7929.82,1321.64,97,16.6,Amaderada,Eau de Toilette,Diseñador,
+CL00440,M,35.0,Norte,Tienda física,No,17,8,4995.23,624.4,21,91.3,Cítrica,Eau de Toilette,Celebridad / masivo,5.0
+CL00646,M,34.0,Norte,Tienda física,No,54,4,4706.44,1176.61,137,17.7,Amaderada,Eau de Parfum,Diseñador,4.0
+CL01470,M,33.0,Poniente,Tienda física,No,46,7,5776.09,825.16,64,74.8,Cítrica,Eau de Toilette,Diseñador,3.0
+CL00804,F,40.0,Sur,Tienda física,No,29,4,3654.98,913.75,35,58.1,Oriental,Eau de Cologne,Celebridad / masivo,3.0
+CL00486,M,47.0,Centro,Tienda física,No,16,1,1223.74,1223.74,134,51.5,Oriental,Parfum,Diseñador,3.0
+CL01491,F,47.0,Centro,Tienda física,No,18,2,"$3,062.87",1531.44,132,40.0,Oriental,Eau de Parfum,Diseñador,4.0
+CL01466,M,52.0,Poniente,Tienda física,Sí,89,10,24859.85,2485.98,9,26.5,Floral,Eau de Parfum,Nicho,4.0
+CL00428,Femenino,51.0,Norte,Tienda física,No,47,16,31851.77,1990.74,34,6.5,Amaderada,Eau de Parfum,Nicho,5.0
+CL00569,Masculino,48.0,Poniente,Tienda física,No,42,5,11494.94,2298.99,82,40.2,Fresca,Eau de Toilette,Diseñador,3.0
+CL00987,F,47.0,Poniente,En línea,Sí,180,6,24239.16,4039.86,16,4.9,Amaderada,Eau de Parfum,Diseñador,5.0
+CL00126,M,48.0,Centro,Tienda física,Sí,42,9,35029.22,3892.14,20,13.8,Floral,Eau de Parfum,Diseñador,5.0
+CL01132,F,52.0,Centro,En línea,No,17,1,751.46,751.46,365,38.4,Fresca,Eau de Toilette,Diseñador,3.0
+CL00866,M,32.0,Sur,En línea,Sí,24,10,24414.76,2441.48,16,4.2,Amaderada,Eau de Parfum,Nicho,5.0
+CL01434,F,35.0,Centro,Tienda física,Sí,110,8,21667.59,2708.45,21,10.5,Amaderada,Parfum,Nicho,5.0
+CL00968,M,56.0,Norte,En línea,Sí,20,3,"$9,503.15",3167.72,22,11.2,Amaderada,Eau de Parfum,Diseñador,5.0
+CL01288,F,40.0,Centro,En línea,Sí,6,11,5556.37,505.12,15,78.8,Cítrica,Eau de Parfum,Diseñador,3.0
+CL00727,F,46.0,Poniente,En línea,No,24,3,3603.03,1201.01,275,55.0,Amaderada,Eau de Parfum,Nicho,4.0
+CL00651,F,36.0,Centro,Tienda física,No,8,1,771.81,771.81,137,40.1,Floral,Eau de Toilette,Diseñador,3.0
+CL00474,F,35.0,Norte,Tienda física,No,40,1,1490.24,1490.24,149,57.8,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL01223,M,18.0,Centro,Tienda física,No,9,1,1086.93,1086.93,145,38.4,Cítrica,Eau de Cologne,Diseñador,4.0
+CL00788,F,38.0,Poniente,En línea,No,104,1,$898.23,898.23,319,34.4,Oriental,Eau de Parfum,Diseñador,2.0
+CL00657,F,48.0,Centro,Tienda física,Sí,83,1,"$1,724.50",1724.5,228,33.4,Oriental,Eau de Toilette,Celebridad / masivo,3.0
+CL01318,M,69.0,Poniente,Tienda física,No,66,2,2662.63,1331.31,365,31.8,Fresca,Eau de Toilette,Diseñador,4.0
+CL00162,F,38.0,Centro,En línea,Sí,22,11,9841.71,894.7,29,46.8,Floral,Eau de Cologne,Diseñador,4.0
+CL00748,M,27.0,Sur,En línea,Sí,68,10,35487.48,3548.75,30,9.7,Oriental,Eau de Parfum,Nicho,4.0
+CL00237,F,24.0,Poniente,Tienda física,No,23,7,5612.03,801.72,8,66.4,Floral,Eau de Parfum,Diseñador,4.0
+CL00728,F,39.0,Norte,Tienda física,No,12,2,2117.68,1058.84,133,14.1,Floral,Eau de Parfum,Diseñador,2.0
+CL00666,M,48.0,Norte,Tienda física,Sí,47,14,49564.22,3540.3,27,53.2,Amaderada,Eau de Toilette,Nicho,3.0
+CL01218,M,32.0,Sur,En línea,Sí,6,6,4049.53,674.92,50,71.6,Fresca,Eau de Toilette,Celebridad / masivo,5.0
+CL00587,M,,Sur,Tienda física,Sí,11,11,28259.66,2569.06,20,13.5,Floral,Eau de Parfum,Diseñador,4.0
+CL00538,F,45.0,Centro,Tienda física,Sí,37,7,18932.86,2704.69,16,13.7,Amaderada,Eau de Parfum,Diseñador,3.0
+CL01323,F,37.0,Norte,En línea,No,13,2,1890.98,945.49,56,72.3,Floral,Eau de Toilette,Diseñador,4.0
+CL01489,F,41.0,Poniente,Tienda física,No,40,1,2179.93,2179.93,89,28.9,Fresca,Eau de Toilette,Diseñador,4.0
+CL00255,F,44.0,Centro,Tienda física,No,21,2,3346.56,1673.28,47,55.8,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL00956,F,37.0,Poniente,Tienda física,Sí,77,10,32595.45,3259.54,19,47.2,Amaderada,Eau de Cologne,Celebridad / masivo,5.0
+CL00122,M,64.0,Norte,En línea,No,126,3,2932.89,977.63,191,27.0,Oriental,Eau de Cologne,Diseñador,3.0
+CL00095,F,25.0,Centro,Tienda física,No,7,2,4949.09,2474.55,157,18.3,Floral,Eau de Parfum,Nicho,5.0
+CL01302,M,31.0,SUR,Tienda física,No,63,1,2043.35,2043.35,365,52.6,Oriental,Eau de Toilette,Diseñador,2.0
+CL01363,F,52.0,Norte,En línea,Sí,78,7,18734.04,2676.29,13,11.0,Oriental,Parfum,Nicho,5.0
+CL01183,M,29.0,Centro,Tienda física,No,38,9,8799.82,977.76,48,75.7,Floral,Eau de Parfum,Celebridad / masivo,4.0
+CL00408,F,29.0,Sur,Tienda física,No,40,1,898.46,898.46,169,21.1,Floral,Eau de Parfum,Diseñador,4.0
+CL00578,F,0.0,Norte,En línea,No,30,15,37337.99,2489.2,20,15.8,Oriental,Parfum,Diseñador,3.0
+CL00148,F,22.0,Poniente,En línea,No,10,6,4063.92,677.32,33,72.7,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00180,F,33.0,Centro,En línea,No,49,6,7966.09,1327.68,59,56.8,Floral,Eau de Toilette,Diseñador,4.0
+CL00771,F,25.0,Poniente,Tienda física,No,23,1,1128.59,1128.59,324,28.2,Floral,Eau de Parfum,Diseñador,3.0
+CL00399,F,54.0,Sur,Tienda física,Sí,9,3,3808.02,1269.34,76,28.4,Oriental,Eau de Toilette,Diseñador,4.0
+CL01326,hombre,42.0,Sur,Tienda física,No,14,2,2820.15,1410.07,35,37.9,Oriental,Parfum,Celebridad / masivo,3.0
+CL00946,M,35.0,Norte,En línea,Sí,35,5,2370.53,474.11,60,77.1,Floral,Eau de Parfum,Diseñador,4.0
+CL00822,F,35.0,Sur,Tienda física,Sí,19,1,2651.38,2651.38,183,38.1,Amaderada,Eau de Toilette,Diseñador,4.0
+CL00851,M,24.0,Sur,En línea,Sí,35,6,6911.52,1151.92,116,31.7,Amaderada,Eau de Toilette,Diseñador,3.0
+CL01342,M,53.0,Sur,Tienda física,Sí,130,12,39168.85,3264.07,29,23.4,Amaderada,Eau de Parfum,Diseñador,5.0
+CL01445,M,42.0,Poniente,Tienda física,No,34,2,4946.56,2473.28,62,46.4,Floral,Eau de Cologne,Nicho,3.0
+CL00384,F,37.0,Centro,Tienda física,Sí,180,6,19217.41,3202.9,12,21.0,Cítrica,Eau de Toilette,Nicho,5.0
+CL01308,MASCULINO,48.0,Sur,Tienda física,Sí,29,3,7478.27,2492.76,33,17.6,Floral,Eau de Toilette,Diseñador,5.0
+CL01173,M,43.0,Centro,Tienda física,Sí,10,1,797.56,797.56,365,52.7,Floral,Parfum,Celebridad / masivo,3.0
+CL00777,F,23.0,Norte,Tienda física,No,33,4,5120.32,1280.08,112,62.5,Fresca,Eau de Toilette,Diseñador,4.0
+CL01324,M,36.0,Norte,Tienda física,No,24,2,"$3,056.79",1528.4,153,14.9,Fresca,Eau de Toilette,Diseñador,4.0
+CL00799,F,33.0,Centro,En línea,Sí,43,6,5448.34,908.06,23,81.2,Floral,Eau de Cologne,Diseñador,3.0
+CL00360,F,29.0,Centro,En línea,No,49,3,6268.68,2089.56,102,14.9,Cítrica,Eau de Toilette,Diseñador,5.0
+CL00892,F,41.0,Poniente,Tienda física,No,27,3,"$6,085.56",2028.52,33,17.2,,Eau de Parfum,Diseñador,4.0
+CL01423,M,29.0,Poniente,Tienda física,No,16,3,6806.77,2268.92,180,22.4,Amaderada,Eau de Toilette,Diseñador,3.0
+CL01055,F,37.0,Norte,Tienda física,No,24,4,5342.13,1335.53,46,68.3,Fresca,Eau de Parfum,Celebridad / masivo,5.0
+CL00910,M,33.0,SUR,Tienda física,No,30,3,6401.53,2133.84,331,28.1,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL01056,F,41.0,Poniente,Tienda física,Sí,8,6,8316.73,1386.12,32,86.7,Oriental,Eau de Toilette,Celebridad / masivo,3.0
+CL00085,F,49.0,Centro,Tienda física,Sí,73,11,25641.03,2331.0,12,0.9,Oriental,Eau de Parfum,Nicho,4.0
+CL01305,M,59.0,Centro,Tienda física,Sí,28,2,"$1,551.55",775.77,179,23.0,Amaderada,Eau de Cologne,Celebridad / masivo,4.0
+CL00950,F,25.0,Sur,En línea,Sí,10,7,7316.79,1045.26,62,79.7,Floral,Eau de Toilette,Diseñador,4.0
+CL00915,F,25.0,Sur,En línea,Sí,60,7,7277.21,1039.6,41,87.8,Cítrica,Eau de Toilette,Celebridad / masivo,4.0
+CL00690,M,51.0,Poniente,En línea,No,13,4,2501.34,625.33,107,52.5,Amaderada,Eau de Cologne,Diseñador,4.0
+CL00386,F,21.0,Poniente,En línea,Sí,20,12,9886.71,823.89,18,93.4,Fresca,Eau de Toilette,Nicho,5.0
+CL00022,F,29.0,Sur,En línea,No,48,7,5508.09,786.87,45,78.8,Fresca,Eau de Cologne,Diseñador,4.0
+CL01022,M,68.0,Norte,Tienda física,No,13,1,2092.72,2092.72,242,18.0,Amaderada,Eau de Parfum,Nicho,3.0
+CL00082,F,46.0,Norte,Tienda física,No,14,3,5765.98,1921.99,57,30.8,Oriental,Eau de Toilette,Diseñador,3.0
+CL00564,M,35.0,Norte,Tienda física,No,17,3,6586.5,2195.5,140,14.1,Fresca,Eau de Parfum,Celebridad / masivo,5.0
+CL01089,F,41.0,Centro,Tienda física,Sí,38,10,21295.4,2129.54,39,21.7,Amaderada,Eau de Parfum,Nicho,5.0
+CL01398,F,43.0,Norte,Tienda física,Sí,8,1,1352.86,1352.86,113,14.5,Oriental,Eau de Toilette,Nicho,5.0
+CL00453,F,40.0,Poniente,En línea,No,55,1,634.22,634.22,40,75.8,Floral,Parfum,Diseñador,5.0
+CL00306,F,39.0,Centro,En línea,No,18,3,3064.23,1021.41,36,76.1,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL00291,M,24.0,Poniente,En línea,Sí,8,6,6630.45,1105.07,31,85.9,Cítrica,Eau de Parfum,Celebridad / masivo,4.0
+CL01247,M,54.0,Sur,Tienda física,No,9,4,4913.59,1228.4,70,17.2,Fresca,Eau de Cologne,Celebridad / masivo,4.0
+CL01471,M,50.0,Poniente,Tienda física,No,68,3,4395.48,1465.16,84,35.8,Oriental,Eau de Parfum,Diseñador,4.0
+CL01077,F,35.0,Centro,En línea,No,26,7,7223.1,1031.87,44,63.9,Floral,Eau de Cologne,Diseñador,5.0
+CL00106,F,46.0,Sur,Tienda física,Sí,20,10,"$27,086.13",2708.61,12,17.2,Amaderada,Eau de Parfum,Diseñador,5.0
+CL01441,F,36.0,Centro,Tienda física,Sí,42,9,24098.43,2677.6,22,31.0,Floral,Eau de Toilette,Nicho,4.0
+CL00541,F,50.0,Norte,Tienda física,No,12,3,5366.1,1788.7,81,40.5,Floral,Eau de Toilette,Diseñador,5.0
+CL00452,F,51.0,Sur,Tienda física,Sí,33,8,23532.33,2941.54,15,13.7,,Eau de Parfum,Diseñador,3.0
+CL00700,hombre,18.0,Norte,Tienda física,Sí,56,3,4412.51,1470.84,83,29.0,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL00097,F,40.0,Sur,En línea,No,21,1,1844.33,1844.33,109,27.1,Amaderada,Eau de Toilette,Diseñador,4.0
+CL00808,F,36.0,Centro,En línea,Sí,12,3,2592.98,864.33,266,21.7,Amaderada,Eau de Parfum,Celebridad / masivo,2.0
+CL00373,M,48.0,Norte,Tienda física,No,48,1,1344.25,1344.25,178,47.0,Fresca,Eau de Toilette,Celebridad / masivo,
+CL00757,M,29.0,Centro,Tienda física,No,37,4,8930.62,2232.65,97,24.8,Cítrica,Eau de Toilette,Celebridad / masivo,4.0
+CL01316,M,39.0,Centro,Tienda física,No,65,2,2347.28,1173.64,161,24.8,Amaderada,Eau de Parfum,Diseñador,3.0
+CL00773,F,53.0,Centro,Tienda física,No,3,3,6617.55,2205.85,96,35.5,Oriental,Eau de Toilette,Diseñador,2.0
+CL01243,M,35.0,Centro,Tienda física,No,46,2,2405.26,1202.63,274,52.8,Amaderada,Eau de Cologne,Celebridad / masivo,2.0
+CL00662,M,45.0,Centro,En línea,Sí,43,3,4813.1,1604.37,48,7.9,,Eau de Toilette,Nicho,4.0
+CL01285,F,37.0,Poniente,Tienda física,No,20,1,2312.32,2312.32,50,19.4,Fresca,Eau de Toilette,Diseñador,5.0
+CL00768,M,41.0,Norte,En línea,No,9,1,1117.46,1117.46,346,55.3,Floral,Eau de Parfum,Diseñador,4.0
+CL00110,M,35.0,Norte,En línea,Sí,11,3,2641.44,880.48,29,77.8,Floral,Eau de Toilette,Diseñador,4.0
+CL01392,M,43.0,Norte,En línea,No,19,3,5431.75,1810.58,119,35.8,Oriental,Eau de Toilette,Diseñador,5.0
+CL00617,F,29.0,Norte,Tienda física,Sí,39,7,10688.6,1526.94,29,93.7,Cítrica,Eau de Cologne,Diseñador,4.0
+CL01112,M,39.0,Norte,En línea,No,35,2,2812.82,1406.41,83,14.8,Amaderada,Eau de Toilette,Diseñador,3.0
+CL00611,M,50.0,Norte,Tienda física,No,28,1,1850.98,1850.98,176,7.1,Fresca,Eau de Toilette,Diseñador,4.0
+CL00596,F,53.0,Centro,Tienda física,Sí,81,10,25356.38,2535.64,25,5.6,Oriental,Eau de Toilette,Diseñador,5.0
+CL01041,M,31.0,Centro,En línea,No,19,1,1924.85,1924.85,340,28.2,Cítrica,Eau de Parfum,Diseñador,3.0
+CL01116,F,18.0,Norte,Tienda física,Sí,10,8,8040.61,1005.08,22,71.7,Oriental,Eau de Cologne,Celebridad / masivo,3.0
+CL00827,M,33.0,Centro,En línea,No,12,9,9850.92,1094.55,41,83.5,Floral,Eau de Parfum,Diseñador,4.0
+CL00049,M,44.0,Poniente,Tienda física,Sí,9,3,2486.38,828.79,69,2.7,Floral,Eau de Toilette,Diseñador,3.0
+CL01272,M,38.0,Centro,Tienda física,Sí,30,7,15795.23,2256.46,10,21.0,Amaderada,Eau de Parfum,Diseñador,5.0
+CL01352,F,28.0,Centro,En línea,Sí,9,3,2240.56,746.85,9,77.6,Fresca,Eau de Cologne,Celebridad / masivo,4.0
+CL00305,F,29.0,Poniente,En línea,No,75,6,4346.82,724.47,60,71.8,Fresca,Eau de Toilette,Diseñador,4.0
+CL00664,F,36.0,Centro,Tienda física,Sí,42,9,8947.85,994.21,49,56.8,Floral,Eau de Toilette,Diseñador,2.0
+CL00796,F,59.0,Centro,Tienda física,Sí,17,4,5401.05,1350.26,123,29.1,Floral,Parfum,Nicho,2.0
+CL00570,F,40.0,Sur,Tienda física,No,52,1,1169.36,1169.36,204,75.4,Floral,Eau de Toilette,Diseñador,3.0
+CL01322,F,60.0,Norte,Tienda física,No,51,1,1731.09,1731.09,113,49.5,Floral,Eau de Parfum,Celebridad / masivo,4.0
+CL00350,F,37.0,Centro,Tienda física,Sí,46,7,12086.36,1726.62,100,49.8,Cítrica,Eau de Parfum,Diseñador,4.0
+CL00948,F,53.0,Sur,Tienda física,No,77,12,26809.42,2234.12,18,23.9,Oriental,Eau de Toilette,Diseñador,5.0
+CL01463,M,25.0,Poniente,En línea,Sí,39,6,7912.67,1318.78,45,6.6,Oriental,Eau de Parfum,Celebridad / masivo,5.0
+CL00378,F,38.0,Norte,Tienda física,Sí,7,10,7804.54,780.45,56,57.7,Floral,Eau de Cologne,Celebridad / masivo,5.0
+CL01181,M,47.0,Centro,Tienda física,Sí,26,11,20982.73,1907.52,12,13.5,Floral,Eau de Parfum,Nicho,4.0
+CL00898,M,26.0,Norte,Tienda física,No,28,4,9204.99,2301.25,214,27.4,Floral,Eau de Parfum,Diseñador,4.0
+CL00818,F,33.0,Sur,Tienda física,No,50,1,"$1,401.46",1401.46,230,38.4,Amaderada,Parfum,Diseñador,3.0
+CL01180,F,26.0,Sur,Tienda física,No,82,7,7435.09,1062.16,25,86.2,Oriental,Eau de Cologne,Celebridad / masivo,5.0
+CL00393,F,18.0,Centro,Tienda física,No,13,1,1669.53,1669.53,84,28.6,Floral,Eau de Parfum,Diseñador,3.0
+CL00562,M,24.0,Centro,Tienda física,Sí,16,3,3438.19,1146.06,7,68.8,Amaderada,Eau de Cologne,Diseñador,5.0
+CL00821,F,18.0,Norte,En línea,Sí,44,12,10363.21,863.6,31,85.7,Floral,Parfum,Celebridad / masivo,4.0
+CL00376,Masculino,39.0,Centro,Tienda física,No,47,7,15803.38,2257.63,12,30.1,Oriental,Eau de Toilette,Diseñador,5.0
+CL00726,F,35.0,Norte,Tienda física,No,51,1,1398.56,1398.56,346,38.2,Oriental,Eau de Parfum,Diseñador,4.0
+CL00316,,38.0,Poniente,En línea,Sí,40,6,4741.17,790.19,46,67.8,Floral,Eau de Toilette,Celebridad / masivo,5.0
+CL00484,M,58.0,Norte,En línea,No,29,2,4685.03,2342.51,185,4.5,Floral,Eau de Parfum,Diseñador,3.0
+CL00945,F,31.0,Centro,Tienda física,Sí,72,8,18944.86,2368.11,33,6.0,Oriental,Eau de Parfum,Nicho,5.0
+CL00929,M,,Norte,En línea,No,31,2,3407.56,1703.78,174,18.5,Fresca,Eau de Toilette,Diseñador,2.0
+CL00675,F,30.0,Poniente,En línea,Sí,25,6,5377.31,896.22,64,91.2,Floral,Eau de Cologne,Celebridad / masivo,5.0
+CL00411,hombre,38.0,Norte,Tienda física,Sí,16,8,6746.72,843.34,20,65.0,Cítrica,Eau de Toilette,Diseñador,5.0
+CL01217,F,28.0,Centro,Tienda física,Sí,124,9,15058.93,1673.21,16,5.7,Oriental,Parfum,Nicho,5.0
+CL01486,M,34.0,Centro,En línea,No,10,5,6033.21,1206.64,8,54.5,Floral,Eau de Toilette,Celebridad / masivo,5.0
+CL00104,F,40.0,Poniente,En línea,No,31,8,6395.85,799.48,71,67.8,Fresca,Eau de Toilette,Celebridad / masivo,5.0
+CL01032,M,51.0,Centro,Tienda física,No,29,2,3849.02,1924.51,161,19.6,Floral,Eau de Parfum,Celebridad / masivo,5.0
+CL00101,F,28.0,Centro,Tienda física,No,25,1,1376.06,1376.06,284,23.9,Oriental,Eau de Toilette,Diseñador,3.0
+CL00502,F,37.0,Norte,Tienda física,Sí,33,3,3263.54,1087.85,38,68.9,Cítrica,Eau de Toilette,Celebridad / masivo,2.0
+CL00534,Femenino,25.0,Sur,En línea,Sí,15,1,351.82,351.82,111,55.4,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00887,M,20.0,Sur,Tienda física,Sí,4,9,9637.29,1070.81,18,94.3,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL01494,F,38.0,Sur,En línea,Sí,34,3,3270.02,1090.01,322,49.5,Amaderada,Eau de Toilette,Diseñador,3.0
+CL00567,M,37.0,Norte,En línea,No,11,2,2720.76,1360.38,365,46.7,Oriental,Eau de Cologne,Diseñador,3.0
+CL01144,F,40.0,Sur,Tienda física,Sí,30,8,23875.85,2984.48,13,8.7,Oriental,Parfum,Nicho,5.0
+CL00928,M,44.0,Sur,Tienda física,Sí,10,12,13056.92,1088.08,26,86.3,Floral,Eau de Parfum,Diseñador,3.0
+CL00520,F,48.0,Poniente,Tienda física,No,42,8,"$19,378.05",2422.26,23,0.8,Cítrica,Eau de Parfum,Celebridad / masivo,5.0
+CL00990,M,31.0,Norte,En línea,No,37,1,1486.9,1486.9,38,13.7,Amaderada,Eau de Cologne,Diseñador,2.0
+CL00789,F,45.0,Centro,En línea,Sí,12,13,45606.84,3508.22,32,17.5,Oriental,Eau de Parfum,Nicho,5.0
+CL00669,F,39.0,Poniente,Tienda física,No,66,1,1245.58,1245.58,363,24.0,Amaderada,Eau de Parfum,Diseñador,4.0
+CL01127,M,37.0, Norte ,Tienda física,No,58,2,2698.91,1349.45,59,46.1,Floral,Eau de Parfum,Diseñador,5.0
+CL00716,M,54.0,Sur,Tienda física,No,11,1,1955.1,1955.1,116,9.0,Oriental,Eau de Toilette,Diseñador,5.0
+CL00198,F,37.0,Norte,En línea,Sí,27,8,11063.56,1382.95,34,40.5,Oriental,Eau de Cologne,Celebridad / masivo,3.0
+CL01442,F,49.0,Norte,Tienda física,Sí,17,8,18985.32,2373.16,24,1.2,Oriental,Parfum,Nicho,4.0
+CL00120,F,35.0,Norte,En línea,No,25,2,633.85,316.92,103,29.7,Oriental,Eau de Parfum,Diseñador,2.0
+CL00497,hombre,41.0,Centro,En línea,No,36,4,6348.07,1587.02,56,3.7,Floral,Eau de Parfum,Celebridad / masivo,4.0
+CL01159,F,47.0,Centro,Tienda física,Sí,105,12,25608.54,2134.05,15,2.8,Amaderada,Eau de Parfum,Diseñador,5.0
+CL00256,F,39.0,Centro,Tienda física,No,47,2,4025.42,2012.71,43,24.5,Cítrica,Eau de Toilette,Diseñador,4.0
+CL00035,F,32.0,Sur,Tienda física,No,21,6,4723.04,787.17,34,73.7,Floral,Eau de Parfum,Diseñador,4.0
+CL00425,M,28.0,Sur,Tienda física,No,23,9,8281.72,920.19,50,78.4,Cítrica,Eau de Toilette,Celebridad / masivo,4.0
+CL01085,M,46.0,Sur,Tienda física,No,73,12,31428.17,2619.01,10,19.1,Amaderada,Eau de Parfum,Diseñador,3.0
+CL01458,F,40.0,Poniente,Tienda física,No,19,2,3325.12,1662.56,365,18.9,Floral,Eau de Parfum,Diseñador,2.0
+CL01026,F,33.0,Centro,En línea,Sí,46,9,9709.14,1078.79,27,87.4,Amaderada,Eau de Cologne,Celebridad / masivo,5.0
+CL01448,F,31.0,Norte,Tienda física,No,8,4,6620.86,1655.21,102,3.7,Amaderada,Eau de Toilette,Diseñador,3.0
+CL00233,M,31.0,Sur,Tienda física,Sí,9,1,1466.63,1466.63,177,27.3,Floral,Eau de Cologne,Diseñador,2.0
+CL01312,F,46.0,Centro,En línea,No,22,2,3095.38,1547.69,365,48.8,Floral,Parfum,Diseñador,3.0
+CL00299,F,46.0,Centro,En línea,Sí,22,3,4055.01,1351.67,95,14.4,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL00208,F,47.0,Sur,Tienda física,No,19,7,5511.91,787.42,21,83.6,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL01082,F,18.0,Centro,Tienda física,No,22,5,"$3,460.47",692.09,71,59.1,Cítrica,Eau de Parfum,Celebridad / masivo,4.0
+CL01138,F,52.0,Sur,Tienda física,No,17,3,6124.49,2041.5,63,21.5,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00904,F,45.0,Sur,Tienda física,Sí,7,6,6825.85,1137.64,13,78.7,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL01107,M,36.0,Norte,Tienda física,Sí,71,8,8779.24,1097.41,26,73.2,Floral,Eau de Cologne,Celebridad / masivo,4.0
+CL00693,F,50.0,sur,Tienda física,No,5,1,1469.83,1469.83,101,37.8,Cítrica,Eau de Parfum,Celebridad / masivo,5.0
+CL00244,F,30.0,Sur,En línea,Sí,32,3,"$5,020.28",1673.43,132,26.6,Oriental,Eau de Parfum,Diseñador,3.0
+CL01430,F,40.0,Sur,Tienda física,Sí,67,1,1329.42,1329.42,182,42.7,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL00682,M,18.0,Centro,Tienda física,Sí,2,1,1879.7,1879.7,73,52.6,Oriental,Eau de Parfum,Diseñador,4.0
+CL01331,F,56.0,Sur,Tienda física,Sí,92,1,1181.67,1181.67,96,53.1,Oriental,Eau de Toilette,Celebridad / masivo,4.0
+CL01297,F,18.0,Centro,En línea,No,45,6,6800.55,1133.42,54,70.6,Floral,Eau de Toilette,Diseñador,2.0
+CL01091,MASCULINO,50.0,Sur,En línea,No,42,2,2087.95,1043.97,103,23.2,Oriental,Eau de Toilette,Diseñador,5.0
+CL01269, f ,36.0,Sur,Tienda física,No,8,1,1605.02,1605.02,365,25.6,Floral,Eau de Parfum,Diseñador,2.0
+CL00240,hombre,30.0,Centro,En línea,No,7,5,4635.65,927.13,23,87.6,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL01081,M,31.0,Norte,Tienda física,No,26,1,764.57,764.57,299,25.0,Oriental,Eau de Toilette,Diseñador,3.0
+CL00912,M,23.0,Centro,En línea,Sí,27,4,2666.63,666.66,43,57.9,Fresca,Eau de Parfum,Celebridad / masivo,4.0
+CL01335,M,44.0,Centro,En línea,No,113,7,7932.11,1133.16,33,51.9,Floral,Eau de Parfum,Diseñador,4.0
+CL00785,F,35.0,Norte,Tienda física,Sí,19,8,2117.87,264.73,33,40.9,Cítrica,Eau de Toilette,Celebridad / masivo,5.0
+CL00563,F,44.0,Centro,En línea,Sí,12,6,3961.42,660.24,26,35.3,Amaderada,Eau de Toilette,Celebridad / masivo,5.0
+CL00885,M,26.0,Norte,En línea,No,27,4,3443.5,860.87,18,82.0,Oriental,Eau de Cologne,Celebridad / masivo,3.0
+CL01037,F,51.0,Centro,Tienda física,Sí,17,11,20772.98,1888.45,12,17.3,Amaderada,Eau de Toilette,Diseñador,5.0
+CL00057,F,38.0,Sur,Tienda física,Sí,5,1,1276.96,1276.96,149,36.0,Oriental,Eau de Toilette,Celebridad / masivo,5.0
+CL00728,F,39.0,Norte,Tienda física,No,12,2,2117.68,1058.84,133,14.1,Floral,Eau de Parfum,Diseñador,2.0
+CL00981,F,38.0,Centro,Tienda física,Sí,28,2,"$2,540.70",1270.35,125,49.6,Cítrica,Eau de Parfum,Nicho,
+CL00390, f ,38.0,poniente,Tienda física,Sí,101,7,11430.77,1632.97,8,28.3,Floral,Eau de Parfum,Diseñador,4.0
+CL00838,F,56.0,Norte,En línea,No,47,9,28543.55,3171.51,33,4.3,Oriental,Eau de Parfum,Nicho,5.0
+CL00331,M,33.0,Sur,En línea,Sí,10,8,"$9,363.77",1170.47,63,93.1,Cítrica,Eau de Cologne,Diseñador,5.0
+CL01204,F,53.0,Centro,Tienda física,No,18,2,5888.66,2944.33,136,8.8,Fresca,Eau de Toilette,Nicho,4.0
+CL00906,F,58.0,Poniente,En línea,Sí,9,1,510.95,510.95,142,56.4,Oriental,Eau de Parfum,Celebridad / masivo,3.0
+CL00357,F,33.0,Centro,Tienda física,Sí,8,7,6590.3,941.47,19,58.8,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00359,,25.0, Sur ,En línea,No,15,4,3852.87,963.22,34,76.3,Cítrica,Eau de Toilette,Diseñador,4.0
+CL00951,F,38.0,Sur,Tienda física,No,44,8,6634.64,829.33,18,73.7,Floral,Eau de Cologne,Celebridad / masivo,5.0
+CL01315,M,50.0,Norte,Tienda física,No,15,1,1177.02,1177.02,121,36.6,Floral,Eau de Parfum,Diseñador,3.0
+CL01345,M,34.0,Poniente,En línea,No,44,1,2072.39,2072.39,58,47.8,Oriental,Eau de Toilette,Diseñador,2.0
+CL00247,M,54.0,Norte,En línea,Sí,12,3,2713.27,904.42,106,48.7,Oriental,Eau de Parfum,Diseñador,4.0
+CL00781,F,48.0,Poniente,Tienda física,No,14,1,1666.73,1666.73,41,20.4,Amaderada,Eau de Cologne,Celebridad / masivo,5.0
+CL00684,M,56.0,Centro,Tienda física,No,5,3,8331.25,2777.08,53,41.6,Floral,Eau de Cologne,Diseñador,5.0
+CL01450,F,41.0,Centro,Tienda física,Sí,51,3,5804.52,1934.84,42,29.4,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00597,F,37.0,Centro,Tienda física,No,15,1,2229.89,2229.89,77,22.2,Cítrica,Eau de Parfum,Diseñador,5.0
+CL00480, m,41.0,Poniente,Tienda física,Sí,10,1,"$1,708.63",1708.63,162,58.2,Oriental,Eau de Parfum,Celebridad / masivo,2.0
+CL00416,F,46.0,Norte,Tienda física,Sí,29,8,23162.97,2895.37,36,5.4,Floral,Parfum,Diseñador,4.0
+CL00852,M,47.0,Sur,Tienda física,No,36,2,3015.65,1507.82,365,35.1,Floral,Eau de Toilette,Diseñador,3.0
+CL01290,F,30.0,Sur,Tienda física,Sí,38,7,4476.82,639.55,27,71.4,Fresca,Eau de Toilette,Diseñador,5.0
+CL00992,F,33.0,Sur,En línea,No,21,2,2808.57,1404.28,334,41.5,Fresca,Eau de Parfum,Celebridad / masivo,2.0
+CL00715,FEMENINO,59.0,Norte,En línea,No,63,11,"$32,041.19",2912.84,20,20.2,Cítrica,Eau de Parfum,Diseñador,4.0
+CL00931,F,27.0,Norte,Tienda física,Sí,62,8,7149.59,893.7,125,85.4,Floral,Eau de Parfum,Celebridad / masivo,5.0
+CL01170,M,18.0,Centro,,No,35,1,1562.58,1562.58,226,14.8,Amaderada,Eau de Toilette,Diseñador,5.0
+CL00899,M,25.0,Poniente,En línea,Sí,12,2,3848.21,1924.11,121,49.3,Oriental,Eau de Parfum,Diseñador,2.0
+CL01317,Femenino,32.0,Norte,En línea,Sí,49,9,7549.61,838.85,62,85.5,Cítrica,Eau de Toilette,Celebridad / masivo,3.0
+CL00993,M,48.0,Poniente,En línea,No,24,4,4923.47,1230.87,57,43.7,Fresca,Eau de Parfum,Celebridad / masivo,3.0
+CL01359,F,37.0,Norte,En línea,No,18,3,6783.0,2261.0,78,44.4,,Eau de Parfum,Diseñador,5.0
+CL00766,M,18.0,Centro,Tienda física,No,53,5,8967.03,1793.41,105,22.3,Cítrica,Eau de Toilette,Diseñador,4.0
+CL00758,M,43.0,Centro,Tienda física,No,28,1,1365.21,1365.21,193,21.5,Amaderada,Eau de Toilette,Diseñador,2.0
+CL00114,M,46.0,Centro,Tienda física,Sí,147,6,12425.07,2070.85,17,12.7,Amaderada,Eau de Toilette,Celebridad / masivo,5.0
+CL00432,M,48.0,Norte,Tienda física,No,69,11,26062.65,2369.33,27,1.1,Amaderada,Parfum,Diseñador,4.0
+CL00860,Femenino,32.0,Sur,Tienda física,Sí,35,10,6785.12,678.51,50,67.5,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00592,M,18.0,Centro,En línea,No,47,4,7579.3,1894.82,181,14.9,Cítrica,Eau de Toilette,Diseñador,3.0
+CL01328,F,18.0,Centro,En línea,Sí,76,3,2208.09,736.03,339,45.9,Amaderada,Eau de Parfum,Celebridad / masivo,3.0
+CL00905,M,38.0,Centro,En línea,Sí,22,7,18674.87,2667.84,17,0.6,Amaderada,Parfum,Nicho,5.0
+CL00719,F,36.0,Norte,En línea,No,19,3,6005.71,2001.9,40,7.1,Amaderada,Eau de Cologne,Diseñador,3.0
+CL00644,mujer,48.0,Centro,Tienda física,No,21,9,21455.19,2383.91,24,3.9,Floral,Eau de Parfum,Nicho,5.0
+CL00153,F,46.0,Poniente,Tienda física,No,15,5,10170.34,2034.07,112,33.4,Floral,Parfum,Celebridad / masivo,4.0
+CL00561,F,46.0, Poniente ,Tienda física,Sí,83,1,1748.29,1748.29,150,40.7,Floral,Eau de Parfum,Celebridad / masivo,3.0
+CL00121,MASCULINO,20.0,Centro,En línea,Sí,23,5,12886.34,2577.27,126,29.4,Oriental,Parfum,Nicho,3.0
+CL00697,M,150.0,Centro,En línea,No,10,3,4118.22,1372.74,81,35.8,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL00442,M,51.0,Centro,En línea,No,19,2,4367.67,2183.83,46,47.6,Floral,Eau de Parfum,Diseñador,3.0
+CL00031,F,18.0,Sur,Tienda física,No,37,11,9886.59,898.78,28,42.4,,Eau de Cologne,Diseñador,4.0
+CL00284,M,36.0,Poniente,Tienda física,No,61,4,6217.4,1554.35,111,31.3,Cítrica,Eau de Parfum,Diseñador,4.0
+CL00285,F,69.0,Norte,Tienda física,No,59,2,2537.37,1268.68,365,42.5,Floral,Eau de Parfum,Diseñador,2.0
+CL00514,M,37.0,Norte,En línea,Sí,1,6,4948.86,824.81,85,83.6,Cítrica,Eau de Cologne,Diseñador,4.0
+CL00523,F,32.0,Sur,Tienda física,No,25,1,1124.14,1124.14,167,40.3,Cítrica,Eau de Toilette,Diseñador,3.0
+CL00677,F,36.0,Norte,En línea,Sí,24,4,1348.67,337.17,22,64.5,Fresca,Eau de Parfum,Celebridad / masivo,4.0
+CL00414,F,54.0,Poniente,Tienda física,No,53,6,"$5,812.15",968.69,57,21.9,Oriental,Parfum,Diseñador,3.0
+CL00139,M,31.0,Poniente,En línea,Sí,35,4,4204.42,1051.11,100,53.7,Oriental,Eau de Toilette,Diseñador,3.0
+CL00133,M,18.0,Centro,Tienda física,No,23,1,1841.6,1841.6,112,5.5,Cítrica,Eau de Parfum,Diseñador,5.0
+CL00674,MASCULINO,44.0,Sur,Tienda física,No,20,4,8419.24,2104.81,67,42.2,Floral,Eau de Toilette,Diseñador,4.0
+CL00467,F,37.0,Norte,En línea,No,46,4,1954.05,488.51,25,85.7,Fresca,Eau de Parfum,Diseñador,5.0
+CL00430,F,62.0,Sur,Tienda física,Sí,22,2,1884.77,942.38,175,55.9,Cítrica,Eau de Toilette,Diseñador,3.0
+CL00213,F,42.0,Norte,En línea,Sí,13,5,4163.33,832.67,20,50.7,Fresca,Eau de Cologne,Diseñador,5.0
+CL00862,M,29.0,Poniente,Tienda física,Sí,58,4,10573.25,2643.31,82,11.9,Floral,Eau de Toilette,Diseñador,5.0
+CL00612,F,34.0, Centro ,Tienda física,Sí,116,10,17948.09,1794.81,11,1.2,Oriental,Parfum,Diseñador,4.0
+CL00854,M,35.0,Poniente,Tienda física,Sí,43,7,8983.47,1283.35,43,46.1,Floral,Eau de Toilette,Diseñador,4.0
+CL01185,M,18.0,Sur,Tienda física,Sí,60,1,1167.75,1167.75,73,45.4,Amaderada,Eau de Toilette,Diseñador,3.0
+CL01080,M,24.0,Norte,Tienda física,No,9,9,24716.84,2746.32,17,9.1,Floral,Eau de Parfum,Diseñador,4.0
+CL01121,F,45.0,Poniente,Tienda física,No,12,2,3154.81,1577.41,25,18.5,Oriental,Eau de Toilette,Diseñador,3.0
+CL00409,F,27.0,Sur,Tienda física,Sí,99,5,12919.37,2583.87,21,12.7,Amaderada,Parfum,Diseñador,5.0
+CL01198,M,33.0,Centro,Tienda física,Sí,35,5,2943.25,588.65,34,60.3,Floral,Eau de Toilette,Nicho,4.0
+CL01236,F,29.0,Poniente,Tienda física,No,15,6,6759.57,1126.6,24,51.0,Floral,Eau de Toilette,Nicho,3.0
+CL01361,M,49.0,Centro,Tienda física,Sí,8,2,3121.59,1560.8,75,21.3,Cítrica,Eau de Parfum,Diseñador,4.0
+CL00908,M,,Centro,Tienda física,No,67,1,954.51,954.51,131,38.6,Oriental,Eau de Toilette,Diseñador,5.0
+CL01010,M,33.0,Sur,Tienda física,Sí,22,13,34517.97,2655.23,26,8.0,Floral,Eau de Parfum,Nicho,4.0
+CL01130,M,56.0,Norte,En línea,No,32,4,4009.67,1002.42,72,32.0,Floral,Eau de Parfum,Diseñador,4.0
+CL00694,F,30.0,Poniente,En línea,Sí,16,6,6102.38,1017.06,33,71.1,Amaderada,Eau de Parfum,Diseñador,3.0
+CL00276,M,31.0,Poniente,En línea,No,4,5,3659.74,731.95,84,21.1,Floral,Eau de Toilette,Diseñador,3.0
+CL00942,F,25.0,Sur,En línea,Sí,23,2,3172.01,1586.0,202,37.7,Floral,Parfum,Celebridad / masivo,3.0
+CL01061,M,63.0,Norte,Tienda física,Sí,123,2,"$2,338.21",1169.1,230,47.9,Cítrica,Eau de Parfum,Celebridad / masivo,3.0
+CL01316,M,39.0,Centro,Tienda física,No,65,2,2347.28,1173.64,161,24.8,Amaderada,Eau de Parfum,Diseñador,3.0
+CL00874,M,44.0,Sur,Tienda física,Sí,4,6,25571.07,4261.85,28,2.1,Oriental,Eau de Parfum,Nicho,5.0
+CL00616,M,22.0,Centro,En línea,Sí,12,4,7593.38,1898.35,150,15.8,Amaderada,Eau de Toilette,Nicho,4.0
+CL00351,F,39.0,Sur,En línea,Sí,35,9,23210.83,2578.98,20,7.8,Cítrica,Parfum,Nicho,5.0
+CL01259,M,34.0,Norte,Tienda física,No,9,3,4475.92,1491.97,153,2.6,Floral,Eau de Toilette,Diseñador,3.0
+CL01114,M,18.0,Poniente,Tienda física,No,14,2,4366.76,2183.38,71,20.2,Oriental,Eau de Toilette,Nicho,3.0
+CL01098,F,45.0,Centro,Tienda física,No,180,9,29049.19,3227.69,16,5.7,Oriental,Parfum,Nicho,5.0
+CL00510,M,36.0,Poniente,Tienda física,Sí,16,3,3759.1,1253.03,123,32.3,Amaderada,Eau de Toilette,Nicho,3.0
+CL00608,M,35.0,Poniente,Tienda física,No,10,8,5558.95,694.87,28,54.8,Fresca,Eau de Cologne,Celebridad / masivo,4.0
+CL01164,F,40.0,Sur,Tienda física,Sí,145,6,15438.44,2573.07,8,5.8,Oriental,Eau de Parfum,Nicho,5.0
+CL00192,M,34.0,Sur,Tienda física,No,4,4,5216.3,1304.07,118,34.4,Fresca,Parfum,Celebridad / masivo,5.0
+CL00469,M,47.0,Norte,Tienda física,No,4,10,28376.18,2837.62,16,1.8,Amaderada,Eau de Parfum,Diseñador,5.0
+CL01007,F,27.0, Norte ,Tienda física,Sí,142,1,2237.45,2237.45,365,48.2,Amaderada,Eau de Parfum,Diseñador,2.0
+CL00965,F,31.0,Norte,En línea,No,69,1,1342.07,1342.07,219,37.2,Floral,Eau de Cologne,Diseñador,2.0
+CL00840,M,34.0,Centro,En línea,No,6,5,5448.31,1089.66,82,30.9,Fresca,Parfum,Celebridad / masivo,4.0
+CL00028,M,41.0,Centro,Tienda física,No,12,3,3295.76,1098.59,111,12.8,,Parfum,Diseñador,4.0
+CL01459,F,18.0,Norte,Tienda física,Sí,7,4,3304.72,826.18,32,66.6,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL01346,F,32.0,Poniente,Tienda física,No,20,2,3021.85,1510.93,77,19.5,Cítrica,Eau de Toilette,Diseñador,2.0
+CL01500,M,42.0,Centro,Tienda física,Sí,31,1,2613.12,2613.12,59,34.5,Amaderada,Eau de Toilette,Diseñador,5.0
+CL00174,F,71.0,Poniente,Tienda física,No,21,2,"$2,289.25",1144.62,294,24.7,,Eau de Toilette,Diseñador,5.0
+CL00333,F,31.0,Centro,Tienda física,No,2,4,2046.91,511.73,12,79.4,Amaderada,Eau de Cologne,Diseñador,4.0
+CL01139,M,45.0,Centro,En línea,Sí,12,3,3120.72,1040.24,142,33.2,Fresca,Eau de Parfum,Nicho,4.0
+CL01469,M,28.0,Poniente,Tienda física,Sí,92,1,1943.32,1943.32,365,20.1,Fresca,Eau de Parfum,Diseñador,3.0
+CL00466,F,40.0,Sur,En línea,No,83,9,25421.63,2824.63,21,29.7,Floral,Parfum,Diseñador,5.0
+CL00703,F,3.0,Norte,Tienda física,No,81,1,1430.26,1430.26,330,23.1,Cítrica,Eau de Parfum,Diseñador,4.0
+CL00270,F,44.0,Norte,En línea,No,14,3,5660.51,1886.84,45,30.7,Floral,Eau de Parfum,Diseñador,
+CL00610,M,29.0,Norte,Tienda física,No,31,1,1320.61,1320.61,102,37.6,Oriental,Eau de Parfum,Diseñador,2.0
+CL00897,F,47.0,Poniente,Tienda física,No,45,1,340.49,340.49,365,31.8,Cítrica,Eau de Cologne,Celebridad / masivo,3.0
+CL01110,M,21.0,Sur,En línea,Sí,40,7,5825.32,832.19,41,71.1,Amaderada,Eau de Cologne,Celebridad / masivo,4.0
+CL00135,F,39.0,Sur,Tienda física,No,18,7,8337.39,1191.06,12,80.7,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL00187,M,45.0,Norte,Tienda física,No,21,4,4052.24,1013.06,29,10.5,Oriental,Eau de Toilette,Diseñador,5.0
+CL01216, m,18.0,Poniente,En línea,Sí,15,10,7500.58,750.06,9,50.2,Cítrica,Eau de Toilette,Diseñador,4.0
+CL01064,F,39.0,Centro,En línea,No,37,3,3219.9,1073.3,318,27.5,Floral,Parfum,Celebridad / masivo,3.0
+CL00461,F,45.0,Poniente,Tienda física,Sí,27,2,2539.67,1269.83,159,38.4,Fresca,Eau de Parfum,Diseñador,3.0
+CL01189,F,47.0,Norte,En línea,Sí,27,2,4450.66,2225.33,127,47.3,Floral,Eau de Parfum,Celebridad / masivo,
+CL00252,M,43.0,Centro,Tienda física,Sí,53,6,14973.64,2495.61,38,12.2,Amaderada,Eau de Parfum,Nicho,5.0
+CL01211,M,54.0,Norte,Tienda física,No,53,2,2982.21,1491.1,311,27.9,Oriental,Eau de Toilette,Diseñador,3.0
+CL00450,M,39.0,Norte,En línea,No,17,2,3054.17,1527.08,120,30.5,Cítrica,Eau de Toilette,Diseñador,5.0
+CL00124,M,19.0,Norte,En línea,No,14,9,8259.34,917.7,63,43.6,Cítrica,Eau de Cologne,Celebridad / masivo,4.0
+CL00849,M,56.0,Norte,Tienda física,No,17,1,1289.57,1289.57,295,49.8,Amaderada,Eau de Parfum,Diseñador,2.0
+CL00903,F,30.0,Norte,Tienda física,Sí,29,6,6019.36,1003.23,45,87.4,Cítrica,Parfum,Diseñador,5.0
+CL01018,M,46.0,Sur,En línea,Sí,29,10,28927.12,2892.71,12,10.7,Oriental,Eau de Toilette,Nicho,3.0
+CL00163,M,50.0,Sur,Tienda física,Sí,45,10,9519.85,951.99,35,85.9,Floral,Eau de Cologne,Celebridad / masivo,4.0
+CL01190,M,32.0,Norte,Tienda física,Sí,59,13,33138.14,2549.09,8,10.9,Floral,Eau de Parfum,Diseñador,4.0
+CL00871,M,45.0,Poniente,Tienda física,No,15,2,3854.89,1927.44,121,22.8,Fresca,Eau de Parfum,Diseñador,3.0
+CL00176,Femenino,33.0,Norte,En línea,Sí,21,11,25218.19,2292.56,13,0.9,Amaderada,Parfum,Celebridad / masivo,4.0
+CL00044,M,36.0,NORTE,En línea,Sí,40,4,8870.68,2217.67,113,55.6,Floral,Eau de Parfum,Diseñador,3.0
+CL01417,F,33.0,Norte,En línea,Sí,35,7,5453.96,779.14,79,71.8,Floral,Eau de Toilette,Celebridad / masivo,5.0
+CL01048,F,44.0,Norte,En línea,No,50,7,18089.85,2584.26,6,11.1,Oriental,Eau de Toilette,Nicho,5.0
+CL00800,hombre,30.0,Norte,Tienda física,Sí,14,8,5487.75,685.97,45,93.3,Floral,Eau de Parfum,Celebridad / masivo,5.0
+CL00941,M,57.0,Centro,Tienda física,No,24,4,5651.21,1412.8,79,18.2,Cítrica,Eau de Parfum,Diseñador,4.0
+CL01149,F,23.0,Centro,En línea,Sí,22,7,9111.87,1301.7,23,62.2,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL00388,M,47.0,Norte,Tienda física,Sí,27,1,"$2,017.05",2017.05,365,40.5,Floral,Eau de Toilette,Diseñador,3.0
+CL01407,Femenino,20.0,Norte,Tienda física,No,16,8,9880.0,1235.0,30,82.2,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL01378,M,18.0,Norte,Tienda física,Sí,16,4,9991.5,2497.87,68,7.1,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL00695,M,49.0,Norte,En línea,Sí,22,1,1879.27,1879.27,152,31.9,Oriental,Eau de Toilette,Celebridad / masivo,4.0
+CL00559,M,47.0,Poniente,En línea,No,9,6,10719.57,1786.6,51,42.7,Cítrica,Eau de Cologne,Diseñador,2.0
+CL00676,F,3.0,Sur,Tienda física,Sí,33,15,47237.93,3149.2,8,15.1,Floral,Parfum,Nicho,5.0
+CL00543,M,46.0,Sur,Tienda física,Sí,17,1,1555.75,1555.75,89,14.5,Cítrica,Eau de Toilette,Diseñador,3.0
+CL00426,M,22.0,Centro,Tienda física,Sí,14,10,16952.02,1695.2,44,76.9,Cítrica,Eau de Parfum,Celebridad / masivo,5.0
+CL00318,F,41.0, Centro ,Tienda física,No,2,7,16844.58,2406.37,96,42.7,Floral,Eau de Parfum,Diseñador,4.0
+CL00168,M,58.0,Centro,Tienda física,Sí,45,11,34010.14,3091.83,9,4.4,Oriental,Eau de Parfum,Diseñador,5.0
+CL00598,F,40.0,CENTRO,En línea,Sí,79,6,7224.96,1204.16,15,84.4,Cítrica,Eau de Parfum,Celebridad / masivo,4.0
+CL01147,M,36.0,Centro,En línea,No,47,15,9211.0,614.07,48,52.7,Cítrica,Eau de Parfum,Diseñador,4.0
+CL00582,F,42.0,Norte,En línea,Sí,59,9,20786.79,2309.64,41,2.6,Floral,Eau de Parfum,Diseñador,4.0
+CL01208,M,23.0,Norte,En línea,No,48,2,3045.71,1522.86,79,39.9,Cítrica,Eau de Toilette,Diseñador,3.0
+CL00521,MASCULINO,31.0,Sur,Tienda física,No,79,2,"$4,023.73",2011.86,129,9.3,Fresca,Eau de Toilette,Diseñador,4.0
+CL01330,hombre,37.0,Centro,En línea,No,12,7,6444.25,920.61,49,54.1,,Eau de Toilette,Diseñador,4.0
+CL00394,F,32.0,Norte,Tienda física,No,78,7,6621.86,945.98,27,53.9,Cítrica,Eau de Toilette,Celebridad / masivo,3.0
+CL01038,F,47.0,Poniente,Tienda física,Sí,7,15,46125.48,3075.03,17,2.7,Cítrica,Eau de Parfum,Diseñador,4.0
+CL00980,M,,Centro,En línea,No,9,4,7997.67,1999.42,129,18.8,Floral,Parfum,Diseñador,4.0
+CL01337,hombre,37.0,Poniente,En línea,No,5,2,3253.88,1626.94,108,11.9,Cítrica,Eau de Toilette,Diseñador,4.0
+CL00832,M,37.0,Norte,En línea,Sí,44,9,9804.95,1089.44,70,61.5,Amaderada,Eau de Toilette,Celebridad / masivo,3.0
+CL00199,F,34.0,Sur,Tienda física,Sí,53,5,1497.68,299.54,35,61.0,Cítrica,Eau de Toilette,Celebridad / masivo,4.0
+CL00879,M,40.0,Centro,En línea,Sí,5,11,16399.16,1490.83,39,83.1,Fresca,Eau de Parfum,Diseñador,3.0
+CL01030,M,51.0,norte,Tienda física,No,16,4,5415.84,1353.96,235,15.3,Floral,Eau de Parfum,Diseñador,4.0
+CL01103,M,48.0,Norte,En línea,Sí,4,8,4762.73,595.34,42,93.0,Floral,Eau de Parfum,Diseñador,4.0
+CL01158,F,53.0,Centro,Tienda física,Sí,53,2,2889.0,1444.5,137,16.2,Floral,Eau de Cologne,Diseñador,4.0
+CL00810,M,66.0,Centro,En línea,No,16,2,1702.87,851.43,250,43.3,Cítrica,Eau de Toilette,Diseñador,2.0
+CL00339,F,60.0,Poniente,Tienda física,No,23,1,1021.32,1021.32,227,30.3,Floral,Eau de Parfum,Diseñador,3.0
+CL00949,F,52.0,Poniente,Tienda física,No,101,1,628.31,628.31,349,49.4,Amaderada,Eau de Cologne,Diseñador,3.0
+CL00115,M,38.0,Norte,Tienda física,No,69,8,3650.61,456.33,38,42.7,Fresca,Eau de Parfum,Celebridad / masivo,3.0
+CL00193,F,32.0,Centro,En línea,Sí,59,8,4472.31,559.04,22,53.4,Floral,Eau de Toilette,Diseñador,4.0
+CL00173,M,31.0,Poniente,Tienda física,No,11,2,3436.27,1718.14,34,29.6,Floral,Eau de Toilette,Diseñador,5.0
+CL00495,F,53.0,Norte,Tienda física,No,28,1,1840.53,1840.53,210,51.6,Amaderada,Eau de Toilette,Diseñador,2.0
+CL01421,,47.0,Centro,Tienda física,No,15,10,30849.32,3084.93,14,10.6,Oriental,Eau de Parfum,Diseñador,4.0
+CL01003,M,64.0,Poniente,Tienda física,No,9,5,9367.05,1873.41,77,28.0,Floral,Eau de Parfum,Diseñador,5.0
+CL00311,F,28.0,Poniente,En línea,No,31,7,7172.04,1024.58,31,66.1,Floral,Parfum,Celebridad / masivo,4.0
+CL00245,F,42.0,Centro,En línea,Sí,23,11,37119.98,3374.54,23,10.7,,Eau de Cologne,Diseñador,4.0
+CL00533,F,35.0,Norte,Tienda física,Sí,31,10,41324.06,4132.41,13,10.1,Floral,Eau de Parfum,Diseñador,5.0
+CL00443,M,37.0,Poniente,Tienda física,No,55,1,1298.61,1298.61,365,37.4,Floral,Eau de Parfum,Celebridad / masivo,3.0
+CL00607,M,44.0,Norte,Tienda física,No,21,1,881.94,881.94,147,9.1,Cítrica,Eau de Toilette,Celebridad / masivo,4.0
+CL01016,M,47.0,Poniente,En línea,No,12,2,1959.22,979.61,56,52.6,,Eau de Toilette,Diseñador,4.0
+CL00243,F,57.0,Centro,Tienda física,No,12,1,1773.89,1773.89,365,40.1,Floral,Eau de Parfum,Diseñador,3.0
+CL01193,M,34.0,centro,Tienda física,No,23,2,3916.28,1958.14,84,17.6,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00427,F,28.0,Sur,En línea,No,28,4,3098.85,774.71,125,73.4,Amaderada,Eau de Toilette,Celebridad / masivo,5.0
+CL00219,F,47.0,Sur,Tienda física,Sí,9,1,2150.27,2150.27,82,9.0,Amaderada,Eau de Parfum,Diseñador,5.0
+CL01128,F,59.0,Sur,Tienda física,Sí,29,2,"$2,125.00",1062.5,243,38.6,Fresca,Eau de Parfum,Celebridad / masivo,3.0
+CL00083,F,33.0,Norte,Tienda física,No,26,5,"$11,106.74",2221.35,103,19.9,Fresca,Eau de Toilette,Diseñador,4.0
+CL01403,M,44.0,NORTE,Tienda física,No,11,4,6019.85,1504.96,53,27.9,Fresca,Eau de Toilette,Diseñador,
+CL01143,M,51.0,Poniente,Tienda física,No,75,3,3292.99,1097.66,-365,69.2,Oriental,Eau de Toilette,Diseñador,3.0
+CL00815,F,34.0,Poniente,En línea,Sí,7,11,15148.03,1377.09,13,0.5,Oriental,Parfum,Nicho,5.0
+CL00329,M,39.0,Norte,Tienda física,No,37,1,486.21,486.21,365,13.1,Floral,Eau de Toilette,Diseñador,3.0
+CL00630,F,24.0,centro,Tienda física,Sí,49,7,"$12,383.53",1769.08,70,47.0,Fresca,Eau de Cologne,Celebridad / masivo,
+CL00275,M,34.0,Norte,En línea,Sí,5,6,6269.57,1044.93,48,87.7,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00814,M,26.0,Centro,Tienda física,Sí,13,5,4558.75,911.75,45,74.3,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL00672,F,58.0,Sur,En línea,No,55,2,"$2,814.52",1407.26,268,25.5,Floral,Eau de Parfum,Diseñador,3.0
+CL00496,M,50.0,Centro,Tienda física,No,4,4,4898.77,1224.69,77,12.1,Amaderada,Eau de Parfum,Diseñador,4.0
+CL01341,F,18.0,Centro,Tienda física,No,30,7,"$7,495.13",1070.73,29,86.4,Fresca,Eau de Toilette,Celebridad / masivo,5.0
+CL00858,M,52.0,Centro,Tienda física,No,39,3,7405.6,2468.53,112,42.0,Fresca,Eau de Cologne,Diseñador,4.0
+CL00262,,35.0,Centro,En línea,No,34,3,6388.55,2129.52,110,19.4,Floral,Parfum,Diseñador,5.0
+CL00539,F,36.0,Sur,Tienda física,No,19,2,3545.58,1772.79,114,19.1,Floral,Eau de Toilette,Diseñador,4.0
+CL00129,F,39.0,Centro,En línea,No,27,7,"$9,825.34",1403.62,62,30.7,Floral,Parfum,Diseñador,3.0
+CL01257,F,46.0,Centro,En línea,No,9,3,5536.65,1845.55,172,72.0,Amaderada,Eau de Toilette,Diseñador,4.0
+CL00130,M,41.0,Sur,Tienda física,Sí,13,1,2476.82,2476.82,215,14.2,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL01271,FEMENINO,33.0,Poniente,Tienda física,Sí,13,2,5025.96,2512.98,93,11.8,Oriental,Eau de Toilette,Nicho,4.0
+CL00161,F,39.0,Norte,Tienda física,No,34,1,2033.84,2033.84,56,18.0,Floral,Eau de Cologne,Celebridad / masivo,
+CL00645,mujer,19.0,Centro,En línea,No,89,8,5992.1,749.01,59,90.5,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL00429,F,61.0,Centro,Tienda física,No,29,1,"$1,580.16",1580.16,80,51.0,Oriental,Eau de Cologne,Diseñador,3.0
+CL00149,,56.0,Norte,Tienda física,Sí,77,12,36115.05,3009.59,24,3.8,Oriental,Eau de Toilette,Diseñador,4.0
+CL01009,M,48.0,Centro,Tienda física,No,28,3,3156.85,1052.28,303,40.8,Floral,Parfum,Diseñador,4.0
+CL00755,F,44.0,Norte,Tienda física,Sí,180,7,17362.2,2480.31,22,2.5,Amaderada,Eau de Toilette,Diseñador,4.0
+CL00412,M,55.0,Sur,En línea,Sí,14,2,3260.66,1630.33,331,39.1,Fresca,Eau de Toilette,Diseñador,3.0
+CL00445,M,20.0,Poniente,En línea,No,57,7,3675.0,525.0,111,66.7,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL01406,F,52.0,Norte,Tienda física,Sí,10,10,26751.81,2675.18,12,11.7,Fresca,Parfum,Nicho,5.0
+CL01301,M,35.0,Sur,En línea,No,31,2,2291.1,1145.55,365,59.0,Floral,Eau de Toilette,Diseñador,1.0
+CL01126,F,58.0,Sur,Tienda física,Sí,40,10,23052.07,2305.21,36,28.4,Amaderada,Eau de Toilette,Nicho,5.0
+CL00798,M,41.0,Norte,En línea,No,19,2,3916.62,1958.31,184,24.4,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00505,M,39.0,Sur,Tienda física,Sí,88,10,31558.04,3155.8,15,27.3,Floral,Eau de Parfum,Nicho,4.0
+CL00125,F,37.0,Norte,Tienda física,No,13,7,7634.6,1090.66,52,80.1,Floral,Eau de Toilette,Diseñador,5.0
+CL00326,Masculino,38.0,Norte,En línea,No,32,2,3522.76,1761.38,89,30.7,Floral,Eau de Parfum,Diseñador,3.0
+CL00477,F,46.0,Norte,Tienda física,Sí,25,1,732.01,732.01,303,38.7,Oriental,Parfum,Diseñador,3.0
+CL00003,M,18.0,Poniente,En línea,Sí,4,4,3284.14,821.04,55,58.6,Cítrica,Eau de Toilette,Celebridad / masivo,3.0
+CL00045,F,,NORTE,En línea,Sí,14,8,7883.9,985.49,21,47.5,Cítrica,Eau de Toilette,Diseñador,3.0
+CL01418,M,22.0,Poniente,Tienda física,No,41,6,3935.95,655.99,13,94.7,Cítrica,Eau de Toilette,Celebridad / masivo,4.0
+CL00092,M,36.0,Norte,En línea,Sí,8,11,5370.08,488.19,44,70.8,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL00112,F,54.0,Sur,Tienda física,Sí,9,6,6148.27,1024.71,16,42.7,Fresca,Eau de Toilette,Diseñador,4.0
+CL00475,F,25.0,Sur,Tienda física,No,23,5,6079.03,1215.81,65,78.2,Floral,Eau de Toilette,Celebridad / masivo,5.0
+CL00604,F,39.0,Norte,Tienda física,No,34,10,8928.36,892.84,15,64.6,Floral,Eau de Toilette,Diseñador,3.0
+CL00806,F,18.0,Centro,Tienda física,Sí,20,7,8500.5,1214.36,56,51.0,Fresca,Eau de Parfum,Celebridad / masivo,3.0
+CL00128,F,18.0,Poniente,Tienda física,No,30,2,2806.89,1403.45,285,16.5,Fresca,Eau de Toilette,Diseñador,2.0
+CL01381,F,35.0,Centro,En línea,No,19,5,4270.7,854.14,35,72.8,Amaderada,Eau de Toilette,Diseñador,3.0
+CL00751,F,32.0,Sur,En línea,No,13,2,"$5,233.34",2616.67,74,19.7,Cítrica,Eau de Parfum,Diseñador,5.0
+CL00524,F,,Norte,En línea,Sí,12,2,2525.54,1262.77,102,49.5,Floral,Eau de Parfum,Celebridad / masivo,4.0
+CL01476,F,38.0,Centro,Tienda física,No,18,6,5989.7,998.28,19,89.0,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00325,F,37.0,Sur,Tienda física,Sí,26,6,10889.92,1814.99,28,16.4,Amaderada,Eau de Parfum,Diseñador,5.0
+CL00194,M,32.0,Sur,,No,20,2,1726.15,863.08,33,27.4,Cítrica,Eau de Toilette,Diseñador,5.0
+CL00710,F,28.0,Norte,Tienda física,No,43,11,15622.44,1420.22,42,80.2,Oriental,Eau de Parfum,Celebridad / masivo,4.0
+CL00865,M,40.0,Sur,Tienda física,Sí,11,5,5094.89,1018.98,56,28.4,Fresca,Eau de Toilette,Diseñador,4.0
+CL00712, m,32.0,Norte,Tienda física,No,53,1,826.77,826.77,216,29.1,Cítrica,Eau de Toilette,Diseñador,2.0
+CL00841,F,31.0,Centro,Tienda física,No,49,5,15118.23,3023.65,110,16.2,Floral,Eau de Toilette,Diseñador,4.0
+CL01389,M,33.0,Norte,Tienda física,Sí,48,2,1055.96,527.98,140,31.1,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00257,M,23.0,Sur,Tienda física,No,17,7,6966.24,995.18,29,65.2,Floral,Eau de Parfum,Diseñador,4.0
+CL00986,M,49.0,Centro,Tienda física,No,18,1,2005.08,2005.08,120,42.3,Floral,Eau de Toilette,Diseñador,4.0
+CL00967,Masculino,32.0,NORTE,Tienda física,No,13,2,3099.13,1549.56,125,12.9,Cítrica,Eau de Parfum,Diseñador,4.0
+CL00555,M,51.0,Poniente,Tienda física,No,14,2,5300.36,2650.18,67,31.6,Cítrica,Parfum,Diseñador,4.0
+CL01360,F,30.0,NORTE,Tienda física,No,52,2,4600.69,2300.35,124,29.7,Amaderada,Eau de Toilette,Diseñador,3.0
+CL01136,F,52.0,Poniente,Tienda física,Sí,31,8,"$16,654.47",2081.81,27,27.0,Amaderada,Eau de Parfum,Nicho,4.0
+CL01362,M,32.0,Poniente,Tienda física,No,13,3,6533.11,2177.7,128,13.0,Fresca,Eau de Parfum,Celebridad / masivo,4.0
+CL01054,F,38.0,Sur,Tienda física,No,28,1,2032.83,2032.83,160,25.0,Oriental,Eau de Toilette,Celebridad / masivo,3.0
+CL00760,M,47.0,Centro,Tienda física,No,24,3,5572.56,1857.52,80,28.4,Oriental,Eau de Parfum,Diseñador,4.0
+CL00507,F,25.0,Sur,Tienda física,Sí,19,8,2314.97,289.37,32,82.6,Floral,Eau de Toilette,Diseñador,3.0
+CL00007,F,42.0,Norte,Tienda física,Sí,35,2,2384.25,1192.12,142,15.3,Oriental,Eau de Parfum,Diseñador,4.0
+CL00686,M,56.0,Poniente,Tienda física,No,41,3,4130.94,1376.98,47,26.1,Floral,Eau de Parfum,Diseñador,4.0
+CL00043,hombre,23.0,Norte,En línea,Sí,17,7,5880.61,840.09,37,84.9,Oriental,Eau de Cologne,Celebridad / masivo,5.0
+CL00200,F,,Poniente,En línea,Sí,14,5,5714.81,1142.96,28,55.3,Oriental,Eau de Toilette,Celebridad / masivo,3.0
+CL00340,F,41.0,Poniente,Tienda física,Sí,90,2,3409.09,1704.55,99,19.8,Cítrica,Eau de Parfum,Diseñador,3.0
+CL00926,M,25.0,Centro,Tienda física,Sí,29,2,3089.46,1544.73,163,17.3,Floral,Eau de Toilette,Diseñador,3.0
+CL01310,M,36.0, Sur ,En línea,Sí,34,5,4781.97,956.39,35,44.7,Fresca,Eau de Cologne,Diseñador,3.0
+CL01014,M,54.0,Centro,Tienda física,No,71,1,2105.97,2105.97,365,29.0,Oriental,Eau de Cologne,Diseñador,
+CL00016,F,59.0,Poniente,Tienda física,No,8,1,557.29,557.29,335,47.0,Amaderada,Eau de Cologne,Diseñador,2.0
+CL00392,M,18.0,Centro,Tienda física,No,43,5,5511.86,1102.37,56,87.3,Cítrica,Eau de Toilette,Diseñador,4.0
+CL01153,M,36.0,Centro,Tienda física,No,21,2,3635.7,1817.85,137,15.5,Cítrica,Eau de Parfum,Diseñador,5.0
+CL01163,F,46.0,Centro,Tienda física,Sí,81,12,32840.53,2736.71,20,0.1,Oriental,Eau de Parfum,Celebridad / masivo,5.0
+CL00184,F,29.0,Sur,Tienda física,No,14,1,374.48,374.48,313,26.3,Cítrica,Eau de Parfum,Diseñador,4.0
+CL00142,F,33.0,Centro,Tienda física,Sí,25,10,9423.18,942.32,26,79.8,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL01465, f ,26.0,Centro,,No,6,4,"$5,558.93",1389.73,46,32.5,Oriental,Eau de Parfum,Diseñador,3.0
+CL00091,M,18.0,Norte,Tienda física,No,63,2,3310.02,1655.01,195,35.2,Oriental,Eau de Toilette,Diseñador,3.0
+CL00802,F,33.0,norte,En línea,No,54,3,"$4,575.43",1525.14,97,14.6,Cítrica,Eau de Toilette,Diseñador,4.0
+CL00406,M,39.0,Sur,En línea,No,63,1,1552.7,1552.7,86,18.9,Fresca,Eau de Parfum,Diseñador,4.0
+CL01298,F,47.0,Poniente,Tienda física,No,14,6,11232.37,1872.06,82,23.5,Amaderada,Parfum,Nicho,3.0
+CL00341,F,25.0,Sur,Tienda física,No,66,5,7468.89,1493.78,258,54.1,Amaderada,Parfum,Diseñador,3.0
+CL00988,M,25.0,Norte,Tienda física,Sí,42,1,480.37,480.37,364,53.4,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00080, f ,30.0,Centro,En línea,No,41,6,4823.87,803.98,19,91.9,Floral,Eau de Parfum,Celebridad / masivo,5.0
+CL00050,F,45.0,Centro,En línea,No,6,2,2435.11,1217.56,110,34.2,Amaderada,Eau de Parfum,Diseñador,3.0
+CL00175,F,42.0,Poniente,En línea,Sí,21,1,1151.67,1151.67,129,26.9,Fresca,Eau de Parfum,Diseñador,4.0
+CL01455,F,44.0,Norte,Tienda física,Sí,86,15,37513.57,2500.9,9,11.9,Floral,Eau de Parfum,Nicho,4.0
+CL01029,F,51.0,Norte,En línea,No,32,1,$877.17,877.17,122,42.2,Floral,Parfum,Diseñador,4.0
+CL00280,F,22.0,Centro,Tienda física,No,16,9,11171.15,1241.24,59,74.9,Fresca,Eau de Cologne,Celebridad / masivo,5.0
+CL00046,M,43.0,Poniente,Tienda física,No,15,3,6788.34,2262.78,63,14.3,Oriental,Eau de Cologne,Diseñador,4.0
+CL00890,M,54.0,Norte,En línea,No,4,1,1887.7,1887.7,129,44.8,Amaderada,Parfum,Diseñador,4.0
+CL00807,M,24.0,Poniente,Tienda física,Sí,23,3,"$3,457.57",1152.52,108,53.9,Oriental,Eau de Parfum,Diseñador,3.0
+CL01169,M,50.0,Centro,Tienda física,Sí,16,14,30617.74,2186.98,11,38.8,Floral,Eau de Parfum,Diseñador,4.0
+CL00234,F,33.0,Norte,En línea,Sí,6,4,7901.85,1975.46,56,60.3,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL01040,F,41.0,CENTRO,En línea,Sí,28,4,1659.25,414.81,45,87.1,Floral,Eau de Toilette,Celebridad / masivo,5.0
+CL01004,F,27.0,Norte,En línea,No,16,3,5502.35,1834.12,133,30.6,Floral,Eau de Toilette,Nicho,3.0
+CL00119,M,37.0,Sur,En línea,Sí,55,7,7941.03,1134.43,62,52.8,Oriental,Eau de Toilette,Diseñador,4.0
+CL00825,F,35.0,Sur,En línea,Sí,87,15,40420.2,2694.68,10,15.4,Amaderada,Eau de Parfum,Diseñador,5.0
+CL01015,F,27.0,Norte,Tienda física,Sí,18,9,8484.67,942.74,32,60.4,Oriental,Eau de Toilette,Celebridad / masivo,4.0
+CL00216,F,23.0,Poniente,Tienda física,No,58,10,10750.83,1075.08,21,93.0,Floral,Eau de Toilette,Celebridad / masivo,5.0
+CL00459,Femenino,40.0,Centro,Tienda física,No,4,7,"$8,433.59",1204.8,96,54.9,Cítrica,Eau de Cologne,Celebridad / masivo,5.0
+CL01108,M,52.0,Sur,Tienda física,Sí,59,5,"$15,467.28",3093.46,28,56.9,Oriental,Parfum,Nicho,4.0
+CL00019,F,29.0,Norte,En línea,Sí,39,9,7817.13,868.57,36,72.1,Cítrica,Eau de Toilette,Celebridad / masivo,4.0
+CL01413,M,38.0,Sur,En línea,No,78,9,19819.03,2202.11,15,29.2,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL00585,F,35.0,Centro,Tienda física,No,23,4,1630.96,407.74,98,68.8,Cítrica,Eau de Toilette,Celebridad / masivo,4.0
+CL01468,F,42.0,Centro,Tienda física,Sí,11,8,22045.84,2755.73,17,21.5,Floral,Eau de Parfum,Nicho,4.0
+CL01134,M,18.0,Norte,Tienda física,No,4,5,8528.6,1705.72,247,20.7,Floral,Eau de Parfum,Diseñador,5.0
+CL01260,F,18.0,Sur,Tienda física,No,2,1,1745.44,1745.44,-90,39.0,Amaderada,Eau de Parfum,Diseñador,4.0
+CL01439,M,38.0,Sur,En línea,No,53,11,8389.29,762.66,22,96.1,Floral,Parfum,Celebridad / masivo,5.0
+CL00863,F,46.0,Norte,En línea,Sí,116,7,23440.51,3348.64,16,5.9,Oriental,Eau de Toilette,Nicho,5.0
+CL00859,F,36.0,Norte,En línea,Sí,33,9,"$5,865.48",651.72,29,46.0,Floral,Eau de Cologne,Celebridad / masivo,3.0
+CL01031,F,46.0,Centro,En línea,Sí,47,3,1575.89,525.3,13,73.5,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00536,F,45.0,CENTRO,Tienda física,Sí,64,14,20548.3,1467.74,3,18.6,Oriental,Eau de Parfum,Nicho,5.0
+CL00553,F,26.0,Sur,Tienda física,No,27,6,7581.69,1263.62,79,69.9,Floral,Eau de Cologne,Celebridad / masivo,5.0
+CL00017,F,45.0,Poniente,En línea,No,46,5,4628.88,925.78,35,78.4,Cítrica,Eau de Toilette,Celebridad / masivo,4.0
+CL00663,M,40.0,Poniente,Tienda física,No,1,5,6055.46,1211.09,35,33.2,Floral,Parfum,Diseñador,4.0
+CL01097,M,45.0,Sur,Tienda física,Sí,31,1,1174.42,1174.42,209,33.3,Cítrica,Eau de Toilette,Celebridad / masivo,3.0
+CL01419,M,39.0,Norte,Tienda física,No,59,3,4106.07,1368.69,332,27.0,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00823,F,20.0,Norte,En línea,Sí,69,11,8810.01,800.91,-54,87.4,Floral,Eau de Parfum,Diseñador,5.0
+CL00209,F,37.0,Poniente,Tienda física,Sí,76,1,506.5,506.5,321,26.3,Amaderada,Eau de Cologne,Celebridad / masivo,3.0
+CL00779,F,29.0,Centro,Tienda física,No,65,6,11337.21,1889.54,111,31.1,Floral,Eau de Toilette,Diseñador,4.0
+CL00530,M,56.0,Centro,Tienda física,No,24,1,1384.01,1384.01,365,22.5,Cítrica,Eau de Toilette,Diseñador,3.0
+CL00506,FEMENINO,46.0,Centro,En línea,Sí,21,7,3394.48,484.93,9,89.0,Oriental,Eau de Toilette,Diseñador,4.0
+CL01086,F,28.0,Norte,Tienda física,No,22,3,"$6,052.42",2017.47,76,22.0,Fresca,Parfum,Diseñador,4.0
+CL00473,M,33.0,Poniente,En línea,No,84,10,14174.75,1417.48,40,72.6,Fresca,Eau de Toilette,Diseñador,4.0
+CL00001,F,33.0,Centro,Tienda física,No,12,7,5116.59,730.94,43,39.9,Fresca,Eau de Toilette,Diseñador,3.0
+CL01001, f ,48.0,Poniente,Tienda física,No,39,1,1085.71,1085.71,91,23.1,Fresca,Eau de Toilette,Diseñador,3.0
+CL00447,F,31.0,Norte,Tienda física,Sí,30,3,8892.96,2964.32,73,26.7,Floral,Eau de Parfum,Diseñador,4.0
+CL00259,M,43.0,Centro,En línea,No,66,1,1739.21,1739.21,132,48.0,Floral,Eau de Toilette,Diseñador,3.0
+CL01220,M,21.0,Norte,Tienda física,Sí,5,14,10803.21,771.66,21,58.0,Cítrica,Eau de Toilette,Celebridad / masivo,3.0
+CL01309,F,45.0,Centro,Tienda física,No,48,2,"$2,510.97",1255.48,348,62.5,Oriental,Eau de Toilette,Celebridad / masivo,4.0
+CL00984,M,48.0,Poniente,Tienda física,Sí,35,9,"$21,683.78",2409.31,26,29.5,Oriental,Eau de Toilette,Diseñador,4.0
+CL00756,F,41.0, Centro ,En línea,Sí,35,2,5288.11,2644.06,6,27.2,Oriental,Parfum,Diseñador,5.0
+CL01393,F,47.0,Centro,Tienda física,Sí,120,6,11556.09,1926.02,12,1.2,Oriental,Parfum,Celebridad / masivo,5.0
+CL00152,F,35.0,Norte,Tienda física,No,19,8,8871.0,1108.87,39,59.8,Cítrica,Eau de Parfum,Diseñador,4.0
+CL01230,F,45.0,Sur,Tienda física,No,52,14,20278.02,1448.43,18,13.9,Oriental,Eau de Parfum,Nicho,4.0
+CL00896,F,40.0,Poniente,En línea,No,4,3,3391.6,1130.53,110,25.8,Floral,Parfum,Diseñador,4.0
+CL00242,M,35.0,Centro,Tienda física,No,35,2,3860.16,1930.08,240,31.3,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL00395,F,36.0,Centro,Tienda física,No,30,2,3334.83,1667.42,23,32.1,Oriental,Eau de Toilette,Nicho,2.0
+CL01152,M,22.0,Centro,Tienda física,No,18,4,10586.75,2646.69,112,16.9,Fresca,Eau de Parfum,Diseñador,4.0
+CL00937,M,28.0,Norte,Tienda física,Sí,6,5,7999.2,1599.84,46,14.8,Amaderada,Eau de Toilette,Diseñador,3.0
+CL00165,F,20.0,Sur,Tienda física,Sí,9,7,4269.93,609.99,53,52.2,Oriental,Eau de Cologne,Celebridad / masivo,4.0
+CL00160,F,23.0,Centro,En línea,No,25,6,7330.05,1221.67,160,11.8,Oriental,Eau de Parfum,Celebridad / masivo,
+CL00075,M,45.0,Norte,En línea,Sí,55,2,2355.6,1177.8,291,54.9,Oriental,Eau de Parfum,Diseñador,3.0
+CL01449,mujer,43.0,Centro,Tienda física,No,11,2,4112.1,2056.05,325,66.2,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL00848,M,31.0,Norte,Tienda física,No,21,12,9845.5,820.46,20,82.2,Floral,Eau de Toilette,Diseñador,3.0
+CL01150,M,18.0,Norte,En línea,No,11,3,7623.63,2541.21,31,63.6,Floral,Eau de Parfum,Diseñador,4.0
+CL00993,M,48.0,Poniente,En línea,No,24,4,4923.47,1230.87,57,43.7,Fresca,Eau de Parfum,Celebridad / masivo,3.0
+CL01366,M,33.0,Poniente,Tienda física,Sí,31,1,725.41,725.41,365,63.7,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL00831,M,72.0,Norte,En línea,No,13,2,1730.79,865.39,142,67.9,Floral,Eau de Parfum,Diseñador,4.0
+CL00971,M,35.0,Norte,Tienda física,No,11,6,7398.54,1233.09,50,95.3,Cítrica,Eau de Toilette,Diseñador,3.0
+CL01249,M,23.0,Poniente,Tienda física,No,9,7,4845.5,692.21,35,56.7,Oriental,Eau de Toilette,Diseñador,4.0
+CL00491,F,48.0,Centro,En línea,No,46,5,"$8,076.71",1615.34,74,13.9,Oriental,Parfum,Diseñador,4.0
+CL01370,F,39.0,SUR,Tienda física,Sí,13,6,7189.7,1198.28,29,71.9,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00263,F,36.0,Norte,Tienda física,Sí,9,7,8602.69,1228.96,37,86.4,Amaderada,Eau de Toilette,Diseñador,3.0
+CL00355,M,40.0,Centro,Tienda física,No,180,14,31312.45,2236.6,14,14.7,Amaderada,Parfum,Nicho,5.0
+CL00870,M,30.0,Poniente,En línea,Sí,14,4,6658.92,1664.73,57,11.9,Amaderada,Eau de Parfum,Diseñador,4.0
+CL01279,M,41.0,Centro,Tienda física,Sí,50,9,23114.68,2568.3,21,33.3,Amaderada,Parfum,Diseñador,5.0
+CL00877,F,20.0,Poniente,Tienda física,Sí,88,7,23104.29,3300.61,20,21.1,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL00733,F,18.0,Poniente,En línea,No,30,6,12646.59,2107.76,94,17.4,Floral,Eau de Cologne,Celebridad / masivo,3.0
+CL01373,M,20.0,Centro,En línea,Sí,3,8,9548.3,1193.54,46,99.2,Floral,Eau de Toilette,Celebridad / masivo,5.0
+CL00711,M,46.0,Norte,Tienda física,Sí,27,14,38920.76,2780.05,22,11.9,Oriental,Eau de Parfum,Nicho,5.0
+CL00752,F,52.0,Norte,En línea,Sí,59,6,16146.93,2691.16,20,27.3,Amaderada,Eau de Parfum,Diseñador,5.0
+CL00181,F,32.0,Centro,Tienda física,Sí,6,1,2506.68,2506.68,72,56.0,Fresca,Parfum,Diseñador,4.0
+CL01431,M,35.0,Norte,Tienda física,Sí,70,14,39910.27,2850.73,12,11.4,Cítrica,Eau de Parfum,Nicho,4.0
+CL01017,F,34.0,Poniente,Tienda física,No,14,3,6730.8,2243.6,199,15.9,Amaderada,Eau de Parfum,Diseñador,4.0
+CL01062,F,52.0,Sur,En línea,Sí,32,1,1262.83,1262.83,77,27.7,Floral,Eau de Toilette,Diseñador,3.0
+CL01238,M,29.0,sur,Tienda física,Sí,47,8,10546.16,1318.27,31,70.0,Floral,Eau de Toilette,Diseñador,3.0
+CL00053,F,37.0,Centro,Tienda física,Sí,7,7,4389.53,627.08,28,80.0,Floral,Eau de Toilette,Celebridad / masivo,5.0
+CL00531,F,35.0,Norte,Tienda física,No,68,1,2156.86,2156.86,73,33.1,Amaderada,Eau de Parfum,Diseñador,3.0
+CL01131,M,48.0,Poniente,Tienda física,No,60,1,1383.91,1383.91,237,37.2,Fresca,Eau de Cologne,Diseñador,3.0
+CL01268,M,26.0,Sur,En línea,No,11,2,891.67,445.83,48,74.5,Fresca,Eau de Parfum,Celebridad / masivo,4.0
+CL01275,F,43.0,Centro,Tienda física,Sí,52,1,1969.95,1969.95,273,21.5,Oriental,Eau de Cologne,Diseñador,3.0
+CL00979,F,40.0,Norte,Tienda física,Sí,21,5,4562.89,912.58,39,68.3,Cítrica,Eau de Cologne,Diseñador,
+CL00369,M,44.0,Poniente,Tienda física,No,23,1,2162.31,2162.31,256,45.1,Cítrica,Eau de Toilette,Celebridad / masivo,3.0
+CL00266,F,18.0,Norte,Tienda física,Sí,38,9,4426.39,491.82,15,87.2,Fresca,Eau de Toilette,Diseñador,3.0
+CL00052,FEMENINO,32.0,Norte,En línea,Sí,13,5,2325.28,465.06,43,80.6,Amaderada,Eau de Parfum,Celebridad / masivo,5.0
+CL01472,Masculino,29.0,Norte,En línea,Sí,13,7,7566.97,1081.0,34,82.0,Fresca,Eau de Toilette,Diseñador,4.0
+CL01280,F,40.0,Centro,Tienda física,No,6,7,19883.13,2840.45,87,23.0,Fresca,Eau de Parfum,Celebridad / masivo,3.0
+CL00519,M,25.0,Sur,En línea,Sí,21,2,3854.0,1927.0,68,29.3,Amaderada,Eau de Toilette,Celebridad / masivo,4.0
+CL00516,F,,Sur,En línea,No,45,1,1181.52,1181.52,265,49.4,Oriental,Eau de Toilette,Celebridad / masivo,3.0
+CL00974,F,52.0,Sur,Tienda física,Sí,40,11,22775.2,2070.47,13,11.2,Floral,Eau de Parfum,Diseñador,4.0
+CL00448,M,38.0,Sur,Tienda física,No,20,3,5219.62,1739.87,59,72.2,Fresca,Eau de Toilette,Celebridad / masivo,5.0
+CL00330,M,55.0,Sur,Tienda física,No,1,2,3336.61,1668.3,247,27.2,Floral,Eau de Parfum,Diseñador,4.0
+CL00434,M,56.0,Poniente,En línea,No,18,1,$789.03,789.03,365,43.6,Fresca,Eau de Parfum,Diseñador,2.0
+CL00654,F,23.0,Sur,Tienda física,Sí,28,4,2236.38,559.09,26,70.8,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL01210,M,47.0,Norte,Tienda física,No,11,3,3065.58,1021.86,71,5.0,Floral,Eau de Parfum,Diseñador,4.0
+CL00006,M,46.0,Centro,Tienda física,No,44,4,4664.42,1166.1,120,50.2,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00969, m,54.0,Centro,Tienda física,No,58,2,1481.22,740.61,320,50.4,Floral,Eau de Parfum,Diseñador,3.0
+CL00883,F,44.0,Norte,Tienda física,No,31,1,1171.92,1171.92,345,56.6,Amaderada,Eau de Parfum,Diseñador,4.0
+CL01157,M,22.0,Centro,En línea,Sí,44,5,4541.02,908.2,23,69.2,Fresca,Eau de Cologne,Celebridad / masivo,4.0
+CL00032,,52.0,Norte,Tienda física,No,29,2,2310.2,1155.1,254,35.8,Floral,Eau de Toilette,Diseñador,3.0
+CL00552,M,39.0,Sur,Tienda física,Sí,110,13,51215.42,3939.65,11,5.7,Amaderada,Eau de Toilette,Diseñador,5.0
+CL00724,F,43.0,Norte,Tienda física,No,10,1,1335.79,1335.79,124,47.0,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL00382,Masculino,31.0,Norte,Tienda física,Sí,45,1,1199.18,1199.18,138,47.5,Amaderada,Eau de Toilette,Diseñador,3.0
+CL01043,M,22.0,Norte,En línea,No,4,3,4528.25,1509.42,69,23.2,Fresca,Eau de Parfum,Diseñador,4.0
+CL00997,F,49.0,Sur,Tienda física,No,23,1,966.69,966.69,316,39.4,Floral,Eau de Toilette,Diseñador,3.0
+CL01311,M,48.0,Norte,Tienda física,No,48,1,807.14,807.14,342,50.5,Oriental,Eau de Toilette,Celebridad / masivo,4.0
+CL00371,F,23.0,Sur,En línea,Sí,78,5,5883.92,1176.78,49,95.6,Amaderada,Eau de Toilette,Celebridad / masivo,2.0
+CL00518,M,34.0,Centro,En línea,No,9,4,1967.0,491.75,27,14.9,Floral,Eau de Parfum,Diseñador,4.0
+CL00797,M,23.0,Sur,En línea,Sí,24,9,8256.14,917.35,24,36.6,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL01444,F,43.0,Centro,En línea,Sí,67,1,1588.78,1588.78,336,36.4,Floral,Eau de Toilette,Diseñador,3.0
+CL00030,F,18.0,Centro,En línea,No,35,3,3056.45,1018.82,21,46.3,Fresca,Parfum,Diseñador,4.0
+CL01333,F,57.0,Sur,Tienda física,No,21,1,1415.76,1415.76,286,34.8,Fresca,Eau de Toilette,Diseñador,4.0
+CL01402,M,48.0,Centro,Tienda física,Sí,73,3,4365.59,1455.2,353,77.0,Oriental,Eau de Parfum,Nicho,4.0
+CL01087,M,26.0,norte,En línea,Sí,8,8,3821.59,477.7,60,75.1,Fresca,Eau de Cologne,Celebridad / masivo,4.0
+CL00338,M,31.0,Centro,Tienda física,Sí,45,9,10135.5,1126.17,37,54.3,Fresca,Eau de Toilette,Celebridad / masivo,5.0
+CL00109, m,42.0,Sur,En línea,Sí,1,3,3522.74,1174.25,47,20.4,Cítrica,Parfum,Diseñador,4.0
+CL01069,M,48.0,Centro,En línea,Sí,86,12,52213.09,4351.09,11,4.2,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00526,M,38.0,Norte,En línea,No,7,3,3886.22,1295.41,121,10.9,Cítrica,Eau de Cologne,Diseñador,
+CL00902,F,40.0,Centro,Tienda física,No,35,1,649.81,649.81,279,15.9,Cítrica,Eau de Parfum,Diseñador,3.0
+CL00843,F,37.0,Centro,Tienda física,Sí,33,10,36863.04,3686.3,21,8.4,Amaderada,Eau de Parfum,Diseñador,4.0
+CL01111,F,, Centro ,En línea,No,35,2,2957.23,1478.62,213,48.9,Amaderada,Eau de Parfum,Diseñador,3.0
+CL01254,Masculino,46.0,Norte,Tienda física,Sí,18,6,11463.96,1910.66,93,17.2,Amaderada,Eau de Toilette,Celebridad / masivo,4.0
+CL01224,F,30.0,Norte,Tienda física,Sí,54,7,5880.62,840.09,19,77.7,,Eau de Toilette,Celebridad / masivo,5.0
+CL00436,F,25.0,Norte,En línea,Sí,180,8,17551.77,2193.97,30,11.6,Floral,Parfum,Nicho,5.0
+CL00343,F,50.0,Sur,Tienda física,Sí,30,12,47508.79,3959.07,16,5.8,Amaderada,Eau de Toilette,Diseñador,5.0
+CL01176,F,25.0,Norte,Tienda física,No,21,6,9063.31,1510.55,35,55.9,Amaderada,Eau de Toilette,Celebridad / masivo,5.0
+CL00204,M,51.0,Centro,En línea,No,35,2,4486.6,2243.3,37,13.7,Floral,Eau de Toilette,Diseñador,3.0
+CL00775,F,41.0,Centro,Tienda física,No,50,10,"$6,410.94",641.09,41,35.6,Floral,Eau de Toilette,Diseñador,5.0
+CL01329,,53.0,Centro,Tienda física,No,7,2,2543.63,1271.81,77,25.9,Floral,Parfum,Diseñador,4.0
+CL00144,F,28.0,Poniente,Tienda física,Sí,27,9,6191.49,687.94,30,60.9,Cítrica,Eau de Toilette,Diseñador,3.0
+CL00188,M,45.0,Sur,Tienda física,No,34,4,10427.89,2606.97,45,6.9,Fresca,Eau de Cologne,Nicho,5.0
+CL00626,M,37.0,Centro,Tienda física,No,16,4,5849.26,1462.31,86,40.0,Oriental,Eau de Parfum,Nicho,4.0
+CL00581,M,36.0,Poniente,Tienda física,Sí,72,2,4817.33,2408.66,125,36.0,Fresca,Eau de Parfum,Diseñador,3.0
+CL00975,F,28.0,Norte,En línea,No,30,2,2580.28,1290.14,88,16.3,Fresca,Eau de Parfum,Diseñador,
+CL01358,F,32.0,Centro,Tienda física,Sí,1,13,15470.18,1190.01,41,58.6,Oriental,Eau de Cologne,Celebridad / masivo,3.0
+CL00058,F,23.0,Centro,Tienda física,No,108,7,"$2,733.15",390.45,28,41.5,Fresca,Eau de Toilette,Diseñador,5.0
+CL00226,F,19.0,Poniente,En línea,Sí,42,4,3906.91,976.73,51,73.3,Cítrica,Eau de Cologne,Diseñador,4.0
+CL00089,M,28.0,Centro,Tienda física,No,8,4,5007.9,1251.97,178,45.7,Oriental,Eau de Parfum,Celebridad / masivo,4.0
+CL00964,F,37.0,Centro,En línea,Sí,39,9,26992.21,2999.13,23,8.0,Floral,Eau de Parfum,Diseñador,4.0
+CL00024,F,40.0,Poniente,Tienda física,Sí,168,11,29078.78,2643.53,25,2.8,Floral,Eau de Toilette,Diseñador,5.0
+CL00844,M,23.0,Centro,Tienda física,No,15,5,4828.41,965.68,28,94.3,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL00909,Femenino,27.0,Poniente,Tienda física,Sí,47,7,5318.32,759.76,30,79.9,Oriental,Eau de Cologne,Celebridad / masivo,3.0
+CL00238, m,39.0,Norte,Tienda física,No,10,2,3288.66,1644.33,146,24.0,Fresca,Eau de Toilette,Diseñador,3.0
+CL00254,M,199.0,Norte,Tienda física,No,31,1,1795.33,1795.33,-59,61.4,Floral,Eau de Toilette,Diseñador,3.0
+CL00328,M,36.0,Centro,En línea,No,30,2,2306.79,1153.4,65,12.7,Floral,Eau de Parfum,Celebridad / masivo,2.0
+CL00169,M,33.0,Sur,Tienda física,Sí,94,13,39376.11,3028.93,14,2.8,Amaderada,Eau de Parfum,Nicho,4.0
+CL00132,M,43.0, Sur ,Tienda física,No,28,2,3225.47,1612.74,142,22.3,Floral,Parfum,Nicho,4.0
+CL01252,M,41.0,Poniente,En línea,Sí,11,7,7967.83,1138.26,22,58.7,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL01213,F,49.0,Sur,Tienda física,No,11,3,6423.94,2141.31,115,54.3,Amaderada,Eau de Toilette,Diseñador,3.0
+CL01155,M,49.0,Centro,En línea,Sí,7,2,2267.77,1133.88,191,35.3,Floral,Eau de Toilette,Diseñador,4.0
+CL00591,mujer,26.0,Centro,En línea,Sí,3,9,3750.13,416.68,43,93.2,Amaderada,Eau de Toilette,Diseñador,4.0
+CL01179,M,48.0,Sur,En línea,Sí,77,20,58864.35,2943.22,19,11.4,Oriental,Eau de Toilette,Diseñador,
+CL00659,F,48.0,Centro,Tienda física,No,42,1,832.65,832.65,210,11.3,Oriental,Eau de Parfum,Diseñador,4.0
+CL00221,F,45.0,Centro,Tienda física,No,25,6,6093.81,1015.64,58,96.7,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00111,M,27.0,Centro,En línea,Sí,23,5,9673.21,1934.64,35,21.5,Floral,Eau de Toilette,Diseñador,4.0
+CL01171,F,50.0,Centro,Tienda física,Sí,18,2,2345.73,1172.86,63,30.3,Cítrica,Eau de Toilette,Nicho,5.0
+CL00218,hombre,39.0,Norte,En línea,Sí,2,1,1354.13,1354.13,349,45.2,Fresca,Eau de Toilette,Diseñador,3.0
+CL01192,F,19.0, Norte ,En línea,No,48,12,"$15,256.96",1271.41,45,51.6,Fresca,Eau de Toilette,Celebridad / masivo,5.0
+CL01368,F,3.0,Sur,Tienda física,Sí,84,7,14458.45,2065.49,21,25.8,Floral,Parfum,Nicho,4.0
+CL00722,hombre,38.0,Poniente,En línea,No,33,5,9276.61,1855.32,170,26.9,Fresca,Eau de Toilette,Diseñador,3.0
+CL01281,F,58.0,Sur,Tienda física,Sí,17,1,1356.55,1356.55,219,36.2,Amaderada,Eau de Toilette,Celebridad / masivo,
+CL00301,F,33.0,Sur,En línea,No,2,4,8085.46,2021.36,52,36.0,Oriental,Eau de Toilette,Diseñador,3.0
+CL00407,F,22.0,Centro,Tienda física,No,30,4,2842.04,710.51,44,69.7,Fresca,Eau de Cologne,Celebridad / masivo,3.0
+CL00500,F,45.0,Norte,En línea,Sí,126,11,45000.46,4090.95,16,25.2,Amaderada,Eau de Parfum,Nicho,4.0
+CL00830,F,29.0,Centro,En línea,No,4,5,3528.53,705.71,14,74.1,Fresca,Eau de Cologne,Celebridad / masivo,4.0
+CL00047,M,46.0,Centro,En línea,Sí,38,2,5794.08,2897.04,54,9.2,Oriental,Eau de Toilette,Diseñador,3.0
+CL00222,M,18.0,Sur,En línea,No,20,9,12776.82,1419.65,66,19.6,Fresca,Eau de Cologne,Diseñador,5.0
+CL00809,M,59.0,Centro,En línea,Sí,79,1,"$1,268.89",1268.89,365,26.6,Cítrica,Eau de Toilette,Diseñador,3.0
+CL00853,F,41.0,Sur,Tienda física,Sí,46,4,2598.44,649.61,21,59.3,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL01440,F,28.0,Sur,Tienda física,Sí,127,13,34483.37,2652.57,26,7.6,Amaderada,Eau de Parfum,Diseñador,5.0
+CL00622,F,64.0,Centro,En línea,No,11,3,3263.69,1087.9,208,49.1,Cítrica,Parfum,Diseñador,3.0
+CL00051,M,29.0,Poniente,Tienda física,Sí,6,2,4249.45,2124.73,88,9.0,Amaderada,Parfum,Diseñador,3.0
+CL00594,F,31.0,Norte,En línea,No,43,6,5293.15,882.19,84,73.8,Amaderada,Eau de Toilette,Celebridad / masivo,3.0
+CL00590,F,30.0,Centro,En línea,No,60,5,3825.15,765.03,58,49.7,Cítrica,Eau de Toilette,Diseñador,4.0
+CL00867,M,39.0,Centro,Tienda física,No,45,3,4247.95,1415.98,57,30.2,Fresca,Eau de Parfum,Diseñador,4.0
+CL00215,F,50.0,Norte,Tienda física,Sí,66,11,"$35,986.14",3271.47,17,31.5,Oriental,Parfum,Nicho,3.0
+CL01264,F,33.0,Poniente,,No,16,9,4984.41,553.82,44,75.2,Floral,Eau de Toilette,Diseñador,4.0
+CL01348,M,47.0,Poniente,Tienda física,Sí,18,7,18987.12,2712.45,20,6.4,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00166,F,36.0,Norte,En línea,No,119,10,23824.9,2382.49,23,20.0,Oriental,Eau de Parfum,Nicho,5.0
+CL00131,M,38.0,Centro,En línea,No,62,4,8161.88,2040.47,214,74.9,Amaderada,Eau de Toilette,Diseñador,4.0
+CL00492,Femenino,50.0,Norte,Tienda física,No,6,1,754.13,754.13,197,21.1,Fresca,Eau de Toilette,Diseñador,5.0
+CL01339,F,38.0,Centro,En línea,No,34,10,32922.92,3292.29,5,14.7,Cítrica,Eau de Parfum,Diseñador,5.0
+CL01099,F,48.0,Poniente,Tienda física,No,81,1,737.75,737.75,255,20.8,Oriental,Eau de Parfum,Celebridad / masivo,3.0
+CL00881,F,28.0,Centro,En línea,Sí,18,7,3154.52,450.65,9,68.3,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL00615,F,42.0,Poniente,Tienda física,Sí,21,2,2305.39,1152.7,365,41.5,Floral,Eau de Parfum,Diseñador,3.0
+CL00691,M,39.0,Sur,Tienda física,Sí,124,11,32397.01,2945.18,20,2.5,Floral,Eau de Parfum,Diseñador,5.0
+CL01039,M,45.0,Poniente,Tienda física,Sí,20,3,6054.94,2018.31,226,28.0,Floral,Eau de Parfum,Diseñador,5.0
+CL00042,F,28.0,Centro,Tienda física,Sí,3,6,3616.31,602.72,22,84.3,Fresca,Eau de Parfum,Celebridad / masivo,4.0
+CL00454,F,21.0,Norte,Tienda física,No,11,4,6722.95,1680.74,154,23.1,Floral,Eau de Toilette,Diseñador,3.0
+CL00546,F,30.0,Centro,En línea,No,3,8,17120.68,2140.08,50,24.6,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00995,F,35.0, Poniente ,En línea,Sí,92,10,44778.54,4477.85,17,4.9,Fresca,Eau de Parfum,Diseñador,4.0
+CL01367,M,18.0,Sur,En línea,Sí,44,8,5110.1,638.76,29,82.1,Cítrica,Eau de Toilette,Diseñador,5.0
+CL01047,M,18.0, Centro ,Tienda física,No,59,4,7425.07,1856.27,58,36.6,Oriental,Eau de Parfum,Celebridad / masivo,4.0
+CL00731, m,32.0,Poniente,En línea,No,24,3,4809.9,1603.3,131,28.8,Amaderada,Eau de Parfum,Diseñador,5.0
+CL00225,M,28.0,Poniente,Tienda física,Sí,32,9,9028.08,1003.12,16,85.2,Fresca,Parfum,Celebridad / masivo,4.0
+CL00499,M,48.0,Centro,Tienda física,Sí,23,13,59741.54,4595.5,15,12.8,Oriental,Eau de Parfum,Nicho,5.0
+CL00801,M,30.0,Sur,En línea,No,11,3,"$2,685.92",895.31,52,16.7,Cítrica,Eau de Toilette,Diseñador,
+CL01187,M,48.0,Sur,Tienda física,No,21,1,1309.94,1309.94,300,48.4,Cítrica,Eau de Toilette,Celebridad / masivo,3.0
+CL00584,F,42.0,Poniente,En línea,No,7,1,2001.82,2001.82,237,25.6,Oriental,Parfum,Diseñador,3.0
+CL00697,M,150.0,Centro,En línea,No,10,3,4118.22,1372.74,81,35.8,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL00344, f ,47.0,Poniente,En línea,Sí,27,4,3582.07,895.52,89,22.0,Amaderada,Eau de Toilette,Nicho,4.0
+CL00061,M,25.0,Centro,Tienda física,No,10,1,1885.49,1885.49,76,49.0,Floral,Eau de Toilette,Diseñador,3.0
+CL01485,F,21.0,Sur,En línea,No,16,9,8384.07,931.56,54,61.2,Amaderada,Eau de Cologne,Diseñador,4.0
+CL01042,F,26.0,Norte,Tienda física,Sí,9,1,692.74,692.74,231,21.1,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00927,F,48.0,Centro,Tienda física,Sí,50,9,21138.62,2348.74,22,22.1,Floral,Eau de Parfum,Diseñador,5.0
+CL01232,M,70.0,Centro,Tienda física,Sí,36,1,599.89,599.89,277,23.7,Floral,Eau de Parfum,Celebridad / masivo,3.0
+CL00913,M,41.0,Sur,En línea,No,23,3,6343.34,2114.45,94,19.2,Floral,Parfum,Diseñador,4.0
+CL00972,F,30.0,Poniente,En línea,No,24,3,2567.05,855.68,264,22.7,Amaderada,Eau de Toilette,Diseñador,3.0
+CL00207,M,52.0,Centro,En línea,Sí,24,7,20053.39,2864.77,8,15.2,Floral,Parfum,Diseñador,4.0
+CL00627,F,24.0,Centro,En línea,Sí,50,4,3094.4,773.6,38,75.1,Cítrica,Eau de Toilette,Celebridad / masivo,4.0
+CL00077,F,40.0,Centro,Tienda física,Sí,41,10,16861.95,1686.2,31,29.6,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00900,F,21.0,Centro,Tienda física,No,26,2,6918.08,3459.04,93,25.9,Oriental,Eau de Toilette,Diseñador,4.0
+CL00438,F,18.0,Centro,En línea,No,51,3,1751.96,583.99,26,86.5,Fresca,Eau de Parfum,Celebridad / masivo,5.0
+CL00158,M,35.0,Norte,Tienda física,Sí,24,7,6237.54,891.08,40,59.3,Floral,Eau de Toilette,Diseñador,3.0
+CL00084,F,47.0,Norte,Tienda física,No,20,12,27564.57,2297.05,20,13.5,Oriental,Parfum,Nicho,3.0
+CL00556,F,33.0,Norte,Tienda física,No,46,2,3401.02,1700.51,364,37.6,Amaderada,Eau de Cologne,Celebridad / masivo,2.0
+CL01340,M,31.0,Sur,En línea,Sí,35,11,"$7,824.33",711.3,49,72.3,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00952,M,42.0,Poniente,En línea,Sí,30,10,32307.48,3230.75,13,9.4,Floral,Eau de Cologne,Nicho,4.0
+CL00699,F,25.0,Norte,Tienda física,No,13,2,3870.31,1935.16,15,41.2,Floral,Eau de Parfum,Diseñador,4.0
+CL00264,F,37.0,Sur,Tienda física,Sí,2,6,10324.56,1720.76,69,17.7,Fresca,Parfum,Celebridad / masivo,5.0
+CL01296,F,39.0,Sur,Tienda física,No,25,3,5843.76,1947.92,140,48.6,Fresca,Eau de Toilette,Diseñador,4.0
+CL00532,M,37.0,Centro,Tienda física,No,47,1,1665.17,1665.17,195,32.4,Amaderada,Parfum,Celebridad / masivo,2.0
+CL00324,F,49.0, Poniente ,Tienda física,No,32,3,3638.53,1212.84,141,9.7,Fresca,Eau de Parfum,Diseñador,2.0
+CL01191,F,27.0,Centro,Tienda física,Sí,5,8,6239.17,779.9,28,65.5,Fresca,Eau de Parfum,Diseñador,2.0
+CL01451,F,31.0,Centro,En línea,No,31,6,7527.11,1254.52,47,74.0,Fresca,Eau de Parfum,Celebridad / masivo,4.0
+CL00116,M,46.0,Centro,Tienda física,Sí,43,12,34350.6,2862.55,14,14.4,Oriental,Eau de Toilette,Nicho,4.0
+CL00307,M,21.0,Centro,Tienda física,No,12,3,7312.88,2437.63,20,29.4,Oriental,Eau de Parfum,Diseñador,4.0
+CL01067,F,18.0,Poniente,En línea,No,11,7,"$6,441.53",920.22,30,75.5,Oriental,Eau de Cologne,Celebridad / masivo,5.0
+CL00709,M,39.0,Centro,Tienda física,No,16,6,13436.01,2239.33,60,44.4,Oriental,Eau de Toilette,Diseñador,3.0
+CL01300,F,55.0,Norte,Tienda física,No,13,1,984.74,984.74,177,24.5,Floral,Eau de Toilette,Diseñador,4.0
+CL00792,mujer,42.0,Centro,Tienda física,Sí,6,4,5879.76,1469.94,54,26.3,Amaderada,Eau de Toilette,Diseñador,5.0
+CL00878,F,52.0,Sur,En línea,No,7,3,5584.62,1861.54,88,49.0,Cítrica,Eau de Parfum,Diseñador,5.0
+CL01299,F,50.0,Norte,Tienda física,No,18,3,4547.93,1515.98,59,15.2,Floral,Eau de Parfum,Diseñador,3.0
+CL01473,F,18.0,Poniente,En línea,No,15,4,2780.23,695.06,26,89.0,Oriental,Eau de Toilette,Celebridad / masivo,3.0
+CL00278,F,43.0,Poniente,Tienda física,Sí,92,7,20781.1,2968.73,35,22.1,Oriental,Parfum,Nicho,4.0
+CL01457,mujer,24.0,Poniente,En línea,No,58,4,4318.42,1079.6,66,76.9,Floral,Eau de Parfum,Diseñador,4.0
+CL01002,F,39.0,Poniente,Tienda física,Sí,52,8,19535.84,2441.98,6,19.0,Amaderada,Parfum,Diseñador,4.0
+CL01401,MASCULINO,32.0,Centro,Tienda física,Sí,20,4,6843.75,1710.94,76,8.5,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL00055,Masculino,18.0,Centro,En línea,Sí,29,7,3976.69,568.1,45,87.7,Amaderada,Eau de Toilette,Diseñador,5.0
+CL01027,M,20.0,Poniente,Tienda física,Sí,4,2,3347.0,1673.5,111,37.8,Cítrica,Eau de Toilette,Celebridad / masivo,4.0
+CL00936,M,48.0,Centro,En línea,No,47,2,4080.0,2040.0,103,38.9,Floral,Eau de Toilette,Diseñador,4.0
+CL00201,M,45.0,Norte,Tienda física,No,39,1,1186.0,1186.0,131,39.2,Floral,Eau de Toilette,Diseñador,3.0
+CL01303,,67.0,Poniente,En línea,No,48,3,4666.18,1555.39,347,18.7,Floral,Eau de Parfum,Diseñador,2.0
+CL00431,F,31.0,Centro,En línea,No,18,1,1333.08,1333.08,90,16.2,Fresca,Eau de Toilette,Diseñador,3.0
+CL00511,M,29.0,Sur,Tienda física,Sí,79,8,5050.5,631.31,58,78.4,Oriental,Eau de Parfum,Diseñador,4.0
+CL01142,F,47.0,Sur,Tienda física,Sí,12,1,887.67,887.67,304,43.4,Amaderada,Eau de Parfum,Nicho,3.0
+CL01028,F,44.0,Centro,Tienda física,Sí,60,15,24754.77,1650.32,9,3.1,Amaderada,Eau de Parfum,Nicho,4.0
+CL01184,M,49.0,Poniente,Tienda física,No,16,1,1494.03,1494.03,84,40.4,Fresca,Eau de Parfum,Diseñador,3.0
+CL01447,F,39.0,Norte,Tienda física,No,56,2,2100.6,1050.3,245,59.0,Oriental,Eau de Toilette,Diseñador,5.0
+CL00195,M,24.0,Poniente,En línea,Sí,21,1,1608.42,1608.42,26,32.8,Fresca,Eau de Parfum,Diseñador,4.0
+CL00056,F,40.0,Norte,En línea,No,41,3,9924.54,3308.18,143,28.6,Fresca,Eau de Toilette,Diseñador,4.0
+CL00185,F,22.0,Centro,En línea,Sí,9,5,2960.92,592.18,63,70.7,Fresca,Eau de Toilette,Diseñador,3.0
+CL01202,M,24.0,Sur,En línea,No,6,8,8229.15,1028.64,32,85.7,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00740,F,18.0,Centro,En línea,Sí,62,8,7551.1,943.89,45,49.5,Floral,Eau de Parfum,Diseñador,5.0
+CL00483,F,46.0,Poniente,Tienda física,Sí,1,6,3506.78,584.46,10,54.5,Oriental,Eau de Toilette,Celebridad / masivo,5.0
+CL01117,M,52.0,Norte,Tienda física,No,64,10,29610.78,2961.08,7,24.4,Fresca,Eau de Parfum,Diseñador,5.0
+CL00295,F,43.0,Poniente,Tienda física,No,60,2,5433.31,2716.65,59,19.3,Amaderada,Eau de Toilette,Nicho,4.0
+CL01397,M,32.0,Norte,En línea,No,27,11,16551.27,1504.66,3,76.4,Amaderada,Parfum,Diseñador,4.0
+CL00784,M,42.0,Centro,En línea,No,13,2,3314.65,1657.32,159,49.7,Floral,Eau de Toilette,Diseñador,3.0
+CL00261,M,26.0,Norte,Tienda física,No,17,2,1298.99,649.5,192,50.6,Oriental,Eau de Toilette,Diseñador,5.0
+CL00444,F,43.0,Sur,Tienda física,No,13,4,4245.57,1061.39,82,26.2,Floral,Parfum,Diseñador,4.0
+CL01355,M,27.0,Centro,Tienda física,No,23,10,"$11,929.29",1192.93,57,60.3,Amaderada,Eau de Toilette,Diseñador,
+CL01338,F,31.0,Poniente,Tienda física,Sí,4,2,4785.93,2392.97,63,49.0,Cítrica,Parfum,Diseñador,4.0
+CL01425,M,37.0,Poniente,Tienda física,No,15,8,15185.46,1898.18,114,38.4,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL01195,F,47.0,Norte,Tienda física,Sí,21,15,49781.89,3318.79,9,14.6,Cítrica,Eau de Parfum,Diseñador,5.0
+CL00286,F,63.0,Centro,Tienda física,No,19,2,1007.88,503.94,211,31.0,Cítrica,Eau de Parfum,Diseñador,4.0
+CL01379,M,29.0,Norte,Tienda física,Sí,7,3,2336.23,778.74,34,82.6,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL00678,F,30.0,Poniente,En línea,No,4,5,3065.11,613.02,84,73.8,Fresca,Eau de Parfum,Diseñador,4.0
+CL00919,M,51.0,Sur,Tienda física,No,22,4,6505.72,1626.43,85,10.3,Fresca,Eau de Parfum,Celebridad / masivo,3.0
+CL00583,F,42.0,Centro,Tienda física,Sí,6,11,38105.85,3464.17,12,0.1,Oriental,Eau de Parfum,Nicho,5.0
+CL01391,F,43.0,Norte,Tienda física,Sí,24,15,46307.75,3087.18,14,19.7,Oriental,Eau de Parfum,Nicho,4.0
+CL00656,Femenino,31.0,Centro,Tienda física,Sí,27,6,5541.21,923.53,79,68.8,,Eau de Parfum,Celebridad / masivo,5.0
+CL01321,F,38.0,Norte,Tienda física,Sí,20,9,5824.65,647.18,32,85.1,Floral,Eau de Parfum,Diseñador,4.0
+CL01433,M,37.0,Norte,Tienda física,No,8,2,2472.54,1236.27,172,26.8,Oriental,Parfum,Celebridad / masivo,4.0
+CL00310,M,57.0,NORTE,Tienda física,Sí,39,6,15624.54,2604.09,25,2.3,Cítrica,Eau de Parfum,Celebridad / masivo,5.0
+CL00586,M,55.0,Norte,Tienda física,No,29,2,4727.02,2363.51,66,39.8,Amaderada,Eau de Parfum,Diseñador,5.0
+CL00508,M,37.0,Sur,Tienda física,Sí,45,8,22267.11,2783.39,5,14.8,Floral,Eau de Toilette,Diseñador,4.0
+CL01069,M,48.0,Centro,En línea,Sí,86,12,52213.09,4351.09,11,4.2,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00038,M,32.0,Sur,Tienda física,Sí,45,10,8690.65,869.06,38,50.4,Floral,Eau de Toilette,Diseñador,4.0
+CL01283,F,45.0,Poniente,En línea,Sí,21,4,5302.14,1325.53,58,66.5,Fresca,Parfum,Diseñador,4.0
+CL00322,M,32.0,Sur,Tienda física,No,39,1,1436.17,1436.17,365,54.4,Floral,Eau de Toilette,Diseñador,3.0
+CL00855,M,27.0,Poniente,En línea,No,70,9,6258.5,695.39,44,45.5,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL01222,F,40.0,Centro,En línea,No,180,1,1198.29,1198.29,231,53.0,Amaderada,Eau de Cologne,Diseñador,3.0
+CL00283,F,56.0,Norte,En línea,No,73,10,"$19,953.27",1995.33,22,23.3,Oriental,Eau de Toilette,Diseñador,4.0
+CL00015,M,54.0,Sur,Tienda física,No,35,1,870.19,870.19,116,33.0,Floral,Eau de Parfum,Diseñador,4.0
+CL00861,F,40.0,Centro,Tienda física,Sí,17,4,7559.14,1889.78,91,50.0,Fresca,Eau de Parfum,Diseñador,3.0
+CL00368,M,49.0,Norte,Tienda física,No,4,14,29420.2,2101.44,16,10.3,Floral,Parfum,Diseñador,5.0
+CL01197,M,28.0,Poniente,Tienda física,Sí,30,4,2937.23,734.31,18,90.6,Fresca,Eau de Parfum,Celebridad / masivo,3.0
+CL00707,F,30.0,Norte,En línea,Sí,35,7,7608.12,1086.87,21,69.7,Fresca,Eau de Cologne,Celebridad / masivo,4.0
+CL01443,M,58.0,Norte,Tienda física,Sí,46,10,25582.11,2558.21,5,23.3,Amaderada,Eau de Parfum,Nicho,4.0
+CL01247,M,54.0,Sur,Tienda física,No,9,4,4913.59,1228.4,70,17.2,Fresca,Eau de Cologne,Celebridad / masivo,4.0
+CL01420,F,29.0,Centro,Tienda física,Sí,65,14,32937.14,2352.65,11,8.4,Amaderada,Eau de Toilette,Diseñador,5.0
+CL01229,M,44.0,Poniente,Tienda física,No,13,6,8219.33,1369.89,155,13.3,Amaderada,Parfum,Diseñador,3.0
+CL01168,F,49.0,Norte,Tienda física,No,5,4,7577.18,1894.3,246,31.8,Fresca,Eau de Parfum,Celebridad / masivo,2.0
+CL00673,F,56.0,Centro,Tienda física,Sí,40,5,7803.81,1560.76,191,23.8,Oriental,Eau de Toilette,Diseñador,5.0
+CL01404,M,0.0,Poniente,Tienda física,Sí,57,10,25220.71,2522.07,12,4.5,Amaderada,Parfum,Diseñador,3.0
+CL00315,M,50.0,Sur,En línea,No,31,1,1217.97,1217.97,242,42.6,Fresca,Eau de Parfum,Celebridad / masivo,3.0
+CL01356,M,25.0,Centro,En línea,No,26,2,3038.96,1519.48,100,27.3,Amaderada,Eau de Cologne,Celebridad / masivo,4.0
+CL00982,,35.0,Sur,Tienda física,No,6,5,8683.77,1736.75,40,26.5,Amaderada,Eau de Toilette,Diseñador,4.0
+CL01162,M,36.0,Centro,Tienda física,Sí,24,5,4019.63,803.93,18,83.9,Cítrica,Eau de Toilette,Celebridad / masivo,5.0
+CL00009,F,41.0,Centro,Tienda física,No,41,1,1380.94,1380.94,44,54.3,Cítrica,Eau de Toilette,Diseñador,4.0
+CL00182,M,40.0,Centro,Tienda física,No,36,3,4376.32,1458.77,155,14.0,Floral,Parfum,Diseñador,3.0
+CL00361,F,37.0,Norte,Tienda física,Sí,32,1,1756.44,1756.44,78,14.0,Cítrica,Eau de Toilette,Diseñador,2.0
+CL00864, m,40.0,Sur,Tienda física,No,13,4,8897.36,2224.34,32,9.9,Amaderada,Eau de Toilette,Diseñador,4.0
+CL00223,hombre,43.0,Centro,En línea,Sí,11,3,6283.97,2094.66,101,38.3,Oriental,Eau de Parfum,Diseñador,5.0
+CL00554,F,58.0,Centro,Tienda física,No,119,1,1876.12,1876.12,139,33.3,Floral,Eau de Parfum,Diseñador,3.0
+CL00441,M,18.0,Centro,Tienda física,No,21,1,2040.16,2040.16,42,22.8,Oriental,Eau de Toilette,Nicho,3.0
+CL01261,M,40.0,Poniente,En línea,No,56,1,1197.07,1197.07,365,25.1,Oriental,Eau de Cologne,Nicho,3.0
+CL00512,M,38.0,Poniente,Tienda física,No,27,6,8043.69,1340.62,196,23.0,Oriental,Eau de Toilette,Diseñador,2.0
+CL00381,F,47.0,Poniente,Tienda física,Sí,41,9,17130.04,1903.34,6,3.2,Floral,Eau de Parfum,Nicho,3.0
+CL00689,F,22.0,Sur,Tienda física,Sí,15,3,4719.04,1573.01,184,11.3,Oriental,Eau de Toilette,Celebridad / masivo,4.0
+CL00231,F,39.0,Centro,En línea,Sí,5,6,19208.63,3201.44,13,9.1,Oriental,Parfum,Diseñador,4.0
+CL00113,F,59.0,Centro,En línea,Sí,22,5,12785.35,2557.07,183,22.2,,Eau de Toilette,Diseñador,4.0
+CL01102,M,39.0,Centro,Tienda física,No,23,7,10209.34,1458.48,133,21.7,,Eau de Parfum,Diseñador,5.0
+CL01101,M,45.0,Norte,En línea,No,19,4,7615.95,1903.99,66,47.2,Fresca,Eau de Parfum,Nicho,4.0
+CL01325,M,47.0,Sur,Tienda física,No,24,1,1663.02,1663.02,157,57.6,Fresca,Eau de Toilette,Diseñador,3.0
+CL01499,F,31.0,Sur,Tienda física,Sí,60,9,6546.81,727.42,21,86.4,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL00778,F,33.0,Centro,Tienda física,Sí,19,7,12256.65,1750.95,70,29.7,Cítrica,Eau de Parfum,Diseñador,4.0
+CL00154,F,41.0,Norte,Tienda física,No,11,6,3210.97,535.16,28,74.0,Floral,Eau de Parfum,Diseñador,4.0
+CL00488,F,34.0,Centro,Tienda física,No,4,4,5375.82,1343.96,244,19.0,Floral,Eau de Parfum,Celebridad / masivo,3.0
+CL00123,M,47.0,Poniente,Tienda física,No,14,12,4669.55,389.13,78,62.8,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL01078,F,33.0,Centro,Tienda física,Sí,3,9,18327.14,2036.35,21,12.4,Oriental,Eau de Parfum,Diseñador,4.0
+CL01165,F,41.0,Centro,Tienda física,Sí,35,12,32225.36,2685.45,7,16.1,Floral,Parfum,Diseñador,5.0
+CL00613,M,60.0,Centro,Tienda física,No,26,1,756.54,756.54,185,21.7,Amaderada,Eau de Parfum,Diseñador,3.0
+CL00681,F,31.0,Centro,Tienda física,No,92,8,5296.81,662.1,63,56.4,Floral,Eau de Cologne,Diseñador,5.0
+CL00096,F,36.0,Poniente,En línea,No,16,1,2099.65,2099.65,96,21.8,Floral,Eau de Parfum,Nicho,4.0
+CL00819,F,,Norte,Tienda física,Sí,23,7,5235.83,747.98,38,58.1,Fresca,Eau de Parfum,Diseñador,4.0
+CL00893,F,33.0,Poniente,En línea,Sí,25,7,7345.88,1049.41,48,79.9,Floral,Eau de Cologne,Diseñador,4.0
+CL01475,M,27.0,Centro,Tienda física,No,22,1,1631.97,1631.97,170,23.6,Oriental,Eau de Toilette,Diseñador,4.0
+CL00983,F,27.0,Centro,En línea,No,24,3,5769.43,1923.14,76,53.8,Oriental,Eau de Toilette,Diseñador,4.0
+CL01096,F,37.0,Centro,En línea,Sí,39,8,3763.18,470.4,40,62.4,Floral,Eau de Toilette,Diseñador,4.0
+CL00837,Masculino,37.0,Norte,Tienda física,Sí,90,1,1783.88,1783.88,251,52.3,Floral,Eau de Toilette,Diseñador,3.0
+CL00679,M,46.0,Norte,Tienda física,No,89,12,22256.44,1854.7,14,23.9,Oriental,Eau de Parfum,Celebridad / masivo,5.0
+CL00940,M,22.0,Centro,En línea,Sí,47,6,6216.98,1036.16,33,78.8,Fresca,Eau de Toilette,Diseñador,3.0
+CL00145,F,63.0,Sur,Tienda física,Sí,7,1,927.73,927.73,106,49.1,Amaderada,Eau de Toilette,Celebridad / masivo,2.0
+CL00385,F,42.0,Centro,En línea,Sí,5,6,3579.57,596.59,18,78.7,Fresca,Eau de Toilette,Diseñador,4.0
+CL00813,F,46.0,Sur,En línea,Sí,31,2,1844.95,922.47,124,15.0,Floral,Eau de Parfum,Diseñador,2.0
+CL00671,M,34.0,Centro,Tienda física,No,13,1,1365.82,1365.82,112,54.2,Amaderada,Eau de Toilette,Diseñador,3.0
+CL00347,M,18.0,Poniente,Tienda física,Sí,6,2,2593.23,1296.62,128,25.3,Fresca,Eau de Toilette,Nicho,4.0
+CL00332,M,48.0,Norte,En línea,No,68,1,1263.42,1263.42,365,17.4,Cítrica,Eau de Toilette,Celebridad / masivo,3.0
+CL00977,F,57.0,Norte,Tienda física,No,180,1,455.01,455.01,189,18.9,Amaderada,Eau de Toilette,Celebridad / masivo,3.0
+CL00667,F,20.0,Sur,Tienda física,Sí,38,4,2160.07,540.02,32,80.3,Floral,Eau de Toilette,Diseñador,4.0
+CL00637,M,53.0,Sur,En línea,No,8,2,3132.34,1566.17,37,44.9,Floral,Parfum,Diseñador,4.0
+CL01498,M,24.0,Norte,En línea,No,18,7,6184.37,883.48,47,80.2,Floral,Eau de Parfum,Nicho,4.0
+CL00248,F,44.0,Poniente,En línea,Sí,20,4,7198.93,1799.73,11,9.8,Amaderada,Parfum,Nicho,4.0
+CL01286,M,29.0,Centro,Tienda física,No,24,1,974.72,974.72,114,43.5,Fresca,Eau de Toilette,Diseñador,4.0
+CL01383,M,29.0,Norte,Tienda física,No,7,1,1450.81,1450.81,82,23.8,Floral,Eau de Toilette,Diseñador,3.0
+CL01227,F,29.0,Sur,Tienda física,No,11,3,2292.04,764.01,54,19.6,Floral,Eau de Toilette,Celebridad / masivo,5.0
+CL00423,M,26.0,Norte,Tienda física,No,25,6,8096.63,1349.44,117,38.3,Oriental,Eau de Parfum,Diseñador,4.0
+CL00944,M,36.0,Centro,En línea,Sí,84,13,27224.6,2094.2,13,5.7,Floral,Eau de Parfum,Nicho,5.0
+CL01287,F,58.0,Centro,En línea,Sí,19,3,4749.31,1583.1,108,23.2,Fresca,Eau de Toilette,Diseñador,3.0
+CL01284,F,36.0,Norte,Tienda física,Sí,22,5,4069.94,813.99,29,63.2,Oriental,Eau de Parfum,Celebridad / masivo,4.0
+CL00196,M,,Poniente,En línea,No,107,1,1552.92,1552.92,76,16.9,Fresca,Eau de Parfum,Diseñador,4.0
+CL00970,F,31.0,Poniente,En línea,Sí,32,7,10474.9,1496.41,84,71.8,Floral,Eau de Cologne,Diseñador,4.0
+CL00246,M,43.0,Norte,En línea,Sí,35,12,32806.35,2733.86,7,32.5,Floral,Eau de Parfum,Diseñador,5.0
+CL00401,F,20.0,Poniente,Tienda física,No,18,11,8031.09,730.1,57,77.3,Oriental,Eau de Toilette,Diseñador,4.0
+CL00179,M,18.0,Poniente,En línea,No,35,1,"$1,598.59",1598.59,365,64.2,Amaderada,Eau de Cologne,Diseñador,3.0
+CL00774,F,37.0,Centro,Tienda física,Sí,1,1,1927.49,1927.49,83,32.4,Floral,Eau de Toilette,Celebridad / masivo,
+CL00372,F,54.0,Sur,En línea,Sí,90,12,48107.63,4008.97,9,35.1,Oriental,Eau de Toilette,Celebridad / masivo,5.0
+CL00211,F,31.0,Poniente,En línea,No,16,8,8365.52,1045.69,48,87.0,Oriental,Eau de Toilette,Celebridad / masivo,4.0
+CL00743,F,44.0,Centro,En línea,Sí,25,6,14219.06,2369.84,82,14.7,Oriental,Parfum,Diseñador,4.0
+CL00143,F,39.0,Centro,Tienda física,Sí,28,4,7585.55,1896.39,19,11.2,Oriental,Eau de Parfum,Diseñador,5.0
+CL00336,F,34.0,Norte,En línea,No,45,8,7672.95,959.12,52,83.5,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL01095,F,18.0,Poniente,En línea,Sí,31,10,8894.23,889.42,74,88.5,Cítrica,Eau de Cologne,Celebridad / masivo,4.0
+CL00720,M,33.0,Centro,Tienda física,Sí,33,12,33377.64,2781.47,17,6.2,Floral,Parfum,Diseñador,5.0
+CL00835,M,30.0,Poniente,Tienda física,Sí,71,17,61947.84,3643.99,14,3.7,Floral,Eau de Cologne,Nicho,4.0
+CL00998,F,25.0,Norte,En línea,Sí,43,9,11037.29,1226.37,43,67.9,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL01046,M,44.0,Norte,En línea,No,25,5,3357.69,671.54,20,76.0,Cítrica,Eau de Cologne,Diseñador,4.0
+CL00062,M,22.0,Poniente,Tienda física,No,41,3,3717.35,1239.12,49,69.8,Fresca,Eau de Toilette,Diseñador,4.0
+CL01025,M,24.0,Centro,En línea,Sí,83,6,3032.03,505.34,25,73.8,Floral,Eau de Toilette,Nicho,5.0
+CL00206,M,25.0,Poniente,En línea,No,3,5,11314.84,2262.97,86,32.8,Floral,Eau de Toilette,Diseñador,4.0
+CL00568,M,24.0,Sur,Tienda física,No,36,4,8220.7,2055.18,61,18.8,Cítrica,Eau de Cologne,Diseñador,3.0
+CL01200,F,30.0,Centro,En línea,Sí,24,13,34879.05,2683.0,15,18.7,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00205,F,42.0,Poniente,En línea,Sí,18,1,1906.79,1906.79,55,27.1,Oriental,Eau de Toilette,Diseñador,4.0
+CL01174,F,40.0,Poniente,Tienda física,Sí,65,6,5751.06,958.51,29,52.1,Floral,Eau de Toilette,Diseñador,5.0
+CL00978,F,23.0,Poniente,,Sí,54,8,5967.56,745.95,48,63.4,Floral,Eau de Toilette,Diseñador,4.0
+CL01500,M,42.0,Centro,Tienda física,Sí,31,1,2613.12,2613.12,59,34.5,Amaderada,Eau de Toilette,Diseñador,5.0
+CL01092,M,21.0,Poniente,En línea,Sí,71,7,5774.28,824.9,14,72.6,Cítrica,Eau de Cologne,Diseñador,5.0
+CL01453,F,33.0,Norte,En línea,Sí,3,6,3498.48,583.08,46,68.7,Amaderada,Eau de Toilette,Celebridad / masivo,4.0
+CL01474,F,37.0,Centro,En línea,No,53,15,51456.57,3430.44,11,33.0,Floral,Parfum,Diseñador,4.0
+CL00098,M,43.0,Norte,Tienda física,No,29,1,1349.98,1349.98,365,26.0,,Parfum,Celebridad / masivo,3.0
+CL01388,F,45.0,Poniente,En línea,No,1,6,14147.65,2357.94,51,38.6,Fresca,Eau de Cologne,Diseñador,4.0
+CL00465,F,24.0,Centro,,Sí,2,10,10448.43,1044.84,39,90.9,Oriental,Eau de Cologne,Nicho,3.0
+CL00241,Masculino,37.0,Centro,Tienda física,No,4,6,10847.54,1807.92,142,30.5,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL00421,F,52.0,Centro,En línea,Sí,127,9,15545.58,1727.29,23,4.9,Fresca,Parfum,Diseñador,4.0
+CL00025,F,32.0,Poniente,Tienda física,No,43,10,5752.28,575.23,59,56.7,Cítrica,Eau de Parfum,Diseñador,5.0
+CL00493,M,36.0,Norte,En línea,No,18,1,1793.55,1793.55,150,27.4,Fresca,Eau de Parfum,Nicho,3.0
+CL00642,F,37.0,Poniente,Tienda física,No,25,6,5696.65,949.44,50,59.8,Cítrica,Eau de Toilette,Diseñador,3.0
+CL01375,,26.0,Centro,Tienda física,No,34,8,4929.37,616.17,31,56.2,Fresca,Eau de Toilette,Diseñador,4.0
+CL01273,,44.0,Poniente,Tienda física,Sí,116,9,15580.78,1731.2,24,27.4,Amaderada,Eau de Parfum,Diseñador,4.0
+CL01304,M,48.0,Centro,Tienda física,No,47,1,633.47,633.47,365,34.1,Amaderada,Eau de Parfum,Diseñador,3.0
+CL00829,M,,Norte,Tienda física,Sí,25,2,739.31,369.66,233,21.1,Floral,Eau de Cologne,Diseñador,3.0
+CL00410,M,49.0,Centro,En línea,No,10,3,5274.15,1758.05,58,4.2,Fresca,Eau de Parfum,Diseñador,4.0
+CL01343,M,35.0,Centro,En línea,Sí,19,3,2364.85,788.28,39,87.7,Floral,Eau de Toilette,Diseñador,4.0
+CL01293,F,20.0,Sur,Tienda física,Sí,30,3,3090.99,1030.33,21,35.8,Floral,Eau de Cologne,Diseñador,4.0
+CL01093,F,27.0,Centro,Tienda física,No,9,7,4994.29,713.47,26,81.6,Floral,Eau de Parfum,Celebridad / masivo,4.0
+CL01011,M,31.0,Sur,Tienda física,No,18,4,8132.19,2033.05,89,24.1,Fresca,Eau de Toilette,Diseñador,4.0
+CL01212,F,59.0,Poniente,Tienda física,No,67,1,1279.63,1279.63,271,15.9,Cítrica,Eau de Toilette,Diseñador,4.0
+CL01461,hombre,39.0,Norte,Tienda física,Sí,37,2,3697.83,1848.92,76,31.7,Fresca,Eau de Toilette,Diseñador,5.0
+CL00653,Femenino,57.0,Centro,Tienda física,No,11,6,8961.22,1493.54,64,18.7,Fresca,Eau de Parfum,Diseñador,4.0
+CL01075,F,25.0,Sur,En línea,Sí,39,11,13622.03,1238.37,61,80.8,Floral,Eau de Toilette,Diseñador,4.0
+CL01427,M,42.0,Poniente,Tienda física,No,30,1,1986.63,1986.63,60,15.2,Oriental,Eau de Toilette,Celebridad / masivo,4.0
+CL00632,F,34.0,Sur,Tienda física,No,16,3,3286.58,1095.53,116,30.9,Cítrica,Eau de Toilette,Diseñador,4.0
+CL01124,M,33.0,Sur,En línea,No,37,8,5788.9,723.61,32,71.1,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL00164,M,40.0,Centro,Tienda física,No,22,1,1571.9,1571.9,160,16.0,Oriental,Eau de Parfum,Diseñador,
+CL00938,Femenino,39.0,Norte,En línea,Sí,3,2,5075.58,2537.79,65,11.8,Cítrica,Eau de Parfum,Diseñador,4.0
+CL00958,F,38.0,Sur,Tienda física,Sí,21,1,1234.04,1234.04,202,42.3,Oriental,Eau de Toilette,Diseñador,3.0
+CL00346,M,18.0,Sur,Tienda física,No,19,1,2721.18,2721.18,64,66.2,Oriental,Parfum,Diseñador,3.0
+CL01497,M,31.0,poniente,Tienda física,Sí,56,11,33693.06,3063.01,21,12.8,Amaderada,Eau de Parfum,Nicho,4.0
+CL01148,F,25.0,Sur,En línea,Sí,31,5,4475.29,895.06,28,90.9,Fresca,Eau de Parfum,Celebridad / masivo,4.0
+CL00155,F,18.0,NORTE,Tienda física,No,31,3,5999.08,1999.69,71,33.5,Cítrica,Eau de Toilette,Diseñador,5.0
+CL00721, f ,60.0,Norte,En línea,Sí,11,2,2070.73,1035.37,195,59.8,Oriental,Parfum,Celebridad / masivo,3.0
+CL01109,F,43.0,Norte,Tienda física,Sí,7,4,9473.13,2368.28,169,36.5,Oriental,Eau de Toilette,Diseñador,4.0
+CL00127,Masculino,41.0,Centro,Tienda física,No,16,1,1257.36,1257.36,19,26.5,Floral,Eau de Parfum,Diseñador,4.0
+CL00422,M,35.0,Norte,En línea,No,8,14,20526.26,1466.16,44,43.6,Cítrica,Eau de Cologne,Diseñador,4.0
+CL00842,F,31.0,Centro,Tienda física,Sí,28,10,10339.85,1033.98,36,70.6,Cítrica,Eau de Toilette,Diseñador,5.0
+CL00267,M,28.0,Sur,Tienda física,No,21,1,1767.26,1767.26,120,20.3,Oriental,Parfum,Diseñador,3.0
+CL01021,M,21.0,Centro,Tienda física,Sí,10,6,7782.52,1297.09,16,86.0,Floral,Eau de Parfum,Diseñador,4.0
+CL00738,F,26.0,Centro,En línea,No,50,4,8761.93,2190.48,66,51.6,Fresca,Eau de Toilette,Diseñador,4.0
+CL00037,M,25.0,Sur,Tienda física,No,60,4,4392.48,1098.12,144,17.6,Fresca,Eau de Toilette,Diseñador,5.0
+CL00713,F,41.0,sur,Tienda física,Sí,60,13,49877.24,3836.71,15,12.2,Amaderada,Parfum,Diseñador,4.0
+CL01005,M,44.0,Norte,Tienda física,Sí,16,2,1926.7,963.35,117,13.9,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00156,,36.0,Centro,Tienda física,Sí,47,18,75045.57,4169.2,17,33.2,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00932,mujer,37.0,Norte,Tienda física,No,13,5,5957.55,1191.51,130,39.6,Oriental,Eau de Parfum,Celebridad / masivo,5.0
+CL00901,F,28.0,Sur,Tienda física,No,41,4,9405.54,2351.39,82,8.5,Amaderada,Eau de Parfum,Diseñador,3.0
+CL00079,F,48.0,Sur,Tienda física,No,65,6,13267.06,2211.18,52,12.3,Oriental,Parfum,Nicho,5.0
+CL00375,M,51.0,Sur,Tienda física,No,11,4,4719.61,1179.9,145,16.2,Oriental,Eau de Parfum,Diseñador,4.0
+CL00403,M,34.0,Poniente,En línea,No,43,6,6846.46,1141.08,10,41.9,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00197,F,62.0,Poniente,En línea,Sí,66,1,1949.9,1949.9,337,37.9,Floral,Eau de Cologne,Celebridad / masivo,3.0
+CL00389,M,18.0,Centro,Tienda física,No,22,4,11671.67,2917.92,84,8.7,Amaderada,Eau de Toilette,Celebridad / masivo,2.0
+CL00918,M,54.0,Centro,Tienda física,Sí,28,3,1586.63,528.88,172,55.4,Floral,Eau de Parfum,Diseñador,3.0
+CL00780,M,72.0,Norte,En línea,No,36,1,421.39,421.39,222,17.6,Amaderada,Eau de Cologne,Celebridad / masivo,3.0
+CL00178,M,57.0,Norte,Tienda física,Sí,56,11,34583.53,3143.96,16,11.3,Amaderada,Eau de Toilette,Diseñador,5.0
+CL01408,F,20.0,Sur,Tienda física,Sí,38,12,8881.67,740.14,42,74.0,Fresca,Eau de Cologne,Celebridad / masivo,4.0
+CL00544,F,35.0,Centro,En línea,Sí,92,10,33450.49,3345.05,33,10.3,Amaderada,Parfum,Diseñador,5.0
+CL01477,F,24.0,Norte,En línea,No,8,1,$782.87,782.87,365,61.8,Fresca,Eau de Toilette,Diseñador,3.0
+CL00413,M,63.0,SUR,Tienda física,No,21,1,994.42,994.42,229,26.2,Amaderada,Eau de Toilette,Diseñador,3.0
+CL00625,M,26.0,Poniente,Tienda física,No,2,2,1677.0,838.5,85,9.1,Fresca,Eau de Cologne,Diseñador,4.0
+CL01090,M,38.0,Centro,Tienda física,No,2,4,5169.16,1292.29,71,42.9,Floral,Eau de Toilette,Diseñador,3.0
+CL00960,F,35.0,Centro,En línea,Sí,15,5,4058.48,811.7,26,45.1,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00099,M,23.0,Sur,Tienda física,Sí,14,10,6559.4,655.94,33,82.9,Fresca,Eau de Parfum,Celebridad / masivo,3.0
+CL00141,F,25.0, Centro ,Tienda física,No,8,4,5129.96,1282.49,103,34.6,Cítrica,Eau de Parfum,Diseñador,4.0
+CL01105,F,,Norte,En línea,Sí,14,2,2113.86,1056.93,68,22.8,Fresca,Eau de Parfum,Celebridad / masivo,3.0
+CL00939,F,23.0,Norte,En línea,Sí,31,4,2758.91,689.73,16,91.1,Fresca,Eau de Toilette,Diseñador,3.0
+CL01053,Femenino,54.0,Poniente,Tienda física,No,45,2,1667.46,833.73,110,78.6,Floral,Eau de Cologne,Diseñador,3.0
+CL00876,F,18.0,Sur,Tienda física,No,20,1,1188.58,1188.58,137,42.9,Fresca,Eau de Parfum,Celebridad / masivo,4.0
+CL00054,M,23.0,Sur,Tienda física,No,20,5,6046.14,1209.23,142,14.1,Amaderada,Eau de Parfum,Diseñador,3.0
+CL01454,F,25.0,Sur,En línea,Sí,80,5,8214.41,1642.88,39,60.1,Fresca,Eau de Toilette,Diseñador,4.0
+CL01084,F,53.0,Sur,Tienda física,Sí,26,7,14489.37,2069.91,18,10.9,Floral,Eau de Toilette,Diseñador,5.0
+CL00966,M,58.0,Sur,Tienda física,No,21,1,2064.3,2064.3,35,26.4,Floral,Eau de Toilette,Diseñador,2.0
+CL00894,F,39.0,Norte,Tienda física,No,58,1,342.74,342.74,321,54.9,Fresca,Eau de Cologne,Nicho,3.0
+CL00628,F,41.0,Norte,En línea,Sí,39,3,3773.84,1257.95,132,23.1,Floral,Eau de Toilette,Celebridad / masivo,5.0
+CL00996,F,33.0,Sur,,No,1,3,5419.5,1806.5,31,24.4,Floral,Eau de Toilette,Nicho,3.0
+CL01221,F,48.0,Norte,En línea,No,19,12,13735.18,1144.6,39,72.0,Floral,Eau de Parfum,Diseñador,5.0
+CL00088,M,49.0,Norte,Tienda física,No,5,2,3232.41,1616.2,71,24.2,Fresca,Eau de Toilette,Diseñador,3.0
+CL00039,F,35.0,centro,Tienda física,Sí,66,2,2156.02,1078.01,302,31.3,Cítrica,Eau de Cologne,Diseñador,3.0
+CL01428,F,59.0,Poniente,Tienda física,No,7,1,1032.31,1032.31,365,25.9,Floral,Eau de Parfum,Diseñador,4.0
+CL00323,M,35.0,Centro,En línea,No,64,8,9242.74,1155.34,71,78.6,Fresca,Parfum,Celebridad / masivo,5.0
+CL00635,M,56.0,Sur,Tienda física,No,42,1,2011.11,2011.11,365,29.8,Fresca,Parfum,Diseñador,3.0
+CL00281,mujer,31.0,Poniente,En línea,No,32,5,7179.6,1435.92,45,35.1,Fresca,Eau de Toilette,Diseñador,5.0
+CL00999,M,24.0,Centro,En línea,Sí,44,12,6897.4,574.78,59,94.5,Floral,Eau de Parfum,Celebridad / masivo,4.0
+CL00087,,57.0,Centro,Tienda física,No,4,2,3754.63,1877.31,59,21.0,Fresca,Eau de Cologne,Celebridad / masivo,4.0
+CL01276,F,22.0,Centro,En línea,No,26,3,4724.52,1574.84,-83,17.9,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00134,F,51.0,Norte,En línea,No,41,1,1635.7,1635.7,341,55.9,Floral,Eau de Parfum,Diseñador,3.0
+CL00962,F,19.0,Norte,Tienda física,No,22,4,4997.14,1249.28,7,73.1,Fresca,Eau de Toilette,Diseñador,4.0
+CL00767,F,43.0,Norte,En línea,No,49,10,3501.16,350.12,56,80.2,Fresca,Eau de Toilette,Celebridad / masivo,5.0
+CL01182,M,53.0,Norte,Tienda física,No,13,1,1413.58,1413.58,160,18.5,Floral,Eau de Parfum,Diseñador,2.0
+CL01035,F,45.0,Poniente,Tienda física,No,16,1,1426.85,1426.85,55,50.9,Floral,Eau de Parfum,Diseñador,4.0
+CL01314,F,35.0,Norte,Tienda física,Sí,26,7,9250.18,1321.45,58,71.3,Cítrica,Eau de Cologne,Diseñador,5.0
+CL00490,F,38.0,Poniente,,Sí,54,10,34211.48,3421.15,18,6.2,Amaderada,Eau de Parfum,Nicho,5.0
+CL00923,F,39.0,Centro,En línea,Sí,25,2,3846.73,1923.37,183,60.9,Floral,Eau de Toilette,Diseñador,3.0
+CL01233, f ,24.0,Centro,Tienda física,No,28,6,5495.45,915.91,38,79.5,Fresca,Eau de Toilette,Diseñador,4.0
+CL00717,F,54.0,Centro,En línea,No,13,4,6205.69,1551.42,90,16.4,Floral,Eau de Toilette,Celebridad / masivo,2.0
+CL00387,F,38.0,Centro,En línea,Sí,47,5,5028.81,1005.76,28,53.0,Fresca,Eau de Toilette,Diseñador,4.0
+CL01133,F,46.0,Sur,Tienda física,Sí,10,1,727.2,727.2,90,28.6,Oriental,Eau de Toilette,Diseñador,4.0
+CL00652,F,56.0,Centro,En línea,Sí,82,1,1170.25,1170.25,191,45.6,Oriental,Eau de Toilette,Celebridad / masivo,1.0
+CL00105,F,32.0,Centro,Tienda física,No,5,5,7345.9,1469.18,90,7.1,Oriental,Eau de Toilette,Diseñador,3.0
+CL00073,M,27.0,Norte,Tienda física,Sí,31,2,3536.66,1768.33,22,13.6,Floral,Eau de Parfum,Celebridad / masivo,5.0
+CL00458,F,45.0,Centro,Tienda física,No,19,1,1315.07,1315.07,22,13.6,Cítrica,Eau de Parfum,Nicho,4.0
+CL00688,F,33.0,Poniente,En línea,No,27,7,6432.47,918.92,9,85.8,Fresca,Eau de Cologne,Nicho,4.0
+CL01079,F,31.0,Centro,En línea,No,35,8,5536.6,692.07,13,35.8,Floral,Eau de Toilette,Diseñador,4.0
+CL00704,F,39.0,Norte,En línea,No,10,2,1537.45,768.72,35,79.4,Cítrica,Eau de Toilette,Celebridad / masivo,4.0
+CL01060,F,18.0,Centro,Tienda física,Sí,21,8,7190.86,898.86,16,59.4,Fresca,Eau de Toilette,Diseñador,4.0
+CL01206,Femenino,27.0,Sur,,No,20,3,4851.08,1617.03,67,38.0,Oriental,Eau de Parfum,Diseñador,4.0
+CL01396,F,34.0,Norte,En línea,No,18,2,2925.15,1462.58,51,21.7,Cítrica,Parfum,Diseñador,2.0
+CL00279,F,30.0,Norte,Tienda física,No,27,5,5625.93,1125.19,39,89.0,Floral,Eau de Parfum,Diseñador,5.0
+CL00081,M,36.0,Sur,En línea,Sí,48,6,4743.85,790.64,36,78.9,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00469,M,47.0,Norte,Tienda física,No,4,10,28376.18,2837.62,16,1.8,Amaderada,Eau de Parfum,Diseñador,5.0
+CL00358,M,34.0,Centro,En línea,No,10,6,5191.13,865.19,47,80.1,Oriental,Eau de Toilette,Celebridad / masivo,5.0
+CL01125, m,25.0,Centro,En línea,No,14,6,5546.75,924.46,47,88.5,Floral,Eau de Cologne,Celebridad / masivo,4.0
+CL00363,F,18.0,Centro,Tienda física,No,86,2,"$4,573.16",2286.58,30,36.3,Floral,Eau de Parfum,Nicho,3.0
+CL00783,M,71.0,Poniente,En línea,No,22,1,1720.4,1720.4,202,56.0,Floral,Eau de Toilette,Diseñador,3.0
+CL00528,M,47.0,Centro,En línea,No,39,1,1014.73,1014.73,365,38.5,Fresca,Eau de Parfum,Diseñador,3.0
+CL00190, f ,20.0,Sur,En línea,No,19,9,3596.49,399.61,50,86.4,Amaderada,Eau de Toilette,Celebridad / masivo,4.0
+CL00313,M,50.0,Sur,Tienda física,No,41,2,"$4,297.75",2148.87,107,30.5,Fresca,Eau de Toilette,Diseñador,4.0
+CL01424,M,25.0,Norte,,Sí,1,3,6442.44,2147.48,365,13.7,Floral,Eau de Cologne,Diseñador,2.0
+CL00446,F,22.0,Sur,En línea,Sí,15,7,"$5,755.89",822.27,34,59.8,Cítrica,Eau de Toilette,Diseñador,5.0
+CL00137,M,61.0,Norte,En línea,No,23,1,1282.75,1282.75,60,6.6,Cítrica,Eau de Parfum,Diseñador,4.0
+CL00290, f ,22.0,Poniente,En línea,No,4,4,4523.8,1130.95,71,19.2,Floral,Eau de Parfum,Diseñador,4.0
+CL00424,M,39.0,Centro,Tienda física,No,67,2,2117.07,1058.53,180,51.0,Cítrica,Eau de Parfum,Diseñador,4.0
+CL00463,M,42.0,Centro,En línea,No,18,1,2135.62,2135.62,279,44.5,Floral,Eau de Cologne,Celebridad / masivo,2.0
+CL00550,F,48.0,Centro,En línea,No,11,1,811.3,811.3,218,41.6,Amaderada,Eau de Toilette,Diseñador,3.0
+CL00698,M,34.0,Centro,En línea,No,12,3,3726.95,1242.32,25,45.0,Floral,Eau de Toilette,Diseñador,4.0
+CL01146,M,34.0,Norte,Tienda física,No,4,2,3395.65,1697.83,151,21.7,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL01219,F,67.0,Poniente,En línea,Sí,21,1,598.82,598.82,283,20.9,Oriental,Eau de Toilette,Celebridad / masivo,3.0
+CL00803,M,22.0,Centro,Tienda física,No,15,2,3152.52,1576.26,92,47.7,Floral,Eau de Toilette,Diseñador,4.0
+CL00649,M,45.0,Norte,Tienda física,No,1,4,8372.43,2093.11,305,16.6,Cítrica,Eau de Parfum,Diseñador,5.0
+CL00886,M,32.0,Poniente,Tienda física,Sí,28,7,4708.5,672.64,27,80.1,Floral,Eau de Cologne,Celebridad / masivo,4.0
+CL01066,M,54.0,Centro,Tienda física,No,8,1,1581.69,1581.69,83,36.7,Cítrica,Eau de Cologne,Diseñador,4.0
+CL00004,F,38.0,Sur,En línea,Sí,64,5,5027.53,1005.51,21,47.3,Amaderada,Eau de Parfum,Diseñador,5.0
+CL01059,F,47.0,Centro,Tienda física,Sí,58,14,42012.09,3000.86,19,27.0,Floral,Eau de Parfum,Nicho,5.0
+CL00236,F,33.0,Poniente,Tienda física,Sí,14,9,7453.49,828.17,39,78.1,Cítrica,Parfum,Diseñador,4.0
+CL00348,F,30.0,Centro,Tienda física,No,29,6,6004.85,1000.81,16,58.7,Floral,Eau de Toilette,Celebridad / masivo,
+CL01262,M,36.0,Norte,Tienda física,No,33,2,3446.28,1723.14,181,45.7,Amaderada,Eau de Parfum,Diseñador,4.0
+CL01209,F,33.0,Sur,En línea,Sí,19,3,"$1,754.88",584.96,16,90.5,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL00696,M,,Norte,En línea,No,81,2,3801.11,1900.55,365,34.3,Floral,Eau de Cologne,Diseñador,3.0
+CL00588,F,42.0,Centro,En línea,No,13,1,1351.69,1351.69,227,41.6,Cítrica,Eau de Toilette,Diseñador,3.0
+CL00462,M,57.0,Centro,Tienda física,No,29,5,5742.15,1148.43,129,35.1,Floral,Eau de Parfum,Diseñador,4.0
+CL00920,F,32.0,Centro,En línea,No,48,4,6355.21,1588.8,264,11.8,Floral,Eau de Parfum,Diseñador,4.0
+CL00272,F,51.0,CENTRO,Tienda física,No,31,1,405.82,405.82,136,35.9,Floral,Eau de Parfum,Diseñador,3.0
+CL00640,F,25.0,Sur,Tienda física,No,15,8,9638.68,1204.84,64,78.1,Floral,Eau de Parfum,Diseñador,4.0
+CL01225,M,34.0,Centro,Tienda física,No,25,4,7423.83,1855.96,67,12.2,Amaderada,Parfum,Diseñador,5.0
+CL01231,F,36.0,Centro,Tienda física,No,17,2,4576.48,2288.24,78,41.5,Amaderada,Eau de Cologne,Nicho,2.0
+CL00658,F,39.0,Sur,Tienda física,Sí,30,1,1747.27,1747.27,365,61.5,Amaderada,Eau de Toilette,Celebridad / masivo,3.0
+CL01214,M,33.0,Centro,Tienda física,Sí,39,13,31807.49,2446.73,18,6.8,Oriental,Eau de Parfum,Celebridad / masivo,4.0
+CL01008,F,58.0,Norte,En línea,Sí,79,10,21126.9,2112.69,41,11.5,Oriental,Eau de Toilette,Nicho,4.0
+CL00540,F,37.0,Centro,En línea,No,15,1,2149.3,2149.3,42,45.5,Oriental,Eau de Parfum,Diseñador,3.0
+CL00364,F,30.0,Centro,En línea,No,17,1,2949.29,2949.29,54,42.3,Floral,Eau de Parfum,Diseñador,4.0
+CL00033,M,30.0,Norte,Tienda física,No,18,3,3935.89,1311.96,173,21.3,Oriental,Eau de Parfum,Diseñador,4.0
+CL00008,F,32.0,Poniente,En línea,Sí,19,8,"$6,013.98",751.75,51,83.7,Cítrica,Eau de Cologne,Diseñador,5.0
+CL01215,,44.0,Poniente,Tienda física,Sí,14,7,13410.86,1915.84,4,32.0,Oriental,Eau de Parfum,Nicho,4.0
+CL00907,F,40.0,Sur,En línea,No,124,10,26609.35,2660.94,14,28.0,Oriental,Eau de Parfum,Celebridad / masivo,4.0
+CL00723,F,42.0,Norte,Tienda física,No,13,1,1719.17,1719.17,153,57.3,Floral,Eau de Parfum,Diseñador,2.0
+CL00504,F,21.0,Norte,En línea,No,40,10,"$12,961.69",1296.17,38,59.5,Oriental,Eau de Cologne,Celebridad / masivo,4.0
+CL01267,M,41.0,Norte,Tienda física,No,67,2,4650.91,2325.45,228,19.3,Cítrica,Eau de Toilette,Celebridad / masivo,3.0
+CL01292,F,25.0,Centro,Tienda física,No,20,5,3248.41,649.68,40,75.3,Fresca,Eau de Cologne,Celebridad / masivo,4.0
+CL01426,M,37.0,Sur,Tienda física,Sí,53,1,1068.23,1068.23,365,51.0,Cítrica,Eau de Toilette,Diseñador,3.0
+CL01172,M,36.0,CENTRO,Tienda física,No,26,2,4709.34,2354.67,92,33.4,Floral,Eau de Toilette,Nicho,4.0
+CL00683,F,23.0,Sur,Tienda física,Sí,24,3,6085.44,2028.48,70,4.8,Oriental,Eau de Toilette,Diseñador,4.0
+CL00191,M,35.0,Poniente,Tienda física,No,45,9,"$35,663.24",3962.58,3,1.8,Oriental,Eau de Cologne,Diseñador,5.0
+CL00836,hombre,18.0,Centro,Tienda física,Sí,92,8,"$21,240.44",2655.05,30,22.5,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00648,F,,Norte,Tienda física,Sí,47,8,6457.33,807.17,23,61.4,Cítrica,Eau de Toilette,Diseñador,3.0
+CL01490,M,38.0,Poniente,En línea,No,27,4,1056.01,264.0,38,38.8,Cítrica,Eau de Toilette,Diseñador,4.0
+CL00065,F,55.0,Centro,Tienda física,No,43,1,1528.38,1528.38,193,16.8,Fresca,Eau de Parfum,Diseñador,3.0
+CL01414,F,22.0,Sur,Tienda física,Sí,29,5,4327.38,865.48,66,47.9,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL00449,F,51.0,Centro,Tienda física,No,16,1,1103.43,1103.43,48,57.8,Floral,Eau de Parfum,Diseñador,3.0
+CL01087,M,26.0,norte,En línea,Sí,8,8,3821.59,477.7,60,75.1,Fresca,Eau de Cologne,Celebridad / masivo,4.0
+CL01334,M,35.0,Sur,En línea,Sí,7,7,17965.19,2566.46,48,33.2,Amaderada,Eau de Toilette,Diseñador,
+CL01432,M,54.0,Norte,En línea,Sí,52,2,2044.08,1022.04,269,51.9,Floral,Eau de Toilette,Diseñador,3.0
+CL00383,F,46.0,Sur,En línea,No,34,2,2068.34,1034.17,108,52.0,Floral,Eau de Cologne,Nicho,5.0
+CL00159,M,25.0,Sur,En línea,Sí,11,7,7815.9,1116.56,45,78.4,Cítrica,Eau de Parfum,Celebridad / masivo,4.0
+CL00217,M,41.0,Poniente,Tienda física,No,36,2,1259.77,629.89,34,83.5,Oriental,Eau de Toilette,Diseñador,4.0
+CL00560,hombre,42.0,Norte,En línea,No,8,1,1662.32,1662.32,75,47.8,Oriental,Eau de Parfum,Diseñador,4.0
+CL00400,M,29.0,Sur,Tienda física,Sí,24,3,"$5,931.59",1977.2,87,14.3,Cítrica,Eau de Toilette,Diseñador,3.0
+CL00994,M,45.0,Norte,Tienda física,No,38,5,9512.55,1902.51,125,14.4,Fresca,Eau de Toilette,Diseñador,4.0
+CL00012,M,18.0,Norte,En línea,No,50,1,1816.04,1816.04,314,57.6,Amaderada,Eau de Toilette,Celebridad / masivo,3.0
+CL00013,F,48.0,Sur,En línea,No,1,7,12885.29,1840.76,185,20.9,Amaderada,Eau de Toilette,Diseñador,4.0
+CL01070,M,36.0,Centro,Tienda física,No,6,4,7383.31,1845.83,68,40.6,Cítrica,Eau de Toilette,Diseñador,4.0
+CL00471,F,40.0,Norte,En línea,Sí,14,5,2198.94,439.79,35,80.4,Fresca,Eau de Parfum,Diseñador,4.0
+CL01178,M,30.0,Centro,Tienda física,No,11,3,6392.81,2130.94,93,43.2,Oriental,Eau de Parfum,Celebridad / masivo,4.0
+CL00670,F,35.0,sur,Tienda física,Sí,9,6,8721.42,1453.57,25,64.9,Cítrica,Eau de Parfum,Celebridad / masivo,4.0
+CL01282,F,42.0,Centro,Tienda física,No,69,3,4950.67,1650.22,59,44.7,Floral,Parfum,Diseñador,3.0
+CL00356,F,41.0,Norte,En línea,No,13,6,11662.06,1943.68,248,28.6,Fresca,Eau de Parfum,Diseñador,4.0
+CL01065,F,29.0,Norte,Tienda física,No,19,1,1962.68,1962.68,90,13.1,Cítrica,Eau de Parfum,Diseñador,3.0
+CL00787,M,42.0,Poniente,Tienda física,Sí,9,1,908.2,908.2,120,52.9,Cítrica,Parfum,Nicho,4.0
+CL00595,F,47.0,Centro,En línea,Sí,67,14,27228.28,1944.88,44,31.5,Oriental,Parfum,Nicho,5.0
+CL00729,F,31.0,Centro,En línea,Sí,24,2,4136.75,2068.37,128,6.3,Amaderada,Eau de Cologne,Diseñador,3.0
+CL00525,F,27.0,Norte,Tienda física,No,18,8,5752.36,719.04,32,94.8,Floral,Eau de Parfum,Diseñador,3.0
+CL00869,M,50.0,Centro,En línea,No,76,12,33319.15,2776.6,37,15.9,Floral,Eau de Parfum,Diseñador,3.0
+CL00702,F,52.0,Norte,En línea,No,8,16,33575.76,2098.49,19,23.1,Oriental,Eau de Parfum,Nicho,4.0
+CL00433,F,47.0,Sur,En línea,Sí,33,10,28915.65,2891.56,13,4.6,Oriental,Parfum,Diseñador,5.0
+CL00288,F,62.0,Centro,Tienda física,No,88,1,1372.3,1372.3,277,40.2,Oriental,Eau de Toilette,Celebridad / masivo,3.0
+CL00235,M,44.0,Centro,En línea,No,21,4,8780.42,2195.11,126,7.6,Fresca,Eau de Parfum,Nicho,3.0
+CL00107,M,30.0,Sur,Tienda física,No,6,9,13087.21,1454.13,22,29.4,Oriental,Eau de Parfum,Diseñador,4.0
+CL00352,F,44.0,Sur,En línea,Sí,11,2,4315.71,2157.86,164,32.3,Floral,Eau de Toilette,Diseñador,4.0
+CL00730,F,21.0,Centro,Tienda física,No,40,1,1693.33,1693.33,189,24.5,Floral,Eau de Parfum,Diseñador,5.0
+CL00618,FEMENINO,18.0,Norte,Tienda física,No,17,4,6322.5,1580.63,43,29.8,Amaderada,Eau de Parfum,Nicho,3.0
+CL00826,M,43.0,Centro,Tienda física,No,12,4,4996.06,1249.02,100,20.7,Floral,Eau de Toilette,Diseñador,4.0
+CL01000,F,31.0,Sur,En línea,No,6,7,6719.57,959.94,50,73.1,Floral,Eau de Parfum,Diseñador,3.0
+CL00036,MASCULINO,30.0,Poniente,Tienda física,No,20,1,1256.42,1256.42,235,24.3,Floral,Eau de Parfum,Diseñador,3.0
+CL00772,F,44.0,Norte,Tienda física,No,32,1,2034.86,2034.86,60,54.0,,Eau de Toilette,Celebridad / masivo,4.0
+CL00761,F,58.0,Norte,Tienda física,No,97,2,2396.31,1198.16,210,25.0,Floral,Eau de Toilette,Diseñador,2.0
+CL00857,Femenino,50.0,Sur,Tienda física,No,34,1,1549.37,1549.37,192,62.7,Floral,Eau de Parfum,Diseñador,3.0
+CL01481,F,23.0, Poniente ,En línea,No,26,6,5193.22,865.54,22,56.8,Cítrica,Eau de Cologne,Diseñador,
+CL01365,F,46.0,Norte,Tienda física,No,33,2,2332.12,1166.06,97,60.7,Oriental,Eau de Toilette,Nicho,3.0
+CL00741,M,47.0,Sur,En línea,No,12,4,5983.97,1495.99,278,19.0,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL00157,M,18.0,Norte,En línea,No,29,1,1714.1,1714.1,51,33.4,Floral,Eau de Parfum,Celebridad / masivo,3.0
+CL01175,M,42.0,Centro,En línea,Sí,31,6,7403.37,1233.89,147,17.3,Amaderada,Eau de Toilette,Diseñador,4.0
+CL01156,F,28.0,Norte,Tienda física,Sí,23,5,12557.5,2511.5,42,3.1,Amaderada,Parfum,Nicho,4.0
+CL01410,F,,Sur,En línea,No,7,8,11015.4,1376.93,41,64.8,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL00600,F,32.0,Norte,Tienda física,Sí,180,11,32598.19,2963.47,16,16.8,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00845,M,45.0,Sur,En línea,No,6,4,9101.42,2275.36,55,55.1,Cítrica,Eau de Toilette,Diseñador,4.0
+CL01390,F,20.0,Centro,En línea,No,17,1,1174.66,1174.66,47,36.2,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00377,M,57.0,Sur,Tienda física,Sí,157,3,3852.98,1284.33,365,72.3,Oriental,Eau de Parfum,Diseñador,3.0
+CL00321,F,35.0,Sur,En línea,No,33,2,2872.74,1436.37,146,26.1,Oriental,Eau de Toilette,Nicho,3.0
+CL00895,M,36.0,Norte,Tienda física,No,29,2,3719.67,1859.83,41,19.5,Floral,Eau de Parfum,Diseñador,4.0
+CL00214,F,40.0,Centro,En línea,No,35,3,2509.62,836.54,37,78.5,Amaderada,Eau de Toilette,Celebridad / masivo,4.0
+CL00011,F,66.0,Norte,Tienda física,Sí,45,1,978.45,978.45,130,53.0,Floral,Eau de Toilette,Celebridad / masivo,2.0
+CL00786,M,28.0,Centro,En línea,Sí,15,2,2020.4,1010.2,212,23.1,Fresca,Eau de Parfum,Celebridad / masivo,5.0
+CL00277,F,35.0,Centro,Tienda física,Sí,10,6,18811.3,3135.22,41,5.0,Oriental,Parfum,Diseñador,5.0
+CL01100,F,43.0,Sur,Tienda física,No,77,7,21471.65,3067.38,13,45.4,Amaderada,Eau de Parfum,Diseñador,5.0
+CL01411,M,18.0,Centro,Tienda física,Sí,35,5,5679.0,1135.8,32,61.4,Floral,Eau de Cologne,Diseñador,4.0
+CL00685,M,43.0,Norte,En línea,No,49,5,7787.84,1557.57,93,30.8,Fresca,Eau de Parfum,Nicho,5.0
+CL00376,Masculino,39.0,Centro,Tienda física,No,47,7,15803.38,2257.63,12,30.1,Oriental,Eau de Toilette,Diseñador,5.0
+CL00108,M,36.0,Poniente,Tienda física,No,31,1,2100.23,2100.23,86,58.3,Cítrica,Eau de Parfum,Diseñador,2.0
+CL01228,F,34.0,Norte,Tienda física,Sí,70,7,"$19,770.03",2824.29,5,4.8,Fresca,Eau de Parfum,Celebridad / masivo,5.0
+CL00856,M,45.0,Sur,Tienda física,No,70,3,6527.45,2175.82,86,42.9,Floral,Eau de Toilette,Diseñador,5.0
+CL01478,F,,Centro,Tienda física,Sí,11,1,1552.69,1552.69,365,64.8,Amaderada,Eau de Toilette,Diseñador,3.0
+CL01429,F,18.0,Sur,Tienda física,No,63,1,1445.65,1445.65,152,66.3,Amaderada,Eau de Toilette,Diseñador,4.0
+CL00249,F,42.0,Norte,Tienda física,No,71,8,17775.74,2221.97,19,0.8,Floral,Eau de Parfum,Nicho,4.0
+CL01119,F,42.0,Centro,Tienda física,No,17,6,13760.37,2293.4,146,51.0,Fresca,Eau de Parfum,Diseñador,3.0
+CL01400,M,26.0,Sur,En línea,No,43,1,992.6,992.6,220,41.3,Oriental,Parfum,Celebridad / masivo,4.0
+CL00641,M,53.0,Norte,Tienda física,No,59,1,1277.11,1277.11,348,22.6,Amaderada,Eau de Parfum,Celebridad / masivo,3.0
+CL01371,F,40.0,Centro,Tienda física,No,10,1,930.3,930.3,282,41.8,Oriental,Eau de Cologne,Diseñador,3.0
+CL00476,F,52.0,Centro,Tienda física,No,79,1,$865.40,865.4,119,31.6,Amaderada,Eau de Parfum,Celebridad / masivo,3.0
+CL00064,F,29.0,Norte,En línea,Sí,51,10,31899.19,3189.92,38,9.9,Floral,Eau de Toilette,Nicho,3.0
+CL01255,F,35.0,Centro,Tienda física,Sí,73,12,36862.74,3071.9,12,5.3,Floral,Eau de Parfum,Nicho,4.0
+CL00839,F,43.0,Poniente,Tienda física,No,2,1,1399.63,1399.63,222,16.3,Floral,Parfum,Diseñador,
+CL01351,M,52.0,Centro,En línea,Sí,54,18,61694.2,3427.46,15,12.9,Amaderada,Eau de Parfum,Nicho,5.0
+CL00537,M,,Centro,Tienda física,Sí,20,5,9159.05,1831.81,125,13.3,Floral,Eau de Toilette,Diseñador,4.0
+CL01237,F,57.0,Centro,En línea,Sí,13,1,1070.31,1070.31,191,27.1,Floral,Eau de Toilette,Diseñador,3.0
+CL00706,F,24.0,Poniente,En línea,No,15,7,4307.25,615.32,39,87.4,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00619,Femenino,32.0,Centro,En línea,Sí,26,4,2750.8,687.7,62,48.7,Fresca,Eau de Toilette,Diseñador,5.0
+CL01386,M,58.0,Sur,En línea,No,32,3,"$4,062.15",1354.05,313,31.1,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00603,hombre,46.0,Norte,Tienda física,No,22,3,3661.04,1220.35,71,18.5,Oriental,Eau de Parfum,Celebridad / masivo,3.0
+CL00665,M,39.0,Norte,Tienda física,No,8,2,2221.74,1110.87,279,11.3,Fresca,Eau de Toilette,Diseñador,3.0
+CL00811,M,24.0,Centro,Tienda física,Sí,22,3,2777.89,925.96,52,89.2,Floral,Eau de Cologne,Celebridad / masivo,4.0
+CL00404,F,41.0,Poniente,Tienda física,No,19,9,18209.25,2023.25,18,13.9,Oriental,Parfum,Diseñador,4.0
+CL00239,F,45.0,Poniente,En línea,Sí,58,8,6142.05,767.76,27,83.5,Cítrica,Eau de Toilette,Diseñador,5.0
+CL01088,F,21.0,Poniente,Tienda física,Sí,12,4,4913.15,1228.29,19,51.0,Floral,Eau de Toilette,Diseñador,4.0
+CL01106,M,50.0,Centro,,No,18,3,6038.43,2012.81,26,30.9,Fresca,Eau de Parfum,Diseñador,3.0
+CL00319,M,30.0,Norte,Tienda física,Sí,108,15,33164.2,2210.95,24,9.4,Floral,Eau de Parfum,Diseñador,4.0
+CL00573,M,20.0,Norte,En línea,No,2,4,4751.25,1187.81,43,14.5,Floral,Eau de Cologne,Diseñador,4.0
+CL00171,M,30.0,Centro,En línea,Sí,18,6,5224.95,870.82,35,77.8,Floral,Eau de Toilette,Celebridad / masivo,5.0
+CL01265,M,33.0,Norte,Tienda física,Sí,16,15,41939.49,2795.97,19,8.5,Fresca,Eau de Toilette,Diseñador,5.0
+CL00577,mujer,38.0,Centro,Tienda física,No,34,4,"$7,690.35",1922.59,125,43.2,Cítrica,Eau de Parfum,Celebridad / masivo,
+CL00551,F,53.0,Centro,Tienda física,No,53,3,3419.21,1139.74,128,29.2,Amaderada,Eau de Toilette,Celebridad / masivo,2.0
+CL00957,M,42.0,Sur,En línea,No,49,4,9291.06,2322.76,31,13.3,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00374,F,49.0,Centro,Tienda física,Sí,67,3,4017.87,1339.29,96,23.3,Fresca,Eau de Parfum,Celebridad / masivo,3.0
+CL00094,M,33.0,Norte,Tienda física,No,8,2,2308.47,1154.24,47,27.0,Amaderada,Eau de Parfum,Celebridad / masivo,
+CL00638,M,39.0,Poniente,Tienda física,No,25,3,7743.4,2581.13,126,56.5,Cítrica,Eau de Cologne,Diseñador,5.0
+CL00963,F,42.0,Sur,En línea,Sí,37,11,30039.81,2730.89,28,4.3,Amaderada,Eau de Parfum,Nicho,4.0
+CL00300,M,19.0,Centro,Tienda física,Sí,5,2,4483.91,2241.95,191,24.4,Amaderada,Eau de Toilette,Celebridad / masivo,3.0
+CL00914,F,31.0,NORTE,En línea,No,35,11,7736.46,703.31,43,67.5,Floral,Eau de Toilette,Celebridad / masivo,5.0
+CL00889,M,35.0,Poniente,En línea,No,60,1,1834.88,1834.88,204,37.8,Fresca,Parfum,Diseñador,
+CL00494,M,50.0,Centro,Tienda física,No,9,2,2137.94,1068.97,138,37.3,Oriental,Eau de Toilette,Celebridad / masivo,2.0
+CL00959,M,26.0,Norte,En línea,No,13,6,4116.05,686.01,39,72.2,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL00782,F,35.0,centro,Tienda física,No,15,3,5112.66,1704.22,84,19.3,Floral,Eau de Parfum,Diseñador,4.0
+CL00828,F,22.0,Centro,En línea,Sí,12,2,5187.78,2593.89,72,33.2,Floral,Eau de Parfum,Diseñador,3.0
+CL01308,MASCULINO,48.0,Sur,Tienda física,Sí,29,3,7478.27,2492.76,33,17.6,Floral,Eau de Toilette,Diseñador,5.0
+CL00005,M,30.0,Centro,En línea,No,27,6,3718.72,619.79,20,63.7,Cítrica,Eau de Cologne,Celebridad / masivo,4.0
+CL00763,M,20.0,Norte,Tienda física,No,16,2,3515.34,1757.67,81,25.2,,Parfum,Diseñador,3.0
+CL00601,F,37.0,Norte,En línea,No,17,6,"$8,631.70",1438.62,163,15.9,Oriental,Eau de Parfum,Diseñador,4.0
+CL00565,M,23.0,Centro,Tienda física,Sí,28,9,7257.89,806.43,30,60.6,Amaderada,Eau de Toilette,Celebridad / masivo,3.0
+CL00489,M,71.0,Centro,En línea,Sí,70,1,1231.91,1231.91,117,27.3,Amaderada,Eau de Toilette,Celebridad / masivo,3.0
+CL00545,F,39.0,Sur,En línea,No,59,5,9962.41,1992.48,44,10.2,Amaderada,Eau de Toilette,Diseñador,5.0
+CL00902,F,40.0,Centro,Tienda física,No,35,1,649.81,649.81,279,15.9,Cítrica,Eau de Parfum,Diseñador,3.0
+CL00623,M,29.0,Centro,Tienda física,No,18,2,3097.76,1548.88,365,17.7,Oriental,Eau de Toilette,Diseñador,3.0
+CL00961,M,35.0,Sur,En línea,Sí,3,2,4034.55,2017.27,143,18.1,Cítrica,Eau de Toilette,Celebridad / masivo,4.0
+CL00884,FEMENINO,42.0,Norte,Tienda física,No,20,5,4587.76,917.55,96,32.2,Amaderada,Eau de Parfum,Nicho,4.0
+CL00220,M,29.0,Centro,En línea,Sí,52,7,11141.29,1591.61,13,51.7,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00765,F,46.0,Centro,Tienda física,No,46,2,2575.4,1287.7,211,55.7,Fresca,Eau de Parfum,Diseñador,3.0
+CL00138,M,35.0,Poniente,Tienda física,Sí,22,2,1936.01,968.01,365,42.6,Amaderada,Eau de Parfum,Diseñador,3.0
+CL00070,M,32.0,Centro,Tienda física,No,39,6,6305.96,1050.99,32,96.7,Amaderada,Eau de Toilette,Celebridad / masivo,4.0
+CL01006,F,26.0,Norte,En línea,Sí,26,9,19804.45,2200.49,16,21.4,Fresca,Parfum,Celebridad / masivo,4.0
+CL01071,M,40.0,Sur,En línea,Sí,27,11,34572.6,3142.96,7,47.3,Amaderada,Eau de Toilette,Diseñador,5.0
+CL01256,M,45.0,Poniente,Tienda física,No,61,1,1797.01,1797.01,365,23.8,Cítrica,Eau de Parfum,Diseñador,3.0
+CL00498,F,21.0,Centro,En línea,No,15,8,7216.59,902.07,30,52.5,Fresca,Eau de Parfum,Celebridad / masivo,5.0
+CL00891,M,36.0,Poniente,En línea,No,34,5,5085.23,1017.05,21,85.6,Floral,Eau de Cologne,Celebridad / masivo,4.0
+CL00922,FEMENINO,,Sur,Tienda física,Sí,48,2,2795.27,1397.64,137,31.1,Floral,Eau de Toilette,Diseñador,3.0
+CL00437,F,45.0,Sur,En línea,No,83,4,7287.19,1821.8,78,43.1,Cítrica,Parfum,Celebridad / masivo,3.0
+CL00566,M,31.0,Poniente,En línea,No,10,2,"$3,994.88",1997.44,45,34.8,Floral,Eau de Parfum,Diseñador,3.0
+CL00882,M,44.0, Norte ,Tienda física,No,38,4,7899.16,1974.79,89,43.9,Fresca,Eau de Toilette,Diseñador,3.0
+CL00456, m,51.0,SUR,Tienda física,Sí,57,12,"$29,972.64",2497.72,7,36.3,Amaderada,Eau de Toilette,Diseñador,4.0
+CL00934,F,38.0,Centro,Tienda física,No,44,1,1160.87,1160.87,357,37.8,Amaderada,Eau de Cologne,Celebridad / masivo,2.0
+CL01205,F,29.0,Norte,Tienda física,Sí,9,7,4670.93,667.28,39,62.2,Floral,Eau de Parfum,Celebridad / masivo,5.0
+CL00517,M,29.0,Norte,En línea,No,23,5,7160.65,1432.13,147,18.2,Amaderada,Eau de Toilette,Diseñador,3.0
+CL01226,F,25.0,Poniente,En línea,No,14,2,3110.64,1555.32,141,27.8,Amaderada,Eau de Toilette,Diseñador,4.0
+CL01023,F,33.0, Sur ,En línea,Sí,38,6,5345.0,890.83,35,46.9,Cítrica,Eau de Toilette,Diseñador,4.0
+CL01382,M,,Centro,Tienda física,Sí,71,6,9007.22,1501.2,82,29.0,Amaderada,Eau de Toilette,Diseñador,4.0
+CL00327,F,26.0,Centro,En línea,Sí,13,8,6954.87,869.36,9,69.4,Oriental,Eau de Parfum,Diseñador,4.0
+CL00066,F,44.0,Norte,Tienda física,No,26,2,3658.19,1829.1,284,52.3,Floral,Parfum,Diseñador,3.0
+CL00824,M,24.0,Centro,Tienda física,Sí,36,4,10517.96,2629.49,61,23.7,Floral,Eau de Parfum,Nicho,4.0
+CL01369, f ,54.0,Norte,Tienda física,Sí,64,3,"$1,600.12",533.37,138,20.4,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL01194,F,48.0,Norte,Tienda física,Sí,38,10,29677.09,2967.71,21,5.7,Amaderada,Eau de Parfum,Diseñador,5.0
+CL00736,F,28.0,Norte,En línea,Sí,25,7,8366.64,1195.23,27,35.7,Fresca,Eau de Cologne,Celebridad / masivo,4.0
+CL00880,F,28.0,Norte,En línea,Sí,15,5,3588.36,717.67,32,63.4,Fresca,Eau de Toilette,Diseñador,5.0
+CL00791,F,53.0,Poniente,Tienda física,Sí,16,9,20181.51,2242.39,36,18.7,Oriental,Eau de Parfum,Nicho,5.0
+CL01034,M,31.0,Norte,Tienda física,No,41,5,8401.67,1680.33,82,28.7,Amaderada,Eau de Toilette,Diseñador,4.0
+CL01203,F,51.0,Centro,Tienda física,No,66,1,1161.97,1161.97,244,10.1,Amaderada,Eau de Toilette,Diseñador,3.0
+CL01467,F,32.0,Centro,Tienda física,Sí,19,9,"$17,629.76",1958.86,21,3.9,Oriental,Parfum,Nicho,5.0
+CL01188, m,35.0,Sur,En línea,No,25,4,11947.0,2986.75,279,13.5,Floral,Eau de Toilette,Diseñador,3.0
+CL00924,F,56.0,Sur,Tienda física,No,96,3,3239.32,1079.77,92,52.5,Floral,Eau de Parfum,Celebridad / masivo,3.0
+CL01479,F,39.0,Sur,Tienda física,No,3,1,1471.31,1471.31,287,69.9,Cítrica,Eau de Toilette,Diseñador,3.0
+CL01242,F,44.0,Poniente,En línea,No,57,1,389.34,389.34,133,30.5,Amaderada,Eau de Cologne,Diseñador,3.0
+CL00177,F,43.0,Norte,Tienda física,No,38,1,1413.24,1413.24,176,24.0,Oriental,Eau de Toilette,Diseñador,3.0
+CL00888,M,,norte,En línea,Sí,47,4,5078.93,1269.73,87,79.6,Oriental,Eau de Parfum,Celebridad / masivo,4.0
+CL01380,F,45.0, Sur ,En línea,Sí,66,12,17707.7,1475.64,13,6.8,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL01399,F,50.0,Centro,En línea,No,33,7,14436.78,2062.4,103,33.8,Floral,Eau de Parfum,Diseñador,4.0
+CL01118,M,39.0,Norte,En línea,Sí,47,7,3207.66,458.24,41,91.6,Floral,Eau de Toilette,Diseñador,4.0
+CL00973,F,29.0,Centro,En línea,Sí,32,1,1113.16,1113.16,211,31.1,Floral,Eau de Toilette,Diseñador,3.0
+CL00309, f ,19.0,Sur,Tienda física,Sí,20,10,8623.26,862.33,42,69.5,Fresca,Eau de Toilette,Diseñador,3.0
+CL01495,M,38.0,Centro,Tienda física,Sí,63,9,32457.04,3606.34,22,6.8,Fresca,Parfum,Diseñador,4.0
+CL00547,F,42.0,Sur,Tienda física,No,3,4,4603.91,1150.98,42,82.1,Fresca,Eau de Toilette,Diseñador,4.0
+CL01354,F,3.0,Poniente,En línea,No,33,5,4325.57,865.11,31,81.6,Cítrica,Eau de Parfum,Diseñador,3.0
+CL01350,M,18.0,Centro,En línea,Sí,23,10,8179.6,817.96,29,93.6,Floral,Eau de Cologne,Celebridad / masivo,3.0
+CL01135,M,47.0,Centro,En línea,No,25,3,3263.76,1087.92,198,28.7,Fresca,Eau de Toilette,Diseñador,3.0
+CL01422,F,44.0,Centro,Tienda física,Sí,23,3,5027.48,1675.83,-31,28.8,Fresca,Eau de Parfum,Nicho,5.0
+CL01145,M,19.0,Centro,Tienda física,No,10,1,947.03,947.03,85,12.8,Floral,Eau de Parfum,Diseñador,5.0
+CL01167,F,44.0,Centro,Tienda física,Sí,15,5,1915.93,383.19,41,85.4,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL00396,F,39.0,Sur,En línea,Sí,28,2,3787.28,1893.64,49,8.2,Cítrica,Eau de Parfum,Celebridad / masivo,3.0
+CL01320,F,30.0,Sur,Tienda física,No,16,1,640.61,640.61,288,33.7,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL00872,M,20.0,Centro,Tienda física,No,14,3,"$4,998.44",1666.15,221,35.0,Floral,Eau de Parfum,Diseñador,4.0
+CL01253,M,33.0, Poniente ,Tienda física,No,50,1,1382.67,1382.67,286,46.4,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00513,M,50.0,Centro,Tienda física,No,36,4,"$4,058.52",1014.63,295,21.2,Cítrica,Eau de Toilette,Diseñador,3.0
+CL00816,F,54.0,Centro,En línea,Sí,108,9,31964.39,3551.6,28,26.4,Cítrica,Eau de Toilette,Diseñador,5.0
+CL00457,M,44.0,Sur,Tienda física,Sí,19,1,1736.2,1736.2,227,29.6,Cítrica,Parfum,Diseñador,4.0
+CL00687,M,60.0,Poniente,En línea,No,29,2,2405.16,1202.58,96,16.1,Floral,Eau de Toilette,Diseñador,3.0
+CL01446,Femenino,42.0,Norte,Tienda física,No,17,1,1071.93,1071.93,146,15.3,Amaderada,Parfum,Nicho,4.0
+CL01201,F,27.0,Centro,En línea,Sí,15,3,3041.91,1013.97,74,79.9,Cítrica,Eau de Toilette,Diseñador,4.0
+CL00232,hombre,50.0,Centro,En línea,Sí,26,8,8707.9,1088.49,70,78.9,Cítrica,Eau de Cologne,Celebridad / masivo,3.0
+CL00302,M,34.0,Centro,En línea,No,7,5,4236.07,847.21,27,43.4,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00735,F,29.0,Norte,Tienda física,Sí,67,14,28643.31,2045.95,15,12.9,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00753,F,60.0,Sur,En línea,No,14,1,1760.48,1760.48,365,40.2,Fresca,Eau de Parfum,Diseñador,3.0
+CL00668,MASCULINO,39.0,Centro,En línea,Sí,87,1,2267.39,2267.39,117,54.0,Cítrica,Eau de Toilette,Diseñador,1.0
+CL00451,M,52.0,Sur,Tienda física,No,41,1,"$1,354.09",1354.09,365,57.5,Floral,Eau de Parfum,Celebridad / masivo,2.0
+CL00602,F,33.0,Centro,En línea,Sí,21,2,4837.0,2418.5,228,8.3,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00186,F,38.0,Sur,Tienda física,No,13,5,9864.79,1972.96,41,26.4,Oriental,Eau de Toilette,Diseñador,4.0
+CL00750,F,31.0,Centro,Tienda física,No,33,2,1989.92,994.96,117,44.6,Floral,Eau de Toilette,Diseñador,3.0
+CL00460,M,40.0,Centro,En línea,Sí,56,4,7894.53,1973.63,24,7.7,Floral,Parfum,Diseñador,4.0
+CL00916,M,22.0,Sur,Tienda física,No,24,9,7530.92,836.77,34,52.9,Cítrica,Eau de Parfum,Diseñador,4.0
+CL00472,Masculino,27.0,Poniente,Tienda física,No,12,2,4627.96,2313.98,56,40.4,,Eau de Parfum,Diseñador,4.0
+CL00069,F,46.0,Centro,Tienda física,No,36,1,1891.73,1891.73,71,32.4,Amaderada,Eau de Parfum,Diseñador,3.0
+CL00398,F,18.0,Centro,Tienda física,No,29,1,865.98,865.98,174,15.3,Fresca,Eau de Toilette,Diseñador,3.0
+CL01129,M,30.0,Norte,En línea,No,10,4,7736.9,1934.22,80,23.1,Oriental,Eau de Parfum,Celebridad / masivo,4.0
+CL00522,F,25.0,Norte,Tienda física,No,3,2,2434.89,1217.45,325,27.8,Floral,Eau de Toilette,Diseñador,3.0
+CL01207,F,50.0,Centro,En línea,Sí,5,8,25012.11,3126.51,17,7.9,Fresca,Parfum,Diseñador,4.0
+CL00167,F,41.0,Poniente,Tienda física,Sí,180,1,1498.0,1498.0,214,42.8,Fresca,Eau de Toilette,Celebridad / masivo,2.0
+CL00991,F,28.0,Poniente,En línea,No,29,6,5800.58,966.76,22,79.2,Fresca,Parfum,Celebridad / masivo,3.0
+CL00660,M,57.0,Centro,Tienda física,Sí,18,1,1722.72,1722.72,365,23.1,Fresca,Eau de Toilette,Diseñador,4.0
+CL01394,F,44.0,Norte,Tienda física,Sí,28,6,4367.98,728.0,33,62.6,Fresca,Eau de Toilette,Celebridad / masivo,5.0
+CL00014,M,18.0,Norte,Tienda física,No,17,2,3766.43,1883.22,135,40.2,Amaderada,Eau de Toilette,Diseñador,3.0
+CL00224,M,35.0,Centro,Tienda física,No,4,6,11770.65,1961.78,66,30.2,Cítrica,Eau de Parfum,Diseñador,3.0
+CL00633, m,73.0,Centro,Tienda física,No,32,1,1090.56,1090.56,365,16.8,Oriental,Eau de Toilette,Diseñador,2.0
+CL01377,M,52.0,CENTRO,En línea,No,16,7,15976.8,2282.4,37,18.8,Oriental,Eau de Cologne,Diseñador,3.0
+CL01248,M,26.0,Centro,En línea,No,10,14,37738.44,2695.6,26,11.2,Cítrica,Eau de Parfum,Nicho,5.0
+CL01263,F,28.0,Sur,En línea,Sí,95,5,5194.06,1038.81,70,52.8,Cítrica,Eau de Toilette,Diseñador,4.0
+CL00549,F,46.0,Centro,Tienda física,Sí,32,3,6919.33,2306.44,72,19.7,Fresca,Eau de Toilette,Diseñador,4.0
+CL00229,F,36.0,Poniente,En línea,No,28,2,3404.22,1702.11,57,30.3,Oriental,Eau de Parfum,Diseñador,3.0
+CL00745,F,40.0,Norte,En línea,No,28,4,11421.13,2855.28,67,21.8,Fresca,Eau de Parfum,Diseñador,5.0
+CL00268,M,51.0,Poniente,En línea,Sí,36,13,40915.7,3147.36,32,7.3,Amaderada,Eau de Parfum,Diseñador,5.0
+CL00846,M,37.0,Norte,Tienda física,Sí,53,1,1148.2,1148.2,248,35.7,Amaderada,Eau de Parfum,Diseñador,3.0
+CL00794,M,30.0,Norte,Tienda física,Sí,52,9,6540.53,726.73,38,68.2,Fresca,Eau de Toilette,Diseñador,4.0
+CL01154,F,41.0,Poniente,Tienda física,No,25,2,2875.85,1437.93,237,11.4,Fresca,Eau de Cologne,Celebridad / masivo,3.0
+CL00692,F,36.0,Poniente,En línea,No,16,5,5727.12,1145.42,114,26.3,Cítrica,Eau de Toilette,Diseñador,3.0
+CL00068,F,20.0,Centro,Tienda física,Sí,27,10,13745.98,1374.6,34,86.7,Floral,Eau de Parfum,Celebridad / masivo,3.0
+CL00989,M,53.0,Centro,Tienda física,No,34,2,"$3,222.04",1611.02,186,45.6,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL00117,F,36.0,Centro,Tienda física,Sí,10,12,26899.66,2241.64,21,9.7,Oriental,Parfum,Diseñador,4.0
+CL00558,M,32.0,Poniente,Tienda física,No,39,4,3014.02,753.51,14,62.2,Amaderada,Eau de Parfum,Celebridad / masivo,3.0
+CL01234,F,37.0,Sur,En línea,No,53,3,6927.56,2309.19,113,13.4,Floral,Eau de Parfum,Celebridad / masivo,3.0
+CL00298,M,25.0,Sur,En línea,Sí,59,16,42430.21,2651.89,5,10.9,Oriental,Eau de Parfum,Nicho,5.0
+CL01266,FEMENINO,33.0,Sur,En línea,Sí,13,7,7777.37,1111.05,8,51.3,Floral,Eau de Toilette,Celebridad / masivo,5.0
+CL00048,F,30.0,Centro,En línea,Sí,19,9,5336.02,592.89,61,65.4,Fresca,Eau de Parfum,Celebridad / masivo,3.0
+CL00705,FEMENINO,28.0,Norte,En línea,Sí,12,7,3969.11,567.02,24,73.2,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00265,M,33.0,Sur,En línea,No,13,1,1711.78,1711.78,197,56.5,Cítrica,Eau de Parfum,Nicho,5.0
+CL00875,F,33.0,Norte,En línea,Sí,13,2,4947.99,2473.99,29,18.4,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00455,M,25.0,Norte,En línea,Sí,8,6,5792.27,965.38,22,56.5,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL00435,F,33.0,Norte,Tienda física,Sí,44,6,15676.14,2612.69,11,5.6,Amaderada,Parfum,Diseñador,3.0
+CL00606,MASCULINO,50.0,Centro,En línea,No,7,3,"$3,258.70",1086.23,121,56.0,Oriental,Eau de Toilette,Diseñador,4.0
+CL00636,F,46.0,Norte,Tienda física,No,9,2,489.47,244.73,45,61.9,Fresca,Eau de Toilette,Diseñador,3.0
+CL00680,F,48.0,Poniente,Tienda física,Sí,133,10,28062.74,2806.27,32,19.6,Amaderada,Eau de Parfum,Diseñador,5.0
+CL01073,F,28.0,Norte,En línea,Sí,53,6,7317.99,1219.66,82,78.3,Cítrica,Eau de Toilette,Diseñador,4.0
+CL00744,M,36.0,Sur,Tienda física,Sí,47,14,27943.72,1995.98,20,26.7,Oriental,Parfum,Nicho,5.0
+CL00417,M,35.0,Sur,En línea,No,10,3,7463.46,2487.82,50,22.2,Amaderada,Eau de Toilette,Celebridad / masivo,4.0
+CL00203,F,34.0,Centro,Tienda física,Sí,18,7,4906.37,700.91,27,60.9,Amaderada,Eau de Toilette,Diseñador,4.0
+CL00732,M,33.0,Centro,Tienda física,Sí,13,4,"$14,251.83",3562.96,230,26.6,Oriental,Eau de Toilette,Diseñador,4.0
+CL00118,M,50.0,Centro,En línea,No,30,3,7398.31,2466.1,100,7.0,Fresca,Eau de Toilette,Diseñador,4.0
+CL00317,M,33.0,Centro,Tienda física,No,18,9,6050.89,672.32,22,68.0,Cítrica,Eau de Toilette,Diseñador,4.0
+CL00071,M,29.0,Norte,En línea,Sí,16,1,1506.04,1506.04,77,39.0,Amaderada,Eau de Cologne,Diseñador,4.0
+CL00320,M,47.0,Sur,En línea,Sí,112,10,30452.78,3045.28,8,22.4,Oriental,Parfum,Diseñador,5.0
+CL00379,F,41.0,Centro,Tienda física,No,24,6,2461.81,410.3,111,55.6,Cítrica,Eau de Cologne,Diseñador,3.0
+CL00021,M,56.0,Centro,Tienda física,No,9,2,2334.59,1167.29,125,66.2,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL00470,Femenino,37.0,Centro,En línea,No,6,1,427.18,427.18,88,57.7,Fresca,Eau de Parfum,Celebridad / masivo,3.0
+CL00210,F,34.0,Centro,Tienda física,Sí,12,2,609.42,304.71,176,54.9,Floral,Eau de Toilette,Diseñador,3.0
+CL01291,F,22.0,Poniente,Tienda física,Sí,18,6,4945.04,824.17,38,83.8,Floral,Eau de Cologne,Diseñador,4.0
+CL00576,F,37.0,Poniente,En línea,Sí,28,2,1111.62,555.81,35,46.6,Oriental,Eau de Cologne,Diseñador,4.0
+CL01122,F,44.0,Norte,Tienda física,Sí,86,10,18147.95,1814.79,36,13.8,Amaderada,Parfum,Diseñador,4.0
+CL00090,M,47.0,Centro,Tienda física,Sí,40,1,1703.22,1703.22,365,58.0,Oriental,Eau de Toilette,Celebridad / masivo,2.0
+CL01196,M,53.0,Poniente,Tienda física,No,62,2,2578.65,1289.33,93,9.3,Oriental,Eau de Parfum,Diseñador,4.0
+CL00273,F,34.0,Poniente,Tienda física,No,18,1,1537.14,1537.14,354,31.2,Floral,Eau de Parfum,Diseñador,4.0
+CL01353,F,44.0,Centro,Tienda física,Sí,6,6,4087.53,681.26,34,77.0,Fresca,Eau de Toilette,Diseñador,5.0
+CL00621,M,51.0,Poniente,En línea,No,31,3,4097.63,1365.88,155,17.2,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL01057, f ,46.0,Sur,Tienda física,No,14,1,2801.33,2801.33,179,42.4,Oriental,Eau de Parfum,Celebridad / masivo,3.0
+CL00183,F,64.0,Poniente,Tienda física,No,20,5,6091.85,1218.37,147,78.4,Oriental,Eau de Toilette,Diseñador,3.0
+CL00769,F,31.0,Centro,En línea,Sí,18,13,25189.46,1937.65,25,2.9,,Eau de Parfum,Nicho,5.0
+CL01123,M,49.0,Norte,En línea,No,11,1,976.3,976.3,80,44.5,Amaderada,Eau de Parfum,Celebridad / masivo,2.0
+CL00509,F,30.0,Centro,En línea,Sí,24,6,5439.19,906.53,60,66.3,Floral,Eau de Toilette,Diseñador,4.0
+CL00023,M,59.0,Norte,En línea,Sí,33,3,5396.53,1798.84,62,38.5,Cítrica,Eau de Cologne,Diseñador,
+CL01063,FEMENINO,30.0,Sur,En línea,Sí,40,3,5883.73,1961.24,93,21.0,Cítrica,Eau de Cologne,Diseñador,4.0
+CL01120,F,41.0,Norte,En línea,No,6,1,2056.9,2056.9,92,16.4,Amaderada,Eau de Toilette,Diseñador,5.0
+CL01452,M,27.0,Norte,Tienda física,No,33,6,9198.44,1533.07,68,51.0,Floral,Parfum,Diseñador,3.0
+CL00354,,37.0,Poniente,En línea,No,14,7,7709.97,1101.42,34,92.7,Floral,Eau de Parfum,Diseñador,3.0
+CL00548,F,28.0,norte,En línea,Sí,10,8,9610.38,1201.3,27,92.4,Cítrica,Eau de Toilette,Diseñador,4.0
+CL01289, f ,46.0,Centro,Tienda física,No,11,5,"$5,705.96",1141.19,51,44.0,Floral,Eau de Cologne,Celebridad / masivo,4.0
+CL01364,F,36.0,Poniente,En línea,No,56,1,483.22,483.22,98,25.4,Cítrica,Parfum,Diseñador,4.0
+CL00420,MASCULINO,41.0,Norte,Tienda física,No,58,4,5867.55,1466.89,103,33.7,Oriental,Eau de Parfum,Celebridad / masivo,3.0
+CL00086,M,41.0,Sur,Tienda física,No,29,5,8831.36,1766.27,186,51.4,Floral,Eau de Toilette,Celebridad / masivo,5.0
+CL00370,M,42.0,Poniente,Tienda física,Sí,49,7,9174.42,1310.63,14,57.1,Fresca,Eau de Parfum,Diseñador,5.0
+CL01294,F,30.0,Norte,En línea,No,3,3,3092.54,1030.85,57,56.9,Cítrica,Eau de Cologne,Celebridad / masivo,4.0
+CL00419,M,45.0,Centro,En línea,Sí,180,10,24229.28,2422.93,6,22.4,Oriental,Eau de Parfum,Nicho,5.0
+CL00402,F,24.0,Norte,Tienda física,Sí,5,7,6840.39,977.2,33,61.2,Cítrica,Eau de Toilette,Celebridad / masivo,5.0
+CL00734,M,33.0,Sur,Tienda física,No,66,9,30270.76,3363.42,19,20.3,Oriental,Eau de Toilette,Celebridad / masivo,4.0
+CL01020,F,21.0,Norte,En línea,No,27,1,1838.85,1838.85,365,48.6,Cítrica,Eau de Parfum,Celebridad / masivo,3.0
+CL00230,F,36.0,Poniente,En línea,No,41,3,4296.44,1432.15,183,21.6,Floral,Eau de Toilette,Diseñador,3.0
+CL01058,F,48.0,Poniente,Tienda física,No,13,1,2242.22,2242.22,57,20.2,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00790,F,42.0,Sur,En línea,No,9,3,5384.6,1794.87,67,18.3,Oriental,Eau de Parfum,Diseñador,4.0
+CL00708,M,39.0,Centro,Tienda física,Sí,63,2,4417.13,2208.56,139,32.2,Fresca,Eau de Parfum,Diseñador,4.0
+CL01240,M,31.0,Centro,Tienda física,No,32,3,6524.47,2174.82,88,19.3,Floral,Eau de Parfum,Diseñador,4.0
+CL00250,F,23.0,Centro,En línea,No,17,6,6299.2,1049.87,53,85.9,Floral,Eau de Cologne,Diseñador,4.0
+CL00365,F,29.0,Centro,Tienda física,Sí,124,1,952.43,952.43,184,21.1,Floral,Eau de Cologne,Diseñador,3.0
+CL01384,Femenino,43.0,Centro,Tienda física,Sí,19,3,1163.81,387.94,74,51.2,,Eau de Toilette,Celebridad / masivo,4.0
+CL00271,F,53.0,Poniente,Tienda física,Sí,87,8,"$10,503.91",1312.99,20,5.3,Oriental,Parfum,Nicho,4.0
+CL00312,M,53.0,Sur,Tienda física,No,36,1,1051.04,1051.04,270,8.9,Cítrica,Parfum,Diseñador,3.0
+CL01094,F,25.0,centro,En línea,No,11,5,3691.46,738.29,38,68.8,Floral,Eau de Toilette,Diseñador,4.0
+CL00515,M,44.0,Sur,En línea,Sí,14,1,1962.44,1962.44,141,40.0,Floral,Eau de Toilette,Diseñador,3.0
+CL01044,M,41.0,Norte,Tienda física,No,53,2,1732.98,866.49,192,31.1,Cítrica,Eau de Parfum,Diseñador,5.0
+CL00580,M,54.0,Centro,Tienda física,No,18,1,1281.35,1281.35,98,47.4,Fresca,Eau de Cologne,Diseñador,3.0
+CL00501,F,43.0,Poniente,Tienda física,No,18,1,1583.88,1583.88,213,31.5,Amaderada,Eau de Toilette,Diseñador,3.0
+CL00189,M,23.0,Poniente,Tienda física,No,2,5,11206.25,2241.25,91,33.7,Cítrica,Eau de Toilette,Diseñador,4.0
+CL01137,M,27.0,Poniente,Tienda física,Sí,22,3,7556.32,2518.77,42,8.0,Amaderada,Eau de Parfum,Diseñador,3.0
+CL01332,F,31.0, Norte ,En línea,No,66,2,4459.65,2229.82,155,65.8,Floral,Eau de Toilette,Diseñador,4.0
+CL00479,F,37.0,Sur,En línea,Sí,18,5,3903.73,780.75,37,64.4,Fresca,Eau de Toilette,Celebridad / masivo,3.0
+CL00253,M,40.0,Norte,En línea,Sí,90,12,"$20,343.08",1695.26,22,3.2,Amaderada,Eau de Toilette,Nicho,4.0
+CL00335,F,56.0,Sur,Tienda física,No,7,5,8187.78,1637.56,171,27.1,Oriental,Parfum,Diseñador,4.0
+CL01442,F,49.0,Norte,Tienda física,Sí,17,8,18985.32,2373.16,24,1.2,Oriental,Parfum,Nicho,4.0
+CL01068,M,31.0,Poniente,Tienda física,Sí,55,11,20116.55,1828.78,41,7.1,Floral,Eau de Parfum,Diseñador,4.0
+CL00911,M,61.0,Sur,Tienda física,Sí,29,16,33538.87,2096.18,20,1.9,Oriental,Eau de Parfum,Nicho,4.0
+CL00833,F,23.0,Centro,Tienda física,Sí,13,8,5029.11,628.64,69,57.6,Amaderada,Eau de Toilette,Celebridad / masivo,4.0
+CL00067,M,30.0,Norte,Tienda física,Sí,46,7,23139.35,3305.62,8,3.2,Oriental,Eau de Parfum,Diseñador,5.0
+CL01186, f ,33.0,SUR,En línea,Sí,18,5,5532.38,1106.48,19,47.7,Cítrica,Eau de Toilette,Diseñador,4.0
+CL00725,M,55.0,Norte,En línea,No,33,2,4640.96,2320.48,78,37.8,Oriental,Eau de Toilette,Diseñador,4.0
+CL00289,M,,Sur,Tienda física,No,11,1,1145.89,1145.89,129,22.9,Oriental,Eau de Cologne,Diseñador,4.0
+CL01416,F,35.0,Norte,En línea,Sí,13,6,5165.79,860.96,59,87.6,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL00764,M,61.0, Centro ,Tienda física,No,119,2,3020.52,1510.26,53,40.6,Cítrica,Eau de Toilette,Nicho,3.0
+CL00140,M,33.0,Poniente,En línea,No,28,4,1994.02,498.51,216,39.8,Amaderada,Eau de Parfum,Diseñador,4.0
+CL00076,M,48.0,Poniente,Tienda física,No,7,3,5426.19,1808.73,101,35.0,Floral,Eau de Cologne,Diseñador,4.0
+CL01104,M,31.0,Norte,Tienda física,Sí,15,2,1392.96,696.48,160,28.7,Cítrica,Eau de Parfum,Celebridad / masivo,3.0
+CL00985,,30.0,Norte,En línea,No,67,9,8671.04,963.45,40,42.8,Amaderada,Eau de Toilette,Diseñador,5.0
+CL00535,M,48.0,Norte,En línea,No,62,3,8876.85,2958.95,118,14.5,Floral,Eau de Toilette,Celebridad / masivo,3.0
+CL01083,M,35.0,Poniente,Tienda física,No,11,4,6206.94,1551.74,89,15.1,Amaderada,Eau de Toilette,Diseñador,5.0
+CL00614,F,40.0,Poniente,Tienda física,No,17,3,"$5,020.19",1673.4,107,23.0,Floral,Eau de Toilette,Celebridad / masivo,5.0
+CL00366,F,31.0,Poniente,En línea,No,23,5,5329.94,1065.99,40,61.9,Floral,Eau de Toilette,Diseñador,4.0
+CL01313,F,40.0,PONIENTE,En línea,No,31,3,4644.99,1548.33,77,26.1,Floral,Eau de Toilette,Diseñador,5.0
+CL01496,M,32.0,Centro,En línea,No,13,1,2784.36,2784.36,131,16.9,Floral,Eau de Parfum,Diseñador,3.0
+CL00074,F,46.0,Poniente,En línea,Sí,46,2,4203.14,2101.57,365,32.8,Fresca,Eau de Toilette,Diseñador,4.0
+CL00260,F,62.0,Norte,Tienda física,Sí,21,2,"$4,479.21",2239.61,93,7.5,Fresca,Eau de Parfum,Diseñador,3.0
+CL01336,F,56.0,Poniente,Tienda física,No,26,2,4017.18,2008.59,34,11.5,Floral,Eau de Toilette,Diseñador,4.0
+CL01241,M,35.0,Centro,Tienda física,Sí,3,4,6714.04,1678.51,12,48.8,Amaderada,Eau de Toilette,Nicho,4.0
+CL00292,mujer,36.0,Sur,En línea,Sí,27,1,585.22,585.22,21,73.0,Fresca,Eau de Toilette,Diseñador,3.0
+CL00227,M,29.0,Poniente,Tienda física,Sí,17,2,5183.18,2591.59,70,11.7,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL01074,F,,Norte,En línea,Sí,33,1,622.01,622.01,337,26.5,Fresca,Parfum,Diseñador,4.0
+CL01177,M,53.0, Poniente ,En línea,No,19,3,5179.47,1726.49,15,37.1,Fresca,Parfum,Celebridad / masivo,4.0
+CL00482,M,22.0,Sur,Tienda física,Sí,21,4,1849.09,462.27,13,80.9,Amaderada,Eau de Parfum,Diseñador,3.0
+CL00293,M,50.0,Norte,En línea,No,41,1,912.3,912.3,173,67.4,Fresca,Eau de Toilette,Diseñador,3.0
+CL00976,,33.0,Sur,Tienda física,No,4,8,11580.58,1447.57,71,75.7,Floral,Eau de Toilette,Diseñador,4.0
+CL01270,F,38.0, Sur ,Tienda física,Sí,21,5,4003.9,800.78,60,42.0,Amaderada,Parfum,Celebridad / masivo,3.0
+CL00297,M,48.0,Poniente,Tienda física,Sí,14,5,13704.3,2740.86,21,24.9,Oriental,Eau de Toilette,Nicho,5.0
+CL01274,F,26.0,Sur,Tienda física,Sí,8,9,10299.48,1144.39,37,59.7,Floral,Eau de Parfum,Diseñador,4.0
+CL01376,mujer,22.0,Sur,En línea,No,34,1,1967.14,1967.14,140,36.4,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00362,M,38.0,Centro,En línea,Sí,84,12,27830.63,2319.22,13,7.7,Oriental,Eau de Parfum,Diseñador,4.0
+CL00661,M,26.0,Norte,Tienda física,No,30,1,1544.3,1544.3,62,13.4,Oriental,Eau de Parfum,Diseñador,3.0
+CL01438,F,33.0,Centro,,Sí,22,9,14968.15,1663.13,22,16.7,Oriental,Parfum,Diseñador,4.0
+CL00464,M,50.0,Centro,Tienda física,No,63,1,1769.34,1769.34,255,26.0,Fresca,Eau de Toilette,Diseñador,4.0
+CL01072,,47.0,Centro,En línea,No,76,3,3035.65,1011.88,197,34.2,Amaderada,Eau de Parfum,Celebridad / masivo,4.0
+CL01141,F,22.0,Norte,En línea,No,13,10,6579.0,657.9,54,61.0,Fresca,Eau de Cologne,Diseñador,5.0
+CL00202,M,35.0,Centro,Tienda física,No,6,1,1058.65,1058.65,41,23.1,Amaderada,Eau de Cologne,Nicho,3.0
+CL00018,M,45.0,Norte,Tienda física,Sí,6,3,1325.48,441.83,27,69.7,Cítrica,Eau de Toilette,Diseñador,4.0
+CL01012,M,37.0,Sur,Tienda física,Sí,14,9,9123.31,1013.7,10,38.8,Amaderada,Parfum,Nicho,4.0
+CL01349,F,39.0,Sur,Tienda física,No,55,6,4225.11,704.18,42,72.8,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL01050,mujer,34.0,Centro,Tienda física,No,20,2,827.42,413.71,239,27.0,Floral,Eau de Cologne,Celebridad / masivo,3.0
+CL01319,F,40.0,Poniente,Tienda física,No,7,2,3082.27,1541.13,142,13.9,Floral,Eau de Toilette,Diseñador,5.0
+CL00817,F,52.0,Norte,En línea,No,30,4,6733.35,1683.34,162,24.2,Floral,Parfum,Celebridad / masivo,3.0
+CL00418, f ,61.0,Norte,Tienda física,No,34,2,2862.03,1431.01,62,33.1,Amaderada,Eau de Cologne,Diseñador,5.0
+CL00917,F,39.0,Norte,Tienda física,No,74,6,8612.04,1435.34,5,19.5,Amaderada,Parfum,Diseñador,5.0
+CL00624,F,40.0,Norte,Tienda física,No,18,7,5560.03,794.29,40,40.9,Floral,Eau de Cologne,Diseñador,3.0
+CL01160,F,18.0, Sur ,En línea,Sí,43,3,1468.22,489.41,41,86.6,Floral,Eau de Toilette,Celebridad / masivo,
+CL00609,M,23.0,Sur,Tienda física,No,21,2,4345.42,2172.71,81,5.5,Amaderada,Eau de Toilette,Diseñador,4.0
+CL00776,F,20.0,Norte,Tienda física,No,17,3,2714.91,904.97,66,39.4,Oriental,Eau de Parfum,Celebridad / masivo,3.0
+CL00762,M,50.0,Poniente,Tienda física,No,61,2,2271.12,1135.56,365,66.1,Cítrica,Eau de Toilette,Diseñador,3.0
+CL00481,F,24.0,Poniente,Tienda física,Sí,24,4,2656.72,664.18,30,88.4,Floral,Eau de Toilette,Diseñador,5.0
+CL01052,M,27.0,Centro,Tienda física,Sí,41,8,6735.25,841.91,50,78.6,Floral,Eau de Toilette,Diseñador,4.0
+CL00718,F,27.0,Sur,Tienda física,Sí,24,6,9778.29,1629.71,100,20.2,Fresca,Eau de Toilette,Diseñador,4.0
+CL00439,hombre,34.0,Poniente,En línea,Sí,36,5,3314.63,662.93,43,76.3,Cítrica,Eau de Toilette,Celebridad / masivo,5.0
+CL00643,M,34.0,Centro,En línea,No,40,17,14388.3,846.37,32,50.4,Floral,Eau de Toilette,Celebridad / masivo,4.0
+CL00029,F,38.0,Centro,En línea,No,32,6,6578.18,1096.36,16,85.2,Fresca,Eau de Toilette,Diseñador,3.0
+CL01024,M,57.0,Centro,En línea,No,17,1,1393.07,1393.07,54,12.7,Amaderada,Eau de Toilette,Celebridad / masivo,4.0
+CL01460,F,40.0,centro,Tienda física,Sí,180,12,28799.76,2399.98,25,1.6,Cítrica,Eau de Parfum,Diseñador,5.0
+CL01437,M,43.0,centro,Tienda física,No,16,1,1960.31,1960.31,48,40.0,Cítrica,Eau de Toilette,Nicho,5.0
+CL00629,F,39.0,Centro,Tienda física,No,47,2,2124.49,1062.25,178,33.6,Cítrica,Eau de Parfum,Diseñador,4.0
+CL00334,F,18.0,Sur,Tienda física,No,46,4,8340.07,2085.02,82,32.6,Fresca,Eau de Toilette,Diseñador,4.0
+CL00078,M,57.0,Norte,Tienda física,No,44,1,818.37,818.37,122,40.5,Floral,Eau de Toilette,Diseñador,4.0
+CL00953,M,44.0,Sur,En línea,No,68,3,3281.5,1093.83,22,61.5,Fresca,Eau de Toilette,Celebridad / masivo,4.0
+CL00795,M,24.0,Sur,Tienda física,No,28,2,2586.92,1293.46,365,31.9,Fresca,Eau de Parfum,Celebridad / masivo,2.0
+CL01415,F,32.0,Sur,Tienda física,No,19,4,7536.42,1884.1,46,30.0,Oriental,Eau de Toilette,Diseñador,3.0
+CL00258,M,40.0,Centro,Tienda física,No,35,1,1297.33,1297.33,249,65.2,Amaderada,Eau de Toilette,Celebridad / masivo,3.0

@@ -1,0 +1,5 @@
+cluster,nombre_cluster,dias_ultima_compra,compras_anuales,gasto_anual,pct_compras_descuento
+0,Clientes premium,27.162,9.475,22773.462,16.011
+1,Cazadores de ofertas,41.228,6.393,5580.744,70.811
+2,Compradores ocasionales,95.107,2.562,4006.275,27.451
+3,Clientes inactivos,250.032,1.31,1487.258,38.125

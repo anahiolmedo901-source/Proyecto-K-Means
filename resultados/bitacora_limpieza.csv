@@ -1,0 +1,9 @@
+revision,encontrados,accion
+Registros duplicados,20,Se eliminaron con drop_duplicates()
+Género escrito de distintas formas,10 variantes,Se unificó en Femenino / Masculino
+Sucursal con mayúsculas y espacios,16 variantes,Se quitaron espacios y se unificó el formato
+Gasto anual guardado como texto,90 valores,Se quitaron '$' y comas y se convirtió a float
+"Edades imposibles (0, 3, 150, 999...)",8,Se marcaron como nulas y se imputaron
+Días desde la última compra negativos,6,Se corrigió el signo (valor absoluto)
+Ticket diferente a gasto / compras,0,Ninguna (los datos son coherentes)
+Valores nulos,115,"Mediana (edad, satisfacción), moda (canal) y categoría 'No especificado' (género, familia)"

@@ -1,0 +1,194 @@
+{
+  "genero": {
+    "Clientes premium": {
+      "Femenino": 60.6,
+      "Masculino": 37.5,
+      "No especificado": 1.8
+    },
+    "Cazadores de ofertas": {
+      "Femenino": 63.6,
+      "Masculino": 35.0,
+      "No especificado": 1.4
+    },
+    "Compradores ocasionales": {
+      "Femenino": 43.3,
+      "Masculino": 55.6,
+      "No especificado": 1.0
+    },
+    "Clientes inactivos": {
+      "Femenino": 50.8,
+      "Masculino": 48.6,
+      "No especificado": 0.6
+    }
+  },
+  "rango_edad": {
+    "Clientes premium": {
+      "18-25": 4.7,
+      "26-35": 22.0,
+      "36-50": 58.8,
+      "51 o más": 14.4
+    },
+    "Cazadores de ofertas": {
+      "18-25": 28.3,
+      "26-35": 40.6,
+      "36-50": 29.5,
+      "51 o más": 1.6
+    },
+    "Compradores ocasionales": {
+      "18-25": 15.3,
+      "26-35": 22.8,
+      "36-50": 47.9,
+      "51 o más": 14.0
+    },
+    "Clientes inactivos": {
+      "18-25": 7.7,
+      "26-35": 17.4,
+      "36-50": 46.6,
+      "51 o más": 28.3
+    }
+  },
+  "familia_olfativa": {
+    "Clientes premium": {
+      "Amaderada": 31.8,
+      "Cítrica": 5.8,
+      "Floral": 23.8,
+      "Fresca": 7.2,
+      "No especificada": 1.8,
+      "Oriental": 29.6
+    },
+    "Cazadores de ofertas": {
+      "Amaderada": 9.4,
+      "Cítrica": 18.7,
+      "Floral": 35.7,
+      "Fresca": 26.0,
+      "No especificada": 0.7,
+      "Oriental": 9.4
+    },
+    "Compradores ocasionales": {
+      "Amaderada": 19.0,
+      "Cítrica": 13.2,
+      "Floral": 28.7,
+      "Fresca": 18.4,
+      "No especificada": 2.3,
+      "Oriental": 18.4
+    },
+    "Clientes inactivos": {
+      "Amaderada": 21.5,
+      "Cítrica": 14.1,
+      "Floral": 29.3,
+      "Fresca": 17.0,
+      "No especificada": 1.0,
+      "Oriental": 17.0
+    }
+  },
+  "concentracion_preferida": {
+    "Clientes premium": {
+      "Eau de Cologne": 5.4,
+      "Eau de Parfum": 49.8,
+      "Eau de Toilette": 20.2,
+      "Parfum": 24.5
+    },
+    "Cazadores de ofertas": {
+      "Eau de Cologne": 18.2,
+      "Eau de Parfum": 22.1,
+      "Eau de Toilette": 55.5,
+      "Parfum": 4.1
+    },
+    "Compradores ocasionales": {
+      "Eau de Cologne": 7.7,
+      "Eau de Parfum": 39.7,
+      "Eau de Toilette": 42.9,
+      "Parfum": 9.6
+    },
+    "Clientes inactivos": {
+      "Eau de Cologne": 11.3,
+      "Eau de Parfum": 35.4,
+      "Eau de Toilette": 43.4,
+      "Parfum": 10.0
+    }
+  },
+  "linea_preferida": {
+    "Clientes premium": {
+      "Celebridad / masivo": 12.6,
+      "Diseñador": 51.3,
+      "Nicho": 36.1
+    },
+    "Cazadores de ofertas": {
+      "Celebridad / masivo": 50.2,
+      "Diseñador": 47.5,
+      "Nicho": 2.3
+    },
+    "Compradores ocasionales": {
+      "Celebridad / masivo": 20.3,
+      "Diseñador": 70.3,
+      "Nicho": 9.4
+    },
+    "Clientes inactivos": {
+      "Celebridad / masivo": 29.3,
+      "Diseñador": 66.9,
+      "Nicho": 3.9
+    }
+  },
+  "canal_preferido": {
+    "Clientes premium": {
+      "En línea": 32.9,
+      "Tienda física": 67.1
+    },
+    "Cazadores de ofertas": {
+      "En línea": 53.0,
+      "Tienda física": 47.0
+    },
+    "Compradores ocasionales": {
+      "En línea": 36.0,
+      "Tienda física": 64.0
+    },
+    "Clientes inactivos": {
+      "En línea": 30.2,
+      "Tienda física": 69.8
+    }
+  },
+  "tarjeta_departamental": {
+    "Clientes premium": {
+      "No": 25.6,
+      "Sí": 74.4
+    },
+    "Cazadores de ofertas": {
+      "No": 44.2,
+      "Sí": 55.8
+    },
+    "Compradores ocasionales": {
+      "No": 75.3,
+      "Sí": 24.7
+    },
+    "Clientes inactivos": {
+      "No": 71.4,
+      "Sí": 28.6
+    }
+  },
+  "sucursal": {
+    "Clientes premium": {
+      "Centro": 36.1,
+      "Norte": 24.9,
+      "Poniente": 15.9,
+      "Sur": 23.1
+    },
+    "Cazadores de ofertas": {
+      "Centro": 32.9,
+      "Norte": 26.0,
+      "Poniente": 19.6,
+      "Sur": 21.4
+    },
+    "Compradores ocasionales": {
+      "Centro": 33.5,
+      "Norte": 25.7,
+      "Poniente": 20.9,
+      "Sur": 19.9
+    },
+    "Clientes inactivos": {
+      "Centro": 31.2,
+      "Norte": 27.3,
+      "Poniente": 18.3,
+      "Sur": 23.2
+    }
+  }
+}

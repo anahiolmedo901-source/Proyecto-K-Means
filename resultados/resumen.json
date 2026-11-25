@@ -1,0 +1,167 @@
+{
+  "registros_originales": 1520,
+  "registros": 1500,
+  "columnas_originales": 16,
+  "nulos_originales": 107,
+  "duplicados_originales": 20,
+  "variables_modelo": [
+    "dias_ultima_compra",
+    "compras_anuales",
+    "gasto_anual",
+    "pct_compras_descuento"
+  ],
+  "k_final": 4,
+  "orden_clusters": [
+    "Clientes premium",
+    "Cazadores de ofertas",
+    "Compradores ocasionales",
+    "Clientes inactivos"
+  ],
+  "iteraciones": 7,
+  "inercia": 1633.69,
+  "silueta": 0.4068,
+  "davies_bouldin": 0.9272,
+  "ari_estabilidad_min": 0.9673,
+  "ari_estabilidad_prom": 0.9844,
+  "registros_por_cluster": {
+    "Clientes premium": 277,
+    "Cazadores de ofertas": 434,
+    "Compradores ocasionales": 478,
+    "Clientes inactivos": 311
+  },
+  "pct_clientes": {
+    "Clientes premium": 18.5,
+    "Cazadores de ofertas": 28.9,
+    "Compradores ocasionales": 31.9,
+    "Clientes inactivos": 20.7
+  },
+  "pct_ventas": {
+    "Clientes premium": 56.1,
+    "Cazadores de ofertas": 21.7,
+    "Compradores ocasionales": 18.0,
+    "Clientes inactivos": 4.3
+  },
+  "ventas_totales": 12548599.18,
+  "valores_recortados": 84,
+  "registros_con_atipico": 294,
+  "casos_frontera": 184,
+  "umbral_frontera": 0.3,
+  "frontera_por_cluster": {
+    "Clientes premium": 22,
+    "Cazadores de ofertas": 31,
+    "Compradores ocasionales": 86,
+    "Clientes inactivos": 45
+  },
+  "centroides": [
+    {
+      "nombre_cluster": "Clientes premium",
+      "dias_ultima_compra": 27.16,
+      "compras_anuales": 9.48,
+      "gasto_anual": 22773.46,
+      "pct_compras_descuento": 16.01
+    },
+    {
+      "nombre_cluster": "Cazadores de ofertas",
+      "dias_ultima_compra": 41.23,
+      "compras_anuales": 6.39,
+      "gasto_anual": 5580.74,
+      "pct_compras_descuento": 70.81
+    },
+    {
+      "nombre_cluster": "Compradores ocasionales",
+      "dias_ultima_compra": 95.11,
+      "compras_anuales": 2.56,
+      "gasto_anual": 4006.28,
+      "pct_compras_descuento": 27.45
+    },
+    {
+      "nombre_cluster": "Clientes inactivos",
+      "dias_ultima_compra": 250.03,
+      "compras_anuales": 1.31,
+      "gasto_anual": 1487.26,
+      "pct_compras_descuento": 38.12
+    }
+  ],
+  "centroides_z": [
+    {
+      "dias_ultima_compra": -0.749,
+      "compras_anuales": 1.203,
+      "gasto_anual": 1.501,
+      "pct_compras_descuento": -0.967,
+      "nombre_cluster": "Clientes premium"
+    },
+    {
+      "dias_ultima_compra": -0.603,
+      "compras_anuales": 0.65,
+      "gasto_anual": 0.118,
+      "pct_compras_descuento": 1.234,
+      "nombre_cluster": "Cazadores de ofertas"
+    },
+    {
+      "dias_ultima_compra": -0.042,
+      "compras_anuales": -0.509,
+      "gasto_anual": -0.208,
+      "pct_compras_descuento": -0.508,
+      "nombre_cluster": "Compradores ocasionales"
+    },
+    {
+      "dias_ultima_compra": 1.573,
+      "compras_anuales": -1.196,
+      "gasto_anual": -1.182,
+      "pct_compras_descuento": -0.079,
+      "nombre_cluster": "Clientes inactivos"
+    }
+  ],
+  "promedios": {
+    "Clientes premium": {
+      "edad": 40.89,
+      "antiguedad_meses": 55.0,
+      "compras_anuales": 9.95,
+      "gasto_anual": 25403.77,
+      "ticket_promedio": 2526.49,
+      "dias_ultima_compra": 27.1,
+      "pct_compras_descuento": 15.96,
+      "satisfaccion": 4.35
+    },
+    "Cazadores de ofertas": {
+      "edad": 31.31,
+      "antiguedad_meses": 28.94,
+      "compras_anuales": 6.74,
+      "gasto_anual": 6265.89,
+      "ticket_promedio": 942.73,
+      "dias_ultima_compra": 41.22,
+      "pct_compras_descuento": 70.88,
+      "satisfaccion": 3.95
+    },
+    "Compradores ocasionales": {
+      "edad": 38.18,
+      "antiguedad_meses": 25.15,
+      "compras_anuales": 2.78,
+      "gasto_anual": 4716.04,
+      "ticket_promedio": 1717.92,
+      "dias_ultima_compra": 95.11,
+      "pct_compras_descuento": 27.45,
+      "satisfaccion": 3.72
+    },
+    "Clientes inactivos": {
+      "edad": 43.56,
+      "antiguedad_meses": 38.02,
+      "compras_anuales": 1.38,
+      "gasto_anual": 1730.18,
+      "ticket_promedio": 1255.7,
+      "dias_ultima_compra": 250.03,
+      "pct_compras_descuento": 38.12,
+      "satisfaccion": 3.2
+    }
+  },
+  "promedio_general": {
+    "edad": 37.81,
+    "antiguedad_meses": 34.43,
+    "compras_anuales": 4.96,
+    "gasto_anual": 8365.73,
+    "ticket_promedio": 1547.11,
+    "dias_ultima_compra": 99.08,
+    "pct_compras_descuento": 40.11,
+    "satisfaccion": 3.79
+  }
+}

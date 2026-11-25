@@ -1,0 +1,9 @@
+variable,Clientes premium,Cazadores de ofertas,Compradores ocasionales,Clientes inactivos,promedio_general
+edad,40.89,31.31,38.18,43.56,37.81
+antiguedad_meses,55.0,28.94,25.15,38.02,34.43
+compras_anuales,9.95,6.74,2.78,1.38,4.96
+gasto_anual,25403.77,6265.89,4716.04,1730.18,8365.73
+ticket_promedio,2526.49,942.73,1717.92,1255.7,1547.11
+dias_ultima_compra,27.1,41.22,95.11,250.03,99.08
+pct_compras_descuento,15.96,70.88,27.45,38.12,40.11
+satisfaccion,4.35,3.95,3.72,3.2,3.79
