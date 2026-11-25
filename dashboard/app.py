@@ -55,8 +55,13 @@ ORDEN_CAT = {"concentracion_preferida": ["Eau de Cologne", "Eau de Toilette",
              "linea_preferida": ["Celebridad / masivo", "Diseñador", "Nicho"],
              "rango_edad": ["18-25", "26-35", "36-50", "51 o más"]}
 
+# Solo se usan las fuentes instaladas para evitar avisos "findfont" en la consola
+from matplotlib import font_manager
+_instaladas = {f.name for f in font_manager.fontManager.ttflist}
+FUENTES = [f for f in ["Segoe UI", "DM Sans", "Helvetica Neue", "Arial", "DejaVu Sans"]
+           if f in _instaladas] or ["DejaVu Sans"]
 plt.rcParams.update({
-    "font.family": ["Segoe UI", "DM Sans", "Helvetica Neue", "Arial", "DejaVu Sans"],
+    "font.family": FUENTES,
     "font.size": 9.5, "text.color": TINTA, "axes.labelcolor": TINTA_SUAVE,
     "axes.edgecolor": LINEA, "axes.linewidth": 0.8, "xtick.color": TINTA_SUAVE,
     "ytick.color": TINTA_SUAVE, "xtick.major.size": 0, "ytick.major.size": 0,

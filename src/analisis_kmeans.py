@@ -56,8 +56,13 @@ pd.set_option("display.width", 150)
 MORADO, ROSA, DORADO, VERDE, GRIS = "#8C84D8", "#E07FA6", "#D9A447", "#4DAE90", "#7A7383"
 DIVERGENTE = LinearSegmentedColormap.from_list("rosa_lavanda", ["#D4668F", "#F4F1EE", "#6E63C2"])
 sns.set_theme(style="whitegrid", font_scale=0.95)
+# Solo se usan las fuentes instaladas para evitar avisos "findfont" en la consola
+from matplotlib import font_manager
+_instaladas = {f.name for f in font_manager.fontManager.ttflist}
+FUENTES = [f for f in ["Segoe UI", "DM Sans", "Helvetica Neue", "Arial", "DejaVu Sans"]
+           if f in _instaladas] or ["DejaVu Sans"]
 plt.rcParams.update({
-    "font.family": ["Segoe UI", "DM Sans", "Helvetica Neue", "Arial", "DejaVu Sans"],
+    "font.family": FUENTES,
     "text.color": "#2B2733", "axes.labelcolor": "#5E5867", "axes.edgecolor": "#E2DCD5",
     "xtick.color": "#5E5867", "ytick.color": "#5E5867", "grid.color": "#EFEAE4",
     "axes.spines.top": False, "axes.spines.right": False, "axes.axisbelow": True,
