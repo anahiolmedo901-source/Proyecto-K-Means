@@ -7,6 +7,8 @@ Proyecto integrador de minería de datos. Se aplica el algoritmo de aprendizaje 
 **Grupo:** IDGS 9-2  
 **Fecha:** 23/Noviembre/2026
 
+**Documentación:** [docs/Proyecto Unidad 3.pdf](docs/Proyecto%20Unidad%203.pdf)
+
 ## Resultados principales
 
 - Se evaluaron valores de K entre 2 y 8. El mejor fue **K = 4** (silueta = 0.407, Davies-Bouldin = 0.927). El modelo es estable: con 10 semillas distintas, el ARI promedio es de 0.984.
@@ -34,7 +36,7 @@ Proyecto integrador de minería de datos. Se aplica el algoritmo de aprendizaje 
 ## Estructura del repositorio
 
 ```
-proyecto_kmeans/
+Proyecto-K-Means/
 ├── data/
 │   ├── original/clientes_perfumeria.csv              # dataset original (con errores)
 │   └── procesado/clientes_perfumeria_clusters.csv    # dataset limpio con el clúster asignado
@@ -47,9 +49,7 @@ proyecto_kmeans/
 ├── graficas/                                         # gráficas generadas por el análisis
 ├── resultados/                                       # métricas, centroides, tablas y salida de consola
 ├── docs/
-│   ├── Documentacion_Proyecto_KMeans.pdf             # documentación del proyecto
-│   ├── Documentacion_Proyecto_KMeans.docx            # versión editable
-│   ├── generar_documento.js                          # script que genera la documentación
+│   ├── Proyecto Unidad 3.pdf                         # documentación del proyecto
 │   └── img/                                          # imágenes usadas en el documento
 ├── requirements.txt
 └── README.md

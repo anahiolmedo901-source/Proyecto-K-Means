@@ -185,7 +185,7 @@ def panel(titulo, nota=""):
 
 def mostrar(fig):
     fig.tight_layout()
-    st.pyplot(fig, use_container_width=True)
+    st.pyplot(fig, width="stretch")
     plt.close(fig)
 
 
@@ -325,7 +325,7 @@ if pagina == "Análisis general":
         estad = datos[NUMERICAS].describe().T.round(2).rename(index=ETIQUETA)
         estad.columns = ["Clientes", "Media", "Desv. est.", "Mínimo", "25%", "Mediana",
                          "75%", "Máximo"]
-        st.dataframe(estad, use_container_width=True)
+        st.dataframe(estad, width="stretch")
 
     with st.expander("Limpieza aplicada a los datos originales"):
         st.markdown(
@@ -336,7 +336,7 @@ if pagina == "Análisis general":
         st.dataframe(bitacora.rename(columns={"revision": "Revisión",
                                               "encontrados": "Encontrados",
                                               "accion": "Acción"}),
-                     use_container_width=True, hide_index=True)
+                     width="stretch", hide_index=True)
 
 # ==================================================================
 # PÁGINA 2. SEGMENTACIÓN MEDIANTE K-MEANS
@@ -486,7 +486,7 @@ else:
                      .agg(list(medidas)).round(2).reindex(presentes).T)
             estad.index = [f"{ETIQUETA[v]} · {medidas[m]}" for v, m in estad.index]
             estad.columns.name = None
-            st.dataframe(estad, use_container_width=True)
+            st.dataframe(estad, width="stretch")
 
     c7, c8 = st.columns(2, gap="medium")
     with c7, st.container(border=True):
@@ -497,7 +497,7 @@ else:
         # Columna de texto: K = 2 no tiene reducción porque no hay K anterior
         tabla_k["Reducción %"] = tabla_k["Reducción %"].map(
             lambda v: "-" if pd.isna(v) else f"{v:.1f}%")
-        st.dataframe(tabla_k, use_container_width=True, hide_index=True)
+        st.dataframe(tabla_k, width="stretch", hide_index=True)
     with c8, st.container(border=True):
         panel("Comparación de configuraciones",
               f"{resumen['casos_frontera']} clientes quedaron casi a la misma distancia de dos "
@@ -506,7 +506,7 @@ else:
                                   "davies_bouldin"]].rename(columns={
                          "configuracion": "Configuración", "registros_por_cluster": "Clientes por clúster",
                          "silueta": "Silueta", "davies_bouldin": "Davies-Bouldin"}),
-                     use_container_width=True, hide_index=True)
+                     width="stretch", hide_index=True)
 
     seccion("Resultados", "Descripción de los grupos identificados",
             "Cifras calculadas sobre los 1,500 clientes; no cambian con los filtros.")
